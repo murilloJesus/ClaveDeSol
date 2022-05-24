@@ -21,6 +21,20 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Auth::routes();
+Route::get('/{resource}', function ($resource)
+{
+    return view("pages.$resource");
+});
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::get('/{folder}/{resource}', function ($folder, $resource)
+{
+    return view("pages.$folder.$resource");
+});
+
+
+
+Route::get('/{group}/{folder}/{resource}', function ($group, $folder, $resource)
+{
+    return view("pages.$group.$folder.$resource");
+});

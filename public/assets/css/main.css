@@ -117,7 +117,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #0f1423;
+		color: #040d1c;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -142,11 +142,11 @@ input, select, textarea {
 		transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
 		color: inherit;
 		text-decoration: none;
-		border-bottom: dotted 1px #ffab00;
+		border-bottom:none ;
 	}
 
 		a:hover {
-			color:#ffab00;
+			color:#ffa466;
 			border-bottom-color: #3d5afe;
 		}
 
@@ -1872,8 +1872,8 @@ input, select, textarea {
 
 			ul.icons li:before {
 				display: inline-block;
-				color: #fbb32f;
-				background: #3d5afe;
+				color: #ffcba7;
+				background: none;
 				width: 2.5em;
 				height: 2.5em;
 				border-radius: 0.35em;
@@ -2100,11 +2100,7 @@ input, select, textarea {
 	#header-wrapper {
 		position: relative;
 		padding: 4em 0 2em 0;
-		background-image: url("images/header.svg");
-		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
-		background-color: #3d5afe;
+		background-color: #0b1f42;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
@@ -2117,7 +2113,6 @@ input, select, textarea {
 
 	#promo-wrapper {
 		position: relative;
-		background-image: url("images/overlay.png"), url("../../images/promo.jpg");
 		background-size: 192px 192px, cover;
 		background-position: top left, center center;
 		color: #fff;
@@ -2131,7 +2126,7 @@ input, select, textarea {
 		border-top: solid 1px #c2c7cc;
 		padding: 6em 0 6em 0;
 		background-image: url("images/overlay.png"), url("images/footer.svg");
-		background-size: 128px 128px,				100% 100%;
+		background-size: 128px 128px,100% 100%;
 	}
 
 /* Header */
@@ -2150,7 +2145,7 @@ input, select, textarea {
 			width: 100%;
 			height: 4em;
 			line-height: 4em;
-			background: #none;
+			background: none;
 			border: solid 1px;
 			border-color: #fff;
 			border-color: #fff;
@@ -2308,15 +2303,15 @@ input, select, textarea {
 		}
 
 		#hero .button {
-			background: #ffab00;
+			background: #fff;
 			border-color: #000000;
 			color: #fff;
 			font-size: 1.25em;
 		}
 
 			#hero .button:hover {
-				border-color: #000000;
-				background-color: #3d5aff;
+				border-color: #576c8e;
+				background-color: #0b1f42;
 				color: #fff;
 			}
 
@@ -2400,7 +2395,7 @@ input, select, textarea {
 		z-index: 1;
 		text-align: center;
 		border-top: solid 1px #d2d7dc;
-		color: #a2a7ac;
+		color: #061226;
 		padding-top: 4em;
 		margin-top: 6em;
 	}
@@ -3113,27 +3108,28 @@ input, select, textarea {
               }
 
             input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover, button:hover, .button:hover {
-                color: #ffab00;
-                border: 1px solid #ffab00;
+                color:  #ffa466;
+                border: 1px solid #ffa466;
                 background: #fff;
                 box-shadow: none;
               }
 
 
               #hero .button, #promo .button  {
-                background-color: #3d4e8a;
+                background-color: #0b1f42;
                 border-color: rgba(0, 0, 0, 0);
-                color: #feeed1;
+                color: #fff;
                 font-size: 1.25em;
                 box-shadow: none;
               }
 
 
             #hero .button:hover, #promo .button:hover  {
-                border-color: rgba(0, 0, 0, 0);
-                color: #fccc74;
-                background: #a6b1d6;
+                border-color:none;
+                color: #fff;
+                background: #576c8e;
                 box-shadow: none;
             }
+
 
 
