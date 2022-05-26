@@ -29,24 +29,52 @@
 									<li>
 										<a href="#">Galerias</a>
 										<ul>
-											<li><a href="#">Lorem ipsum dolor</a></li>
-											<li><a href="#">Magna phasellus</a></li>
-											<li><a href="#">Etiam dolore nisl</a></li>
-											<li>
-												<a href="#">Phasellus consequat</a>
-												<ul>
-													<li><a href="#">Lorem ipsum dolor</a></li>
-													<li><a href="#">Phasellus consequat</a></li>
-													<li><a href="#">Magna phasellus</a></li>
-													<li><a href="#">Etiam dolore nisl</a></li>
-												</ul>
-											</li>
-											<li><a href="#">Veroeros feugiat</a></li>
+											<li><a href="#">FOTOS</a></li>
+											<li><a href="#">FOTOS</a></li>
+											<li><a href="#">FOTOS</a></li>
 										</ul>
 									</li>
-									<li><a href="left-sidebar.html">Metodologia</a></li>
-									<li class="break"><a href="right-sidebar.html">Mural</a></li>
-									<li><a href="no-sidebar.html">Contato</a></li>
+
+									<li><a href="left-sidebar.html">Metodologia</a>
+										<ul>
+											<li>
+												<a href="#">Vivenciar Para Aprender</a>
+											</li>
+											<li><a href="#">Plano de Trabalho</a></li>
+											<li><a href="#">Plano Terapêutico</a></li>
+											<li><a href="#">Musicalização</a></li>
+											<li><a href="#">Educação Fisica</a></li>
+											<li><a href="#">Musicalização</a></li>
+											<li><a href="#">Informática</a></li>
+											<li><a href="#">Culinária</a></li>
+											<li><a href="#">Horta</a></li>
+											<li><a href="#">Piscina</a></li>
+										</ul>
+									</li>
+
+									<li class="break"><a href="right-sidebar.html">Mural</a>
+										<ul>
+											<li><a href="#">Comunicados</a></li>
+											<li><a href="#">Depoimentos</a></li>
+											<li>
+												<a href="#">Curiodidades</a>
+													<ul>
+														<li><a href=""></a></li>
+													</ul>
+											</li>
+											<li><a href="#">Calendario do Ano</a></li>
+										</ul>
+									</li>
+
+
+									<li><a href="no-sidebar.html">Contato</a>
+										<ul>
+											<li><a href="#">Contate-nos</a></li>
+											<li><a href="#">Trabalhe Conosco</a></li>
+										</ul>
+									</li>
+
+
 								</ul>
 							</nav>
 
