@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('pages.inicial');
 });
 
 Auth::routes();
@@ -23,18 +23,30 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::get('/{resource}', function ($resource)
 {
-    return view("pages.$resource");
+    if(file_exists("/resources/views/pages/$resource.blade.php")){
+        return view("pages.$resource");
+    }else{
+        return view("pages.$resource.index");
+    }
 });
 
 
 Route::get('/{folder}/{resource}', function ($folder, $resource)
 {
-    return view("pages.$folder.$resource");
+    if(file_exists("/resources/views/pages/$folder/$resource.blade.php")){
+        return view("pages.$folder.$resource");
+    }else{
+        return view("pages.$folder.$resource.index");
+    }
 });
 
 
 
 Route::get('/{group}/{folder}/{resource}', function ($group, $folder, $resource)
 {
-    return view("pages.$group.$folder.$resource");
+    if(file_exists("/resources/views/pages/$group/$folder/$resource.blade.php")){
+        return view("pages.$group.$folder.$resource");
+    }else{
+        return view("pages.$group.$folder.$resource.index");
+    }
 });

@@ -28,53 +28,44 @@
 								<ul>
 									<li>
 										<a href="#">Galerias</a>
+									</li>
+
+									<li>
+                                        <a href="/metodologia/">Metodologia</a>
 										<ul>
-											<li><a href="#">FOTOS</a></li>
-											<li><a href="#">FOTOS</a></li>
-											<li><a href="#">FOTOS</a></li>
+											<li><a href="/metodologia/vivenciar-para-aprender">Vivenciar Para Aprender</a></li>
+											<li><a href="/metodologia/plano-de-trabalho">Plano de Trabalho</a></li>
+											<li><a href="/metodologia/plano-terapeutico">Plano Terapêutico</a></li>
+											<li><a href="#">Atividades Complementares</a>
+                                                <ul>
+                                                    <li><a href="/metodologia/musicalizacao">Musicalização</a></li>
+                                                    <li><a href="/metodologia/educacao-fisica">Educação Fisica</a></li>
+                                                    <li><a href="/metodologia/informatica">Informática</a></li>
+                                                    <li><a href="/metodologia/culinaria">Culinária</a></li>
+                                                    <li><a href="/metodologia/horta">Horta</a></li>
+                                                    <li><a href="/metodologia/piscina">Piscina</a></li>
+                                                </ul>
+                                            </li>
+
 										</ul>
 									</li>
 
-									<li><a href="left-sidebar.html">Metodologia</a>
-										<ul>
-											<li>
-												<a href="#">Vivenciar Para Aprender</a>
-											</li>
-											<li><a href="#">Plano de Trabalho</a></li>
-											<li><a href="#">Plano Terapêutico</a></li>
-											<li><a href="#">Musicalização</a></li>
-											<li><a href="#">Educação Fisica</a></li>
-											<li><a href="#">Musicalização</a></li>
-											<li><a href="#">Informática</a></li>
-											<li><a href="#">Culinária</a></li>
-											<li><a href="#">Horta</a></li>
-											<li><a href="#">Piscina</a></li>
-										</ul>
-									</li>
-
-									<li class="break"><a href="right-sidebar.html">Mural</a>
+									<li class="break"><a href="/mural/">Mural</a>
 										<ul>
 											<li><a href="#">Comunicados</a></li>
 											<li><a href="#">Depoimentos</a></li>
-											<li>
-												<a href="#">Curiodidades</a>
-													<ul>
-														<li><a href=""></a></li>
-													</ul>
-											</li>
-											<li><a href="#">Calendario do Ano</a></li>
+											<li><a href="#">Curiosidades</a></li>
+											<li><a href="#">Calendário do Ano</a></li>
 										</ul>
 									</li>
 
 
-									<li><a href="no-sidebar.html">Contato</a>
+									<li><a href="/contato">Contato</a>
 										<ul>
 											<li><a href="#">Contate-nos</a></li>
 											<li><a href="#">Trabalhe Conosco</a></li>
 										</ul>
 									</li>
-
-
 								</ul>
 							</nav>
 
@@ -154,8 +145,8 @@
 		</div>
 
 		<!-- Scripts -->
-            <script src="/assets/js/jquery.dropotron.min.js"></script>
             <script src="/assets/js/jquery.min.js"></script>
+            <script src="/assets/js/jquery.dropotron.min.js"></script>
 			<script src="/assets/js/browser.min.js"></script>
 			<script src="/assets/js/breakpoints.min.js"></script>
 			<script src="/assets/js/util.js"></script>
