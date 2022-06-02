@@ -62,7 +62,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
         <p align="justify">Chamamos de avd’s as atividades rotineiras, ou seja, que são realizadas diariamente com
             funções de autocuidado e higiene pessoal. </p>
         <ul class="actions">
-            <li><a href="#" class="button">Veja Mais</a></li>
+            <li><a href="/metodologia/curiosidades/a-pratica-das-atividades-de-vida-diaria-e-sua-importancia/" class="button">Veja Mais</a></li>
         </ul>
     </section>
     <section class="col-4 col-12-narrower feature">
@@ -75,7 +75,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
         <p align="justify">As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz
             e integra o aluno na cultura corporal de movimento e de uma forma </p>
         <ul class="actions">
-            <li><a href="#" class="button">Próxima Pagina</a></li>
+            <li><a href="/metodologia/educacao-fisica/" class="button">Próxima Pagina</a></li>
         </ul>
     </section>
 </div>

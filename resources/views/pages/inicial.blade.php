@@ -30,7 +30,7 @@
                                 Essa metodologia, que renova completamente o Ensino desse Instituto, visa favorecertodos os alunos a vivência do ensino na prática, antes da assimilação concreta (registro), de todo trabalho pedagógico.
                             </p>
                             <ul class="actions">
-                                <li><a href="#" class="button">Veja Mais</a></li>
+                                <li><a href="/metodologia/vivenciar-para-aprender/" class="button">Veja Mais</a></li>
                             </ul>
                         </section>
                         <section class="col-6 col-12-narrower feature">
@@ -44,7 +44,7 @@
                                 esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma qualidade de vida. um desenvolvimento social, afetivo e seja estimulado cognitivamente
                             </p>
                             <ul class="actions">
-                                <li><a href="#" class="button">Veja Mais</a></li>
+                                <li><a href="/metodologia/plano-de-trabalho/" class="button">Veja Mais</a></li>
                             </ul>
                         </section>
                     </div>

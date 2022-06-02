@@ -146,7 +146,7 @@
 									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -160,7 +160,7 @@
 									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/psicologia-escolar/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -169,12 +169,12 @@
 								</div>
 								<header>
 									<h3 align="center">
-										Vivenciar para Aprender Metodologia de Ensino Pedagógico do Instituto de Educação Especial Clave de Sol
+										 Metodologia de Ensino do Instituto de...
 									</h3>
 								</header>
 								<p align="justify">O Instituto visa a qualidade de ensino na vivência do aprender... Todo aluno com distúrbios de aprendizagem ou ainda laudado que exija uma atenção </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

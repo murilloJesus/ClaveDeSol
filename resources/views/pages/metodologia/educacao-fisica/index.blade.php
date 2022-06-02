@@ -134,7 +134,7 @@
         <p align="justify">Chamamos de avd’s as atividades rotineiras, ou seja, que são realizadas diariamente com
             funções de autocuidado e higiene pessoal. </p>
         <ul class="actions">
-            <li><a href="#" class="button">Veja Mais</a></li>
+            <li><a href="/metodologia/curiosidades/a-pratica-das-atividades-de-vida-diaria-e-sua-importancia/" class="button">Veja Mais</a></li>
         </ul>
     </section>
     <section class="col-4 col-12-narrower feature">
@@ -147,7 +147,7 @@
         <p align="justify">O principal objetivo da Horta na unidade Recanto é o de propiciar a qualidade de vida,
             oferecendo um acompanhamento especializado aos </p>
         <ul class="actions">
-            <li><a href="#" class="button">Veja Mais</a></li>
+            <li><a href="/metodologia/horta/" class="button">Veja Mais</a></li>
         </ul>
     </section>
     <section class="col-4 col-12-narrower feature">
@@ -160,7 +160,7 @@
         <p align="justify">As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com
             o computador, materiais digitais, além de </p>
         <ul class="actions">
-            <li><a href="#" class="button">Próxima Pagina</a></li>
+            <li><a href="/metodologia/informatica/" class="button">Próxima Pagina</a></li>
         </ul>
     </section>
 </div>

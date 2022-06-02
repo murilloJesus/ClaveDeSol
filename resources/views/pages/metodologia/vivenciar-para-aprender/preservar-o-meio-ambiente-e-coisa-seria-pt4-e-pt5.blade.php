@@ -107,7 +107,7 @@
 									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -121,7 +121,7 @@
 									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -135,7 +135,7 @@
 									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária.
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/piscina/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

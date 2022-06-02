@@ -1,3 +1,4 @@
+
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
@@ -190,7 +191,7 @@
 								</header>
 								<p align="justify">A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/piscina/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -204,7 +205,7 @@
 									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-1º-ano-(pt1)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -218,7 +219,7 @@
 									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">

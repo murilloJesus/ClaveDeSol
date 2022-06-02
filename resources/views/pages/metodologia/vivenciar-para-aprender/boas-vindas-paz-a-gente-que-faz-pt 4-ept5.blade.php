@@ -136,7 +136,7 @@
 									Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -150,7 +150,7 @@
 									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -164,7 +164,7 @@
 									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

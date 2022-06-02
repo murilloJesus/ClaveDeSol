@@ -25,7 +25,7 @@
 								</header>
 								<p align="justify">As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/educacao-fisica/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -37,7 +37,7 @@
 								</header>
 								<p align="justify">As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/informatica/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -51,7 +51,7 @@
 								</header>
 								<p align="justify"> O Instituto visa a experiência dos alunos com a música de forma a englobar aspectos ainda não adquiridos ou até mesmo aprimorar os </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/musicalizacao/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

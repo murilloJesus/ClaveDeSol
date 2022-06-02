@@ -71,7 +71,7 @@
 									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -85,7 +85,7 @@
 									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -99,7 +99,7 @@
 									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária.
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="metodologia/culinaria/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

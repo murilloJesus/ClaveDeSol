@@ -215,7 +215,7 @@
 										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização
 							    </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-(pt5)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -229,7 +229,7 @@
 									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -243,7 +243,7 @@
 									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-culinaria/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

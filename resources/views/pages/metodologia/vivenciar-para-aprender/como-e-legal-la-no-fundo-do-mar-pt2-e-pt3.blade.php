@@ -202,7 +202,7 @@
 									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -216,7 +216,7 @@
 									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -230,7 +230,7 @@
 									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

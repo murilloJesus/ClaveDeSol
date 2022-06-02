@@ -160,7 +160,7 @@
 									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-1º-ano-(pt1)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -174,7 +174,7 @@
 									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -188,7 +188,7 @@
 									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

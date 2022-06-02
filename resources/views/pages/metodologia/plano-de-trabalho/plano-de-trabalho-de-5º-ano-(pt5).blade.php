@@ -193,7 +193,7 @@
 									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -207,7 +207,7 @@
 									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -221,7 +221,7 @@
 									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

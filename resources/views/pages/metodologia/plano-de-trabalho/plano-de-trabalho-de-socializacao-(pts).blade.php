@@ -238,7 +238,7 @@
 									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -252,7 +252,7 @@
 									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-culinaria/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -266,7 +266,7 @@
 									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

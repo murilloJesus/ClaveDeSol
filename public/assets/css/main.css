@@ -3132,4 +3132,11 @@ input, select, textarea {
             }
 
 
+            /* alterações dos cards itens*/
+
+            section h3 {
+  				height: 5em;
+  				margin: 0px 0px 10px;
+  			}
+
 

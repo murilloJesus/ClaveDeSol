@@ -39,7 +39,7 @@
 								</header>
 								<p align="justify">A escola é uma importante etapa na construção do individuo, as experiências adquiridas durante esse período serão determinantes para o seu </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/curiosidades/a-importancia-da-educacao-fisica-escolar-no-desenvolvimento-infantil" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -51,7 +51,7 @@
 								</header>
 								<p align="justify">As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/educacao-fisica/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -63,7 +63,7 @@
 								</header>
 								<p align="justify">O principal objetivo da Horta na unidade Recanto é o de propiciar a qualidade de vida, oferecendo um acompanhamento especializado aos </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/horta/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

@@ -93,7 +93,7 @@
 								</header>
 								<p align="justify">Objetivo: O ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="button">Veja mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -107,7 +107,7 @@
 										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								 </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="button">Veja mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -121,7 +121,7 @@
 									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="button">Veja mais</a></li>
 								</ul>
 							</section>
 						</div>

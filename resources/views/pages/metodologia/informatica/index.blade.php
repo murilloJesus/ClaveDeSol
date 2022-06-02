@@ -31,7 +31,7 @@
 								</header>
 								<p align="justify">O principal objetivo da Horta na unidade Recanto é o de propiciar a qualidade de vida, oferecendo um acompanhamento especializado aos </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/horta/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -45,7 +45,7 @@
 								</header>
 								<p align="justify">O Instituto visa a experiência dos alunos com a música de forma a englobar aspectos ainda não adquiridos ou até mesmo aprimorar os </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/musicalizacao/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -57,7 +57,7 @@
 								</header>
 								<p align="justify">A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/piscina/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

@@ -198,7 +198,7 @@
 									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -212,7 +212,7 @@
 									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/psicologia-escolar/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -226,7 +226,7 @@
 									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

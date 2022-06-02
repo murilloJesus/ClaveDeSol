@@ -124,7 +124,7 @@
 									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -138,7 +138,7 @@
 									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -152,7 +152,7 @@
 									A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-terapeutico/terapia-ocupacional/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

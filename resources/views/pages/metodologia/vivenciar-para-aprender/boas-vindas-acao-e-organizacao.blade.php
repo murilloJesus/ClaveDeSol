@@ -135,12 +135,12 @@
 								</div>
 								<header>
 									<h3 align="center">
-										Vivenciar para Aprender Metodologia de Ensino Pedagógico do Instituto de Educação Especial Clave de Sol
+										Vivenciar para Aprender...
 									</h3>
 								</header>
 								<p align="justify">O Instituto visa a qualidade de ensino na vivência do aprender... Todo aluno com distúrbios de aprendizagem ou ainda laudado que exija uma atenção </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -154,7 +154,7 @@
 										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -168,7 +168,7 @@
 										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

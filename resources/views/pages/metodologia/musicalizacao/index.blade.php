@@ -387,7 +387,7 @@
 								</header>
 								<p align="justify">As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/informatica/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -399,7 +399,7 @@
 								</header>
 								<p align="justify">A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/piscina/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -413,7 +413,7 @@
 									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

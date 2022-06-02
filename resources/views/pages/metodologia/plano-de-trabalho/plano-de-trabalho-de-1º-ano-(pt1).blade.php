@@ -165,7 +165,7 @@
 									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -179,7 +179,7 @@
 									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -193,7 +193,7 @@
 									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="button">Veja Mais</a></li>
 								<ul class="actions">
 								</ul>
 							</section>

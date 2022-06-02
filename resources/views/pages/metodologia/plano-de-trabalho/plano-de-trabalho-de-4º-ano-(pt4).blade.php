@@ -151,7 +151,7 @@
 									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -165,7 +165,7 @@
 										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização
 							    </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-(pt5)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -179,7 +179,7 @@
 									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

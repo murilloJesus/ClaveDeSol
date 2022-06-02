@@ -125,7 +125,7 @@
 									O ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -139,7 +139,7 @@
 									todos que quiserem são bem vindos, e os que não quiserem vão se integrar nessas voltas as aulas 2019
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -153,7 +153,7 @@
 										o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>

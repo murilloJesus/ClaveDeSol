@@ -165,7 +165,7 @@
 									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -179,7 +179,7 @@
 									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia,
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -193,7 +193,7 @@
 										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização
 							    </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-(pt5)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 						</div>
