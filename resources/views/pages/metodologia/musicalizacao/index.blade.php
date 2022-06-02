@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -77,7 +77,7 @@
 										estimular a visão e audição;
 									</li>
 								</ul>
-								<h3> 
+								<h3>
 									Noções Básicas:
 								</h3>
 								<ul>
@@ -300,7 +300,7 @@
 								 <h3>P.T.5.A- (plano de trabalho para sala de aceleração- inclusão)- (5º ano)
 								 </h3>
 								 <p>
-								 	 Plano desenvolvido para alunos que já possuem apresentam um bom senso crítico, adquiriu uma boa organização pessoal e independência. Essa sala tem como objetivo principal estruturar e aprimorar a aprendizagem do aluno para ser incluído na rede regular. 
+								 	 Plano desenvolvido para alunos que já possuem apresentam um bom senso crítico, adquiriu uma boa organização pessoal e independência. Essa sala tem como objetivo principal estruturar e aprimorar a aprendizagem do aluno para ser incluído na rede regular.
 								 </p>
 								 <h3>Apoio Educacional:</h3>
 								 <ul>
@@ -370,7 +370,7 @@
 
 								 <p>
 								 	<b>
-								 		Jurandir 
+								 		Jurandir
 								 <br>Educador Social - Arte Educação</br>
 								 	</b>
 								</p>
@@ -409,8 +409,8 @@
 								<header>
 									<h3 align="center">Plano de Trabalho de Oficina (PTO) </h3>
 								</header>
-								<p align="justify">	
-									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma 
+								<p align="justify">
+									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Próxima Pagina</a></li>

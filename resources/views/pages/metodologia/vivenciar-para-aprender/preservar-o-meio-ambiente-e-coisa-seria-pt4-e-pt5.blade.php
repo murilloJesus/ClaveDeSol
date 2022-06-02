@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -7,7 +7,7 @@
 								</header>
 
 								<p>
-									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por este motivo, vamos abordar o tema <b>apresentando a natureza com suas belezas, curiosidades e fragilidades. Mostrar lados negativos e positivos da ação do homem e valorizar a preservação. </b> 
+									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por este motivo, vamos abordar o tema <b>apresentando a natureza com suas belezas, curiosidades e fragilidades. Mostrar lados negativos e positivos da ação do homem e valorizar a preservação. </b>
 								</p>
 
 								<p>
@@ -23,7 +23,7 @@
 								</p>
 
 								<ul>
-									
+
 									<li>
 										A natureza;
 									</li>
@@ -59,7 +59,7 @@
 								</h3>
 
 								<ul>
-									
+
 									<li>
 										<b>Uma aula-passeio ao redor da escola para observar a quantidade de detritos jogado nas ruas: constatação de desrespeito;</b>
 									</li>
@@ -103,8 +103,8 @@
 								<header>
 									<h3 align="center">Como é legal lá no fundo do mar - PT2 e PT3</h3>
 								</header>
-								<p align="justify">	
-									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este 
+								<p align="justify">
+									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -118,7 +118,7 @@
 									<h3 align="center">Histórias carnavalescas </h3>
 								</header>
 								<p align="justify">
-									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a 
+									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -132,7 +132,7 @@
 									<h3>Culinaria</h3>
 								</header>
 								<p align="justify">
-									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária. 
+									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária.
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Próxima Pagina</a></li>

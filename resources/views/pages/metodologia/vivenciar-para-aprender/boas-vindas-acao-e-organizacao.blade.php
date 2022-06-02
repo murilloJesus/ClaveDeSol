@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -24,7 +24,7 @@
 								</p>
 
 								<ul>
-									
+
 
 									<li>
 										Meu Nome É
@@ -101,7 +101,7 @@
 								</p>
 
 								<ul>
-									
+
 									<li>
 										”Calendário”- é importante que desde o primeiro dia possamos ter o calendário para eles visualizarem e registrarem para organizar os acontecimentos e compreender as questões de tempo.
 									</li>
@@ -118,7 +118,7 @@
 									</li>
 
 								</ul>
-								
+
 
 									<p align="center"> <b>“Que esse ano seja cheio de surpresas e felicidade”</b>
 
@@ -134,7 +134,7 @@
 									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3 align="center"> 
+									<h3 align="center">
 										Vivenciar para Aprender Metodologia de Ensino Pedagógico do Instituto de Educação Especial Clave de Sol
 									</h3>
 								</header>
@@ -151,7 +151,7 @@
 									<h3 align="center"> Boas Vindas - PT2 E PT3</h3>
 								</header>
 								<p align="justify">
-										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,  
+										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -165,7 +165,7 @@
 									<h3 align="center">Boas vindas: paz a gente que faz - PT 4 e PT5</h3>
 								</header>
 								<p align="justify">
-										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos, 
+										Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

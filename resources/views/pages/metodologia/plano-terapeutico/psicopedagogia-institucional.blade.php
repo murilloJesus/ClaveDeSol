@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -55,20 +55,20 @@
 								</p>
 								<h3>Psicopedagogia junto a Equipe Terapêutica</h3>
 								<p>
-									Sendo um profissional atuante e parte da equipe multidisciplinar, pelas abordagens psicológicas, pedagógicas e principalmente necessitar positivamente de outras contribuições terapêuticas que envolve o desenvolvimento e atuar humano, sua atuação será partilhada e junto a equipe do instituto, buscará por trocas profissionais e intervenções, afim de sanar as necessidades apuradas, também para estar contribuindo com os demais profissionais terapêuticos.  
+									Sendo um profissional atuante e parte da equipe multidisciplinar, pelas abordagens psicológicas, pedagógicas e principalmente necessitar positivamente de outras contribuições terapêuticas que envolve o desenvolvimento e atuar humano, sua atuação será partilhada e junto a equipe do instituto, buscará por trocas profissionais e intervenções, afim de sanar as necessidades apuradas, também para estar contribuindo com os demais profissionais terapêuticos.
 								</p>
 								<h3>Conclusão</h3>
 								<p>
 									Consequentemente a Psicopedagogia tendo a aprendizagem humana como alvo de inquirição, o qual se ampara para sua intervenção e pesquisa em variadas vertentes como menciona (Bossa 1944), ou seja a psicopedagogia refere-se a uma área de conhecimento e de atuação profissional voltada para a <b>temática da aprendizagem do indivíduo que aprende.</b>
 								</p>
 								<p>
-									Sendo assim, com acreditando, atuando e tendo ética, alternativas de comunicativas, sabendo ouvir, buscando equilíbrio emocional, empatia e comprometimento, nas questões dos conhecimento psicopedagógico o profissional de psicopedagogia leva a crer que o ato de pensar e de aprender deve ser valorizado e oportunizado entre as potencialidades, insuficiências, dificuldades e habilidades, ampliando a compreensão sobre as particularidades e necessidades de aprendizagem viabilizando recursos para atender a estas. 
+									Sendo assim, com acreditando, atuando e tendo ética, alternativas de comunicativas, sabendo ouvir, buscando equilíbrio emocional, empatia e comprometimento, nas questões dos conhecimento psicopedagógico o profissional de psicopedagogia leva a crer que o ato de pensar e de aprender deve ser valorizado e oportunizado entre as potencialidades, insuficiências, dificuldades e habilidades, ampliando a compreensão sobre as particularidades e necessidades de aprendizagem viabilizando recursos para atender a estas.
 								</p>
 								<p>
 									<b>Desta forma, o fazer pedagógico se transforma, podendo se tornar uma ferramenta poderosa (WEISS, 1997).</b>
 								</p>
 
-								<p> 
+								<p>
 									<b>
 										Elisangela A.de Camargo Alencar
 									<br>
@@ -88,7 +88,7 @@
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o 
+									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -102,7 +102,7 @@
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o 
+									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -116,7 +116,7 @@
 									<h3 align="center">Terapia ocupacional educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que 
+									A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -8,20 +8,20 @@
 								</header>
 
 								<h3>
-									Justificativa 
+									Justificativa
 								</h3>
 
 								<p>
-									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e esclarecer prováveis dúvidas sobre essa área de competência. Mais especificamente, apoiadas nos princípios éticos que regem a profissão, nas políticas públicas de Saúde e Educação. 
+									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e esclarecer prováveis dúvidas sobre essa área de competência. Mais especificamente, apoiadas nos princípios éticos que regem a profissão, nas políticas públicas de Saúde e Educação.
 								</p>
 								<p>
-									A Fonoaudiologia é a ciência que tem como objeto de estudo a comunicação humana em todas as suas dimensões e ciclos de vida. Abrange os aspectos referentes à linguagem oral, escrita e sinalizada, fluência, articulação da fala, voz, às estruturas/ funções orofaciais (respiração, mastigação e deglutição), funções auditiva e vestibular (equilíbrio) e aos sistemas de comunicação alternativos, aumentativos ou suplementares, entre outros. 
+									A Fonoaudiologia é a ciência que tem como objeto de estudo a comunicação humana em todas as suas dimensões e ciclos de vida. Abrange os aspectos referentes à linguagem oral, escrita e sinalizada, fluência, articulação da fala, voz, às estruturas/ funções orofaciais (respiração, mastigação e deglutição), funções auditiva e vestibular (equilíbrio) e aos sistemas de comunicação alternativos, aumentativos ou suplementares, entre outros.
 								</p>
 								<p>
 									A interface da Fonoaudiologia com a Educação pode se dar por meio de ações clínicas e de prevenção e promoção da Saúde pela demandas relativas aos problemas da comunicação humana e à aprendizagem.
 								</p>
 								<p>
-									A atuação da fonoaudiologia neste instituto de educação especial pressupõe na intervenção preventiva, orientativa e interativa com atividades de promoção da saúde e qualidade de vida nos diversos contextos institucional. 
+									A atuação da fonoaudiologia neste instituto de educação especial pressupõe na intervenção preventiva, orientativa e interativa com atividades de promoção da saúde e qualidade de vida nos diversos contextos institucional.
 								</p>
 								<h3>
 									  Objetivos gerais
@@ -39,7 +39,7 @@
 									Promover as potencialidades comunicativas, afetivo-emocionais, sociais e aprendizagem.
 								</p>
 								<h3>
-									 Objetivos específicos 
+									 Objetivos específicos
 								</h3>
 
 								<ul>
@@ -86,7 +86,7 @@
 										Realizar ações direcionadas ao aprimoramento das habilidades comunicativas (fala, voz e fluência) da equipe escolar;
 									</li>
 									<li>
-										Contribuir para a inclusão efetiva, promovendo a acessibilidade na comunicação e auxiliando na definição dos melhores meios e técnicas de intervenção. 
+										Contribuir para a inclusão efetiva, promovendo a acessibilidade na comunicação e auxiliando na definição dos melhores meios e técnicas de intervenção.
 									</li>
 								</ul>
 								<h3>
@@ -96,7 +96,7 @@
 									Utilização de métodos e técnicas fonoaudiólogas, afim de contribuir e minimizar as dificuldades apresentadas no âmbito escolar, relacionado ao contexto fonoaudiologico.
 								</p>
 								<h3>
-									Estratégias 
+									Estratégias
 								</h3>
 								<ul>
 									<li>
@@ -157,7 +157,7 @@
 									<li>
 										Sonorização das Letras;
 									</li>
-									<li> 
+									<li>
 										Fonologia;
 									</li>
 									<li>
@@ -168,12 +168,12 @@
 									<li>
 										Palestras;
 									</li>
-									<li> 
+									<li>
 										Expressão corporal.
-									</li> 
+									</li>
 								</ul>
 								<h3>
-									 Conclusão 
+									 Conclusão
 								</h3>
 								<p>
 									 A fonoaudiologia compromete-se em trabalhar para minimizar dentro do seu campo de atuação, os fatores prejudiciais para o desenvolvimento dos alunos, orientando, trabalhando e os acompanhando. O​ principal objetivo é favorecer a qualidade de vida envolvendo a linguagem com as questões pedagógicas e sociais.
@@ -195,7 +195,7 @@
 									<h3 align="center">Plano de Trabalho de Socialização (PTS)</h3>
 								</header>
 								<p align="justify">
-									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus 
+									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -209,7 +209,7 @@
 									<h3 align="center">Plano de trabalho psicologia escolar 2021 </h3>
 								</header>
 								<p align="justify">
-									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este 
+									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -223,7 +223,7 @@
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o 
+									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

@@ -1,11 +1,11 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
+
+@section('title')
+    Culinária
+@endsection
 
 @section('content')
 <article id="content">
-
-    <header>
-        <h2 align="center">Culinária </h2>
-    </header>
     <p>
         A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de
         Trabalho de Culinária.

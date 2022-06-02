@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 								<header>
@@ -118,7 +118,7 @@
 									<h3 align="center">O outro: Quem tem um amigo tem um tesouro </h3>
 								</header>
 								<p align="justify">
-									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade, 
+									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja mais</a></li>

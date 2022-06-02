@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 	<article id="content">
 								<header>
@@ -156,7 +156,7 @@
 									Divisão dos temas
 								</h3>
 								<p>
-									<b>Grupos para o projeto: como é legal lá no fundo do mar – turma da manhã</b> 
+									<b>Grupos para o projeto: como é legal lá no fundo do mar – turma da manhã</b>
 								</p>
 								<p>
 									Grupo 1: tati e silmara - baleia
@@ -180,7 +180,7 @@
 									Grupo 7: sueli e luciana – tartaruga e corais
 								</p>
 								<p>
-									<b>Turmas da tarde:</b> 
+									<b>Turmas da tarde:</b>
 								</p>
 								<p>
 									Grupo 1: valéria e luciana - lagosta e peixe de aquário
@@ -199,7 +199,7 @@
 									<h3 align="center">O outro: Quem tem um amigo tem um tesouro <h3>
 								</header>
 								<p align="justify">
-									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade, 
+									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -213,7 +213,7 @@
 									<h3 align="center">Histórias carnavalescas </h3>
 								</header>
 								<p align="justify">
-									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a 
+									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -227,7 +227,7 @@
 									<h3 align="center">Educação ambiental! Preservar o meio ambiente é coisa séria! </h3>
 								</header>
 								<p align="justify">
-									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por 
+									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

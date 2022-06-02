@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -13,7 +13,7 @@
 									Conteúdos:
 								</h3>
 								<h3>
-									Língua Portuguesa: 
+									Língua Portuguesa:
 								</h3>
 								<ul>
 									<li>
@@ -162,7 +162,7 @@
 									<h3 align="center">Plano de Trabalho de 2º ano (PT2) </h3>
 								</header>
 								<p align="justify">
-									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir 
+									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -176,7 +176,7 @@
 									<h3 align="center">Plano de Trabalho de 4º ano (PT4)</h3>
 								</header>
 								<p align="justify">
-									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia, 
+									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -190,7 +190,7 @@
 									<h3 align="center">Plano de Trabalho de 5º ano (PT5) </h3>
 								</header>
 								<p align="justify">
-										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização 
+										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização
 							    </p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

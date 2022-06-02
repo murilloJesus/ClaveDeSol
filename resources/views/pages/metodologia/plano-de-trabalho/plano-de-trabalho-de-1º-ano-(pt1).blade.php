@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -161,8 +161,8 @@
 							<header>
 									<h3 align="center">Plano de Trabalho de Oficina (PTO) </h3>
 								</header>
-								<p align="justify">	
-									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma 
+								<p align="justify">
+									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -176,7 +176,7 @@
 									<h3 align="center">Plano de Trabalho de 2º ano (PT2)</h3>
 								</header>
 								<p align="justify">
-									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir 
+									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -190,7 +190,7 @@
 									<h3 align="center">Plano de Trabalho de 3º ano (PT3) </h3>
 								</header>
 								<p align="justify">
-									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da 
+									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

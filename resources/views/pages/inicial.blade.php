@@ -1,7 +1,20 @@
 @extends('layouts.front')
 
-@section('content')
+@section('hero')
+    <section id="hero" class="container">
+        <header>
+            <h2>Instituto de Educação Especial
+            <br /> Clave de Sol </h2>
+        </header>
+        <p>Contamos com Vocês para podermos continuar cuidando
+        <br /> de nossas Pequenas Estrelas</p>
+        <ul class="actions">
+            <li><a href="#" class="button">Faça sua Doação</a></li>
+        </ul>
+    </section>
+@endsection
 
+@section('content')
 			<!-- Features 1 -->
             <div class="wrapper">
                 <div class="container">

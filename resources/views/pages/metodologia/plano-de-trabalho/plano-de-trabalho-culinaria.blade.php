@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -7,7 +7,7 @@
 								</header>
 
 								<p>
-									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar diversos sabores, colocando em prática toda parte pedagógica.Propiciar ao aluno uma atividade voltada a tarefas caseiras, atividade diferenciada do cotidiano, determinando toda organização e cada passo a ser elaborado dentro da receita. 
+									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar diversos sabores, colocando em prática toda parte pedagógica.Propiciar ao aluno uma atividade voltada a tarefas caseiras, atividade diferenciada do cotidiano, determinando toda organização e cada passo a ser elaborado dentro da receita.
 								</p>
 
 								<h3>
@@ -126,7 +126,7 @@
 									<h3 align="center">Plano de Trabalho de Socialização (PTS)</h3>
 								</header>
 								<p align="justify">
-									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus 
+									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -140,7 +140,7 @@
 									<h3 align="center">Fonoaudiologia escolar - 2021</h3>
 								</header>
 								<p align="justify">
-									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e 
+									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -154,7 +154,7 @@
 									<h3 align="center">Plano de trabalho psicologia escolar 2021 </h3>
 								</header>
 								<p align="justify">
-									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este 
+									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Próxima Pagina</a></li>

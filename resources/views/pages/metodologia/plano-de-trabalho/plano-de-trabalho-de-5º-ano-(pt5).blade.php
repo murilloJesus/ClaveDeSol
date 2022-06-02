@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -16,7 +16,7 @@
 								</h3>
 								<ul>
 									<li>
-										Treino ortográfico 
+										Treino ortográfico
 									</li>
 									<li>
 										Escrita espontânea;
@@ -58,7 +58,7 @@
 										Jogos com letras móveis e palavras móveis;
 									</li>
 									<li>
-										Bingo de palavras; 
+										Bingo de palavras;
 									</li>
 									<h3>
 										Matemática:
@@ -190,7 +190,7 @@
 									<h3 align="center">Plano de Trabalho de 4º ano (PT4)</h3>
 								</header>
 								<p align="justify">
-									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia, 
+									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -204,7 +204,7 @@
 									<h3 align="center">Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>
 								</header>
 								<p align="justify">
-									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino 
+									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -218,7 +218,7 @@
 									<h3 align="center">Plano de Trabalho de Socialização (PTS)</h3>
 								</header>
 								<p align="justify">
-									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus 
+									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

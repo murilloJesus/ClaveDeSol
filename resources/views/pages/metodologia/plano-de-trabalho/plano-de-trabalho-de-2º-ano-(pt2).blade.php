@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -157,7 +157,7 @@
 									<h3 align="center">Plano de Trabalho de 1º ano (PT1) </h3>
 								</header>
 								<p align="justify">
-									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites, 
+									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -171,7 +171,7 @@
 									<h3 align="center">Plano de Trabalho de 3º ano (PT3) </h3>
 								</header>
 								<p align="justify">
-									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da 
+									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -185,7 +185,7 @@
 									<h3 align="center">Plano de Trabalho de 4º ano (PT4)</h3>
 								</header>
 								<p align="justify">
-									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia, 
+									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

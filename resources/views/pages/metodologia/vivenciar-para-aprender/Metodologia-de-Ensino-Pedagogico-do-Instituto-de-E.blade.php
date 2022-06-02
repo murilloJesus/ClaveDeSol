@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 	<article id="content">
 								<header>
@@ -8,15 +8,15 @@
 								<h3>Visão Geral</h3>
 								<p>
 									O Instituto visa a qualidade de ensino na vivência do aprender...
-								<br> 
+								<br>
 									Todo aluno com distúrbios de aprendizagem ou ainda laudado que exija uma atenção maior no seu desenvolvimento, seja ele de âmbito, motor, visual, afetivo, social, comportamental ou  cognitivo, que após uma avaliação psicopedagógica, possa ser inserido no Instituto deve Vivenciar para aprender....
 								</br>
 								</p>
-								<h3> 
+								<h3>
 									Metodologia vivenciar para aprender
 								</h3>
 								<p>
-									A <b>Metodologia Vivenciar para Aprender,</b> surgiu de críticas e sugestões sobre o programa de Ensino já estabelecido neste Instituto, que vem passando por grandes inovações, adequações em todos os setores. 
+									A <b>Metodologia Vivenciar para Aprender,</b> surgiu de críticas e sugestões sobre o programa de Ensino já estabelecido neste Instituto, que vem passando por grandes inovações, adequações em todos os setores.
 									<br>
 										Essa metodologia, que renova completamente o Ensino desse Instituto, visa favorecertodos os alunos a vivência  do ensino na prática,  antes da assimilação concreta (registro), de todo trabalho pedagógico.
 									</br>
@@ -83,7 +83,7 @@
 									</li>
 									<li>
 										<b>PT O- (Plano De Trabalho Para Oficina)</b> - (Plano desenvolvido para alunos que com ênfase na unidade do Recanto)- alunos que não apresentam perspectivas para o Ensino Regular, já estão acima da idade escolar, apresentam boa ou baixa compreensão, precisam de independência em A.V.D, A.V.P., socialização, tolerância, criatividade, aperfeiçoamento de seus afazeres do dia a dia, disciplina ,  autonomia na realização de seus desejos e aptidão na resoluções de pequenos problemas sócias.(caso Sidnei)
-									</li> 
+									</li>
 								</ul>
 								<h3> Objetivo Do Plano De Trabalho: </h3>
 								<ul>
@@ -135,7 +135,7 @@
 								<header>
 									<h3 align="center">Boas Vindas - PT2 E PT3</h3>
 								</header>
-								<p align="justify"> 
+								<p align="justify">
 									todos que quiserem são bem vindos, e os que não quiserem vão se integrar nessas voltas as aulas 2019
 								</p>
 								<ul class="actions">
@@ -150,7 +150,7 @@
 									<h3 align="center">Boas vindas: paz a gente que faz - PT 4 e PT5</h3>
 								</header>
 								<p align="justify">
-										o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada 
+										o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

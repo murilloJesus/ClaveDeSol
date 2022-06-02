@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -9,10 +9,10 @@
 									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia, autoestima e aceitação de diversas situações rotineiras que modificam a vida em geral.
 								</p>
 								<h3>
-									Conteúdos: 
+									Conteúdos:
 								</h3>
 								<h3>
-									Língua Portuguesa: 
+									Língua Portuguesa:
 								</h3>
 								<ul>
 									<li>
@@ -122,7 +122,7 @@
 										Musicoterapia;
 									</li>
 									<li>
-										Visitas da Fono/ T.O./Psicóloga     
+										Visitas da Fono/ T.O./Psicóloga
 									</li>
 								</ul>
 								<p>
@@ -148,7 +148,7 @@
 									<h3 align="center">Plano de Trabalho de 3º ano (PT3) </h3>
 								</header>
 								<p align="justify">
-									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da 
+									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -162,7 +162,7 @@
 									<h3 align="center">Plano de Trabalho de 5º ano (PT5) </h3>
 								</header>
 								<p align="justify">
-										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização 
+										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização
 							    </p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -176,7 +176,7 @@
 									<h3 align="center">Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>
 								</header>
 								<p align="justify">
-									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino 
+									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

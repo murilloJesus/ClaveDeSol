@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -67,8 +67,8 @@
 								<header>
 									<h3 align="center">Como é legal lá no fundo do mar - PT2 e PT3</h3>
 								</header>
-								<p align="justify">	
-									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este 
+								<p align="justify">
+									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -96,7 +96,7 @@
 									<h3 align="center">Culinária</h3>
 								</header>
 								<p align="justify">
-									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária. 
+									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária.
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Próxima Pagina</a></li>

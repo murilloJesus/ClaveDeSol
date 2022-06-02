@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -9,10 +9,10 @@
 									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino Regular, contando com o apoio efetivo da Psicóloga junto ao aluno e a família.
 								</p>
 								<h3>
-									Conteúdos: 
+									Conteúdos:
 								</h3>
 								<h3>
-									Língua Portuguesa: 
+									Língua Portuguesa:
 								</h3>
 								<ul>
 									<li>
@@ -149,7 +149,7 @@
 										Musicoterapia;
 									</li>
 									<li>
-										Visitas da Fono/ T.O./Psicóloga  
+										Visitas da Fono/ T.O./Psicóloga
 									</li>
 								</ul>
 								<h3>
@@ -212,7 +212,7 @@
 									<h3 align="center">Plano de Trabalho de 5º ano (PT5) </h3>
 								</header>
 								<p align="justify">
-										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização 
+										Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização
 							    </p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -226,7 +226,7 @@
 									<h3 align="center">Plano de Trabalho de Socialização (PTS)</h3>
 								</header>
 								<p align="justify">
-									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus 
+									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -240,7 +240,7 @@
 									<h3 align="center">Plano de Trabalho de Culinária</h3>
 								</header>
 								<p align="justify">
-									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar 
+									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

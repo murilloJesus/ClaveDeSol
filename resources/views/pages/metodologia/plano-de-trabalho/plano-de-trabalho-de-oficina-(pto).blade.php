@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 								<header>
@@ -201,7 +201,7 @@
 									<h3 align="center">Plano de Trabalho de 1º ano (PT1) </h3>
 								</header>
 								<p align="justify">
-									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites, 
+									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -215,7 +215,7 @@
 									<h3 align="center">Plano de Trabalho de 2º ano (PT2)</h3>
 								</header>
 								<p align="justify">
-									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir 
+									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

@@ -1,7 +1,7 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
+
 @section('content')
 <article id="content">
-
     <header>
         <h2 align="center">Plano de aula - corpo e movimento - 2021</h2>
         <p align="center">Justificativa:</p>

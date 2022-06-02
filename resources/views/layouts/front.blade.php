@@ -21,7 +21,7 @@
 					<div id="header" class="container">
 
 						<!-- Logo -->
-							<h1 id="logo"><a href="index.html">CLAVE DE SOL</a></h1>
+							<h1 id="logo"><a href="/">CLAVE DE SOL</a></h1>
 
 						<!-- Nav -->
 							<nav id="nav">
@@ -72,18 +72,7 @@
 					</div>
 
 					<!-- Hero -->
-						<section id="hero" class="container">
-							<header>
-								<h2>Instituto de Educação Especial
-								<br /> Clave de Sol </h2>
-							</header>
-							<p>Contamos com Vocês para podermos continuar cuidando
-							<br /> de nossas Pequenas Estrelas</p>
-							<ul class="actions">
-								<li><a href="#" class="button">Faça sua Doação</a></li>
-							</ul>
-						</section>
-
+                    @yield('hero')
 				</div>
 
                 <div class="wrapper">

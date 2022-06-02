@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -31,7 +31,7 @@
 								</h3>
 
 								<ul>
-									
+
 									<li>
 										Explorar brinquedos/- ensinar a brincar/ a função de cada brinquedo;
 									</li>
@@ -235,7 +235,7 @@
 									<h3 align="center">Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>
 								</header>
 								<p align="justify">
-									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino 
+									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -249,7 +249,7 @@
 									<h3 align="center">Plano de Trabalho de Culinária</h3>
 								</header>
 								<p align="justify">
-									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar 
+									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -263,7 +263,7 @@
 									<h3 align="center">Fonoaudiologia escolar - 2021</h3>
 								</header>
 								<p align="justify">
-									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e 
+									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Próxima Pagina</a></li>

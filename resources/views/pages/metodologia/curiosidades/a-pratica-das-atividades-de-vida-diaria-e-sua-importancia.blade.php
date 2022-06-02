@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -6,7 +6,7 @@
 									<h2 align="center">A prática das Atividades de Vida Diária (AVD) e sua importância</h2>
 								</header>
 								<p>
-									Chamamos de avd’s as atividades rotineiras, ou seja, que são realizadas diariamente com funções de autocuidado e higiene pessoal. 
+									Chamamos de avd’s as atividades rotineiras, ou seja, que são realizadas diariamente com funções de autocuidado e higiene pessoal.
 								</p>
 								<p>
 									Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos!
@@ -24,7 +24,7 @@
 									Seja o modelo, faça junto com a criança, mostrando o passo a passo da atividade. Muitas crianças aprendem mais rapidamente observando o outro fazer, do que com comando e orientações verbais.
 								</p>
 								<p>
-									Priscila Beatriz Bastos Oliveira - Terapeuta Ocupacional 
+									Priscila Beatriz Bastos Oliveira - Terapeuta Ocupacional
 								</p>
 
 							</article>

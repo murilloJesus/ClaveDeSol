@@ -1,12 +1,12 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
+
+@section('title')
+A importância da Educação Física Escolar no desenvolvimento infantil
+@endsection
+
 
 @section('content')
 <article id="content">
-
-    <header>
-        <h2 align="center">A importância da Educação Física Escolar no desenvolvimento infantil
-        </h2>
-    </header>
     <p>
         A escola é uma importante etapa na construção do individuo, as experiências adquiridas durante esse período
         serão determinantes para o seu desenvolvimento, tanto físico como psicológico. A necessidade de uma estrutura

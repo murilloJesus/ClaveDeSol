@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 
 <article id="content">
@@ -39,7 +39,7 @@
 									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3 align="center"> 
+									<h3 align="center">
 										Projeto de musicalização (Educador) A Música como Aliada no Desenvolvimento
 									</h3>
 								</header>

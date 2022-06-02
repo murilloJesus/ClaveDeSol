@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 								<header>
@@ -75,7 +75,7 @@
 									</li>
 								</ul>
 								<h3>
-									Raciocínio logico matemático 
+									Raciocínio logico matemático
 								</h3>
 								<ul>
 									<li>
@@ -132,8 +132,8 @@
 								<header>
 									<h3 align="center">Boas Vindas - PT2 E PT3 </h3>
 								</header>
-								<p align="justify">	
-									Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos, 
+								<p align="justify">
+									Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -147,7 +147,7 @@
 									<h3 align="center">O outro: Quem tem um amigo tem um tesouro </h3>
 								</header>
 								<p align="justify">
-									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade, 
+									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -161,7 +161,7 @@
 									<h3 align="center">Como é legal lá no fundo do mar - PT2 e PT3</h3>
 								</header>
 								<p align="justify">
-									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este 
+									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

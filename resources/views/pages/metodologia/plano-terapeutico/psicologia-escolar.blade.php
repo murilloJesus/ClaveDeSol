@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -26,7 +26,7 @@
 										 Auxiliar na elaboração de procedimentos educacionais capazes de atender às necessidades individuais com visão na coletividade.
 									</li>
 									<li>
-										Conhecer o Projeto Político Pedagógico da Escola e se necessário participar da sua atualização. 
+										Conhecer o Projeto Político Pedagógico da Escola e se necessário participar da sua atualização.
 									</li>
 									<li>
 										Trabalhar junto à equipe pedagógica, com a coordenação e com a equipe terapêutica a fim de juntos buscar novos posicionamentos e soluções às situações apresentadas, minimizando dificuldades do contexto de aprendizagem em sua totalidade.
@@ -35,7 +35,7 @@
 										Criar momentos de troca acerca das teorias de aprendizagem e prática pedagógica.
 									</li>
 									<li>
-										Orientação de pais/responsáveis. 
+										Orientação de pais/responsáveis.
 									</li>
 								</ul>
 								<h3>Objetivos Específicos</h3>
@@ -56,7 +56,7 @@
 										Contribuir para o desenvolvimento psicossocial
 									</li>
 									<li>
-										 Buscar vir minimizar os comportamentos inadequados, ter olhar e possibilidades aos déficits dos discentes e buscar ampliar as condições destes. 
+										 Buscar vir minimizar os comportamentos inadequados, ter olhar e possibilidades aos déficits dos discentes e buscar ampliar as condições destes.
 									</li>
 									<li>
 										Acompanhamento do processo de aprendizagem dos alunos que no momento demonstre apresente maior dificuldade permanente a algum contexto psicológico.
@@ -64,10 +64,10 @@
 								</ul>
 								<h3>Métodos e Técnicas</h3>
 								<p>
-									Junto a equipe multidisciplinar, objetivar a sociabilidade, reabilitação, a qualidade de vida e o bem estar do discente.    
+									Junto a equipe multidisciplinar, objetivar a sociabilidade, reabilitação, a qualidade de vida e o bem estar do discente.
 								</p>
 								<p>
-									A psicologia escolar visa as intervenções, facilitadoras de comunicação e das relações, favorecendo o comportamento, a interação/socialização, o autoconhecimento, oportunizando desenvolvimento global, buscando possibilidades e habilidades do indivíduo e do grupo, considerando a socialização, integração e qualidade de vida como metas principais. 
+									A psicologia escolar visa as intervenções, facilitadoras de comunicação e das relações, favorecendo o comportamento, a interação/socialização, o autoconhecimento, oportunizando desenvolvimento global, buscando possibilidades e habilidades do indivíduo e do grupo, considerando a socialização, integração e qualidade de vida como metas principais.
 								</p>
 								<p>
 									Considerando o método TEACCH um programa educacional e clínico com uma prática predominante através da observação dos comportamentos em relação a estímulos diferentes, contarei com o método como base e parâmetro, pois além de fundamentar-se em teoria comportamental, linguagem receptiva/ expressiva, estímulos visuais e corporais este método possibilita estruturação, facilidade de compreensão, aplicação e execução para o discente.
@@ -91,7 +91,7 @@
 								</p>
 								<h3>Conclusão</h3>
 								<p>
-									 Psicologia Educacional fonte de intencionalidade de transformação, mediadora e facilitadora das relações e comunicações implicada e envolvida com o contexto psicossocial, afim de produzir novos sentidos, contribuindo para o desenvolvimento comportamental, resinificando os discentes em indivíduos integrados socialmente, e os que atribuem maior maturação e compreensão, em indivíduos reflexivos, questionadores, autônomos e conscientes. 
+									 Psicologia Educacional fonte de intencionalidade de transformação, mediadora e facilitadora das relações e comunicações implicada e envolvida com o contexto psicossocial, afim de produzir novos sentidos, contribuindo para o desenvolvimento comportamental, resinificando os discentes em indivíduos integrados socialmente, e os que atribuem maior maturação e compreensão, em indivíduos reflexivos, questionadores, autônomos e conscientes.
 								</p>
 								<p>
 									Entendendo que a vida educacional e social são marcadas por fases e fatores, e estes evocam sentimentos e emoções, marcado por aspectos pessoais, interpessoais, familiares, pedagógicos, institucionais, políticos e ideológicos, é campo de interesse da Psicologia que deve, por sua vez, fazer-se presente durante o tempo que o aluno estiver na Instituição, tornando-se disponível para auxiliar nas demandas surgidas e definir estratégias de atuação que facilite a transição, adaptação, integração da educação; contribuindo para a melhoria das condições psíquicas do aluno, que é um ser em transformação constante, trazendo consigo potencialidades e limitações.
@@ -103,7 +103,7 @@
 									<b>
 										Elisângela A.C. de Alencar
 										<br>
-										Psicóloga CRP 06/123.370 
+										Psicóloga CRP 06/123.370
 										<br>
 										Coordenadora de Equipe Terapêutica
 									</br>
@@ -121,7 +121,7 @@
 									<h3 align="center">Fonoaudiologia escolar - 2021</h3>
 								</header>
 								<p align="justify">
-									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e 
+									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -135,7 +135,7 @@
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o 
+									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -149,7 +149,7 @@
 									<h3 align="center">Terapia ocupacional educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que 
+									A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

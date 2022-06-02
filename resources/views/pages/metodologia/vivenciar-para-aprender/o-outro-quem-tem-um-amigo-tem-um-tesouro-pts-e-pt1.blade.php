@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 								<header>
@@ -120,7 +120,7 @@
 									<h3 align="center">Como é legal lá no fundo do mar - PT2 e PT3</h3>
 								</header>
 								<p align="justify">
-									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este 
+									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -134,7 +134,7 @@
 									<h3>Histórias carnavalescas PT4 e PT5 </h3>
 								</header>
 								<p align="justify">
-									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a 
+									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>

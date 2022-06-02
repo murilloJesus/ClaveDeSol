@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 <article id="content">
 
@@ -7,18 +7,18 @@
 									<p align="center">Terapia ocupacional educacional - 2021</p>
 								</header>
 								<h3> Justificativa:  </h3>
-								<p>  
+								<p>
 								    A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que interferem no desenvolvimento e na independência do aluno, em relação as atividades de vida diária, trabalho e lazer. Com intervenção na saúde, educação e na esfera social, reunindo tecnologias orientadas para a emancipação e autonomia de pessoas que, por razões ligadas à problemática específica, físicas, sensoriais, mentais, psicológicas e/ou sociais apresentam temporariamente ou definitivamente dificuldade da inserção e participação na vida social.
 								</p>
 								<p>
-									No ambiente escolar, o trabalho de Terapia Ocupacional consiste em analisar o processo e desenvolvimento das habilidades adquiridas, para depois introduzir a prática, suprindo as necessidades de cada aluno. 
+									No ambiente escolar, o trabalho de Terapia Ocupacional consiste em analisar o processo e desenvolvimento das habilidades adquiridas, para depois introduzir a prática, suprindo as necessidades de cada aluno.
 								</p>
 								<p>
 									 As práticas terapêuticas estarão entrelaçadas com os processos educacionais, sendo assim, os objetivos principais da Terapia Ocupacional dentro do ambiente escolar visão trabalhar e desempenhar suas funções específicas em conjunto com os serviços educacionais, colaborando de forma técnica e eficiente para que os alunos encontrem um nível satisfatório de qualidade de vida.
 								</p>
 								<h3>Objetivos Geral:</h3>
 								<ul>
-									<li> Estruturação de rotina do aluno. 
+									<li> Estruturação de rotina do aluno.
 									</li>
 									<li>
 										Orientação para os professores em sala de aula para organização do cotidiano escolar.
@@ -33,7 +33,7 @@
 										 Facilitar o aprendizado por meio de estratégias lúdicas, e realizar treinos das habilidades.
 									</li>
 									<li>
-										Promover independência e autonomia dos alunos nas atividades de vida diária. 
+										Promover independência e autonomia dos alunos nas atividades de vida diária.
 									</li>
 									<li>
 										Treinos de alimentação, escovação de dentes e uso de banheiro.
@@ -128,7 +128,7 @@
 											Fonoaudióloga
 										<br>
 											CRFª 2 - 13889
-										</b> 
+										</b>
 									</b>
 								</p>
 
@@ -143,7 +143,7 @@
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
 								</header>
 								<p align="justify">
-									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o 
+									A Borboleta e a Psicopedagogia: O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -157,7 +157,7 @@
 									<h3 align="center">Plano de trabalho psicologia escolar 2021 </h3>
 								</header>
 								<p align="justify">
-									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este 
+									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -168,7 +168,7 @@
 									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3 align="center"> 
+									<h3 align="center">
 										Vivenciar para Aprender Metodologia de Ensino Pedagógico do Instituto de Educação Especial Clave de Sol
 									</h3>
 								</header>

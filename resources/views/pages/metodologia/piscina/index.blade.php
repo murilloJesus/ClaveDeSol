@@ -1,4 +1,4 @@
-@extends('layouts.front')
+@extends('layouts.front-mixed')
 @section('content')
 
 						<article id="content">
@@ -8,7 +8,7 @@
 								</header>
 								<p>
 									A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais e entre os próprios alunos.
-							
+
 								<br>
 									Para participar é necessário a autorização dos pais, são utilizados boias e acompanhamento dos profissionais. A piscina além de ser uma das alternativas de apoio ao trabalho proposto pela Unidade Recanto, é também vista pelos alunos como um momento de lazer e diversão.
 								</br>
@@ -22,7 +22,7 @@
 									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3 align="center"> 
+									<h3 align="center">
 										Projeto de musicalização (Educador) A Música como Aliada no Desenvolvimento
 									</h3>
 								</header>
@@ -38,8 +38,8 @@
 								<header>
 									<h3 align="center">Plano de Trabalho de Oficina (PTO) </h3>
 								</header>
-								<p align="justify">	
-									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma 
+								<p align="justify">
+									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Veja Mais</a></li>
@@ -53,7 +53,7 @@
 									<h3 align="center">Plano de Trabalho de 1º ano (PT1) </h3>
 								</header>
 								<p align="justify">
-									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites, 
+									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites,
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button">Próxima Pagina</a></li>
