@@ -1,7 +1,7 @@
 @extends('layouts.front-mixed')
 
 @section('title')
-A importância da Educação Física Escolar no desenvolvimento infantil
+A importância da Educação Física Escolar <br /> no desenvolvimento infantil
 @endsection
 
 
@@ -41,7 +41,7 @@ A importância da Educação Física Escolar no desenvolvimento infantil
 <div class="row features">
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper first">
-            <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+            <a href="/metodologia/culinaria" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Culinaria</h3>
@@ -49,7 +49,7 @@ A importância da Educação Física Escolar no desenvolvimento infantil
         <p align="justify">A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos
             citados no Plano de Trabalho de Culinária. </p>
         <ul class="actions">
-            <li><a href="#" class="button">Veja Mais</a></li>
+            <li><a href="/metodologia/culinaria" class="button">Veja Mais</a></li>
         </ul>
     </section>
     <section class="col-4 col-12-narrower feature">
