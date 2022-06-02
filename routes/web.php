@@ -44,9 +44,9 @@ Route::get('/{folder}/{resource}', function ($folder, $resource)
 
 Route::get('/{group}/{folder}/{resource}', function ($group, $folder, $resource)
 {
-    if(file_exists("/resources/views/pages/$group/$folder/$resource.blade.php")){
+    // if(file_exists("/resources/views/pages/$group/$folder/$resource.blade.php")){
         return view("pages.$group.$folder.$resource");
-    }else{
-        return view("pages.$group.$folder.$resource.index");
-    }
+    // }else{
+    //     return view("pages.$group.$folder.$resource.index");
+    // }
 });
