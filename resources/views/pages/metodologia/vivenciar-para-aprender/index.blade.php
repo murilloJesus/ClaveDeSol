@@ -2,9 +2,9 @@
 
 @section('content')
 <section class="container">
-    <header class="major">
-        <h2>Vivenciar para aprender</h2>
-    </header>
+    @section('title')
+            Vivenciar para aprender
+    @endsection
     <div class="row features">
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">

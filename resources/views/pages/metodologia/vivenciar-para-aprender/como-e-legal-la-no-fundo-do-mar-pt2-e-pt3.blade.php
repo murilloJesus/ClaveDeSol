@@ -1,12 +1,8 @@
 @extends('layouts.front-mixed')
 @section('content')
 	<article id="content">
-								<header>
-									<h2 align="center"> Reino Animal </h2>
-									<p align="center">
-										Como é legal lá no fundo do mar!
-									</p>
-								</header>
+								@section('title') Reino Animal 
+								<br />Como é legal lá no fundo do mar!
 								<p>
 									Objetivo: Quem convive com crianças sabem o quanto elas são fascinadas pelos diferentes animais que existem. Vamos ampliar este conhecimento separando por categorias, sendo assim iniciaremos com os ANIMAIS AQUATICOS, ao fim do projeto as crianças deverão conhecer esses animais, como eles vivem, se alimentam, suas características entre outros.
 								</p>

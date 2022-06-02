@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de Trabalho de 5º ano Aceleração (PT5A) </h2>
-								</header>
+								@section('title') 
+									Plano de Trabalho de 5º ano <br />Aceleração (PT5A) 
+								@endsection
 								<p>
 									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino Regular, contando com o apoio efetivo da Psicóloga junto ao aluno e a família.
 								</p>

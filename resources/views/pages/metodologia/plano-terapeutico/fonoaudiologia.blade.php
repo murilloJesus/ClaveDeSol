@@ -2,10 +2,10 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de trabalho  </h2>
-									<p align="center">Fonoaudiologia escolar - 2021</p>
-								</header>
+								@section('title') 
+										Plano de trabalho  
+									<br />Fonoaudiologia escolar - 2021
+								@endsection
 
 								<h3>
 									Justificativa

@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de trabalho de psicopedagogia educacional - 2021 </h2>
-								</header>
+								@section('title')
+									 Plano de trabalho de psicopedagogia educacional - 2021 
+								@endsection
 								<p>
 									<b>A Borboleta e a Psicopedagogia:</b> O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o tempo e o espaço necessários. Sem medo e insegurança, sem precipitação. Há tempo para tudo, tempo para nascer, tempo para viver, Tempo para respirar, Tempo para morrer, viver, este é o segredo. O psicopedagogo conhece a história da borboleta, acompanha o seu desenvolvimento, percebe o seu progresso, evolução, impaciência, ansiedade que deve ser superada.
 								</p>

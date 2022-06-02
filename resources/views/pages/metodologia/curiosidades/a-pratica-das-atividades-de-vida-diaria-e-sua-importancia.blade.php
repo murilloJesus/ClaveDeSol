@@ -2,9 +2,10 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center">A prática das Atividades de Vida Diária (AVD) e sua importância</h2>
-								</header>
+								@section('title')
+							    A prática das Atividades de Vida Diária <br/ >(AVD) e sua importância
+								@endsection
+								
 								<p>
 									Chamamos de avd’s as atividades rotineiras, ou seja, que são realizadas diariamente com funções de autocuidado e higiene pessoal.
 								</p>

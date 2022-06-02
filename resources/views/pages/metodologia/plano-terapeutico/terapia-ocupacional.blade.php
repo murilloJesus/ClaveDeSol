@@ -1,11 +1,10 @@
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
-
-								<header>
-									<h2 align="center"> Plano de trabalho  </h2>
-									<p align="center">Terapia ocupacional educacional - 2021</p>
-								</header>
+ </h2>
+									@section('title')
+											 Terapia ocupacional educacional - 2021
+									@endsection
 								<h3> Justificativa:  </h3>
 								<p>
 								    A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que interferem no desenvolvimento e na independência do aluno, em relação as atividades de vida diária, trabalho e lazer. Com intervenção na saúde, educação e na esfera social, reunindo tecnologias orientadas para a emancipação e autonomia de pessoas que, por razões ligadas à problemática específica, físicas, sensoriais, mentais, psicológicas e/ou sociais apresentam temporariamente ou definitivamente dificuldade da inserção e participação na vida social.

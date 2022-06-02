@@ -2,9 +2,9 @@
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
-								<header>
-									<h2 align="center"> Plano de Trabalho de Oficina (PTO) </h2>
-								</header>
+								@section('title')
+										 Plano de Trabalho de Oficina (PTO)
+								@endsection
 								<p>
 									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma qualidade de vida, um desenvolvimento social, afetivo e seja estimulado cognitivamente para pequenas resoluções que a sociedade possa exigir, com o propósito em destaque de oferecer a estes um ambiente agradável e de descontração.
 								</p>

@@ -2,9 +2,8 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Histórias carnavalescas </h2>
-								</header>
+								@section('title') Histórias carnavalescas 
+								@endsection
 								<p>
 									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a experiência desta cultura, mesmo que seja, através da Tv, de histórias ou interagindo em contextos sociais lúdicos na rua, ou na escola. Por esse motivo vamos favorecer o conhecimento das histórias carnavalescas, dividindo em 3 temas, cada sala ficará responsável por um tema realizando vivencias e atividades relacionadas ao tema, além de como conclusão fazermos uma ação recreativa sobre o carnaval como exposição.
 								</p>

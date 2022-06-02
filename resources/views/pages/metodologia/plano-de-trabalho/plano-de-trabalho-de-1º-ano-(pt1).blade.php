@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de Trabalho de 1º ano (PT1) </h2>
-								</header>
+								@section('title')
+									 Plano de Trabalho de 1º ano (PT1) 
+								@endsection
 								<p>
 									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites, tempo e adquiri conhecimentos gerais nos âmbitos, sensoriais, afetivos e cognitivos.
 								</p>

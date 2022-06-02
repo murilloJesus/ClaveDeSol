@@ -2,9 +2,11 @@
 
 @section('content')
 <section class="container">
-    <header class="major">
+
+    @section('title')
         <h2>Plano de Trabalho</h2>
-    </header>
+    @endsection
+
     <div class="row features">
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">

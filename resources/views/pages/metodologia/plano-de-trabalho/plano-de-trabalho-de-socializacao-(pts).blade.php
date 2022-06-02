@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center">Plano de Trabalho de Socialização (PTS)</h2>
-								</header>
+								@section('title')
+										Plano de Trabalho de Socialização (PTS)
+								@endsection
 
 								<p>
 									Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e quenecessitam de muito auxílio em seus afazeres, devido apresentarem grande déficit de cognitivo)

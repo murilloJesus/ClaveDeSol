@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de Trabalho de 2º ano (PT2) </h2>
-								</header>
+								@section('title')
+											 Plano de Trabalho de 2º ano (PT2) 
+								@endsection
 
 								<p>
 									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir adquirir conhecimento e estrutura para vida social com qualidade.

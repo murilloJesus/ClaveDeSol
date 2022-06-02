@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de Trabalho de 5º ano (PT5) </h2>
-								</header>
+								@section('title')
+										 Plano de Trabalho de 5º ano (PT5) 
+								@endsection
 								<p>
 									 Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização como um todo.
 								</p>

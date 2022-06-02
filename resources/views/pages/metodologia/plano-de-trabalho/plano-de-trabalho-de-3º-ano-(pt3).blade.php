@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de Trabalho de 3º ano (PT3) </h2>
-								</header>
+								@section('title') 
+										Plano de Trabalho de 3º ano (PT3) >
+								@endsection
 
 								<p>
 									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da leitura e do raciocínio lógico.

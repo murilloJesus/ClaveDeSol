@@ -1,9 +1,9 @@
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
-								<header>
-									<h2 align="center"> O outro: quem tem um amigo tem um tesouro </h2>
-								</header>
+								@section('title') 	
+										O outro: quem tem um amigo tem um tesouro
+								@endsection
 								<p>
 									Objetivo: favorecer a construção da identidade a partir da interação com o outro, e essa interação pode ser construída por meio da afetividade, da segurança, auto estima e respeito as diferenças! Assim se dá a amizade, esses laços devem ser construídos desde a nossa casa, com nossos familiares para que possamos utilizar na sociedade.
 								</p>

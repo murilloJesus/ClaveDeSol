@@ -2,10 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Boas Vindas: Ação E Organização PTS E PT1 </h2>
-									<P align="center"> Ação E Organização </P>
-								</header>
+								@section('title') Boas Vindas: Ação E Organização PTS E PT1
+								<br /> Ação E Organização </P>
+								@endsection
 								<p>
 									<p>Objetivo: O ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos, e os que não quiserem vão se integrar nessas Voltas As Aulas 2019, pois esse ano promete muita Felicidade E Paz! O principal objetivo é que possamos acolher a todos os alunos, que eles saibam onde estão e para que estão! Que conheçam o ambiente escolar de uma maneira que se sintam em casa. Falando em casa, a mesma lembra Organização, Aconchego E Liberdade, na nossa casa podemos fazer o que quiser (claro desde que tenhamos limites), nada melhor do que ver nossa casa limpa e organizada, assim sabemos onde cada coisa pode ser encontrada. Sendo assim a proposta é fazer com que ao final do projeto os alunos saibam tudo sobre a escola que da qual eles fazem parte e que conheçam cada detalhe e possam se sentir Felizes e acolhidos.</p>
 								</p>

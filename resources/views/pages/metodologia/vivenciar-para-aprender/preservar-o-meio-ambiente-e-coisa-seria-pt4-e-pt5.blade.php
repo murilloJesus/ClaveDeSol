@@ -2,9 +2,8 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center">Educação ambiental! Preservar o meio ambiente é coisa séria! </h2>
-								</header>
+								@section('title') Educação ambiental! <br /> Preservar o meio ambiente é coisa séria! </h2>
+								@endsection
 
 								<p>
 									Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a nossa natureza encontra-se. Por este motivo, vamos abordar o tema <b>apresentando a natureza com suas belezas, curiosidades e fragilidades. Mostrar lados negativos e positivos da ação do homem e valorizar a preservação. </b>

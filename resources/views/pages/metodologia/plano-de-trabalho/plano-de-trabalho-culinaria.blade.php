@@ -2,9 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de Trabalho de Culinária </h2>
-								</header>
+								@section('title')
+									 Plano de Trabalho de Culinária 
+								@endsection
 
 								<p>
 									Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de ingredientes e a oportunidade de degustar diversos sabores, colocando em prática toda parte pedagógica.Propiciar ao aluno uma atividade voltada a tarefas caseiras, atividade diferenciada do cotidiano, determinando toda organização e cada passo a ser elaborado dentro da receita.

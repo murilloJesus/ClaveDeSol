@@ -3,9 +3,9 @@
 
 <article id="content">
 
-								<header>
-									<h2 align="center"> Informática </h2>
-								</header>
+								@section('title')
+									Informática 
+								@endsection
 								<p>
 									As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de favorecer a coordenação motora e a coordenação visomotora.
 								</p>

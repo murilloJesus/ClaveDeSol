@@ -1,10 +1,9 @@
 @extends('layouts.front-mixed')
 @section('content')
 	<article id="content">
-								<header>
-									<h2 align="center"> Vivenciar para Aprender </h2>
-									<p align="center">Metodologia de Ensino Pedagógico do Instituto de Educação Especial Clave de Sol</p>
-								</header>
+								@section('title') Vivenciar para Aprender
+									<br/>Metodologia de Ensino Pedagógico do Instituto de Educação Especial Clave de Sol
+								@endsection
 								<h3>Visão Geral</h3>
 								<p>
 									O Instituto visa a qualidade de ensino na vivência do aprender...

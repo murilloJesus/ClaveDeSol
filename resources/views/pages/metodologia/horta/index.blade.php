@@ -3,9 +3,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center">Horta</h2>
-								</header>
+								@section('title')
+										Horta
+								@endsection
 								<P>
 									O principal objetivo da Horta na unidade Recanto é o de propiciar a qualidade de vida, oferecendo um acompanhamento especializado aos alunos , respeitando as necessidades e diferenças de cada um, proporcionando o desenvolvimento global dos mesmos, em seus aspectos: cognitivo, afetivos, psicomotor, linguístico e social, favorecendo não somente o reconhecimento de suas potencialidades como sua integração na sociedade.
 								</P>

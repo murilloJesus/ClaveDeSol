@@ -3,9 +3,9 @@
 
 						<article id="content">
 
-								<header>
+								@section('title')
 									<h2 align="center">Piscina</h2>
-								</header>
+								@endsection
 								<p>
 									A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais e entre os próprios alunos.
 

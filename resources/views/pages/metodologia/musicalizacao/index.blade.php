@@ -2,12 +2,14 @@
 @section('content')
 <article id="content">
 
+								@section('title')
+									 Projeto de musicalização (Educador)
+								<br />A Música como Aliada no Desenvolvimento
+								@endsection
+								
 								<header>
-									<h2 align="center"> Projeto de musicalização </h2>
-									<h2 align="center">(Educador)</h2>
-								<h2 align="center">A Música como Aliada no Desenvolvimento</h2>
+								<p align="center">Visão geral:</p>
 								</header>
-								<h3>Visão geral:</h3>
 								<p>
 									O Instituto visa a experiência dos alunos com a música de forma a englobar aspectos ainda não adquiridos ou até mesmo aprimorar os desenvolvidos.
 								</p>

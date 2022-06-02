@@ -1,9 +1,8 @@
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
-								<header>
-									<h2 align="center"> Boas vindas: paz a gente que faz - PT 4 e PT5 </h2>
-								</header>
+								@section('title') Boas vindas: paz a gente que faz - PT 4 e PT5
+								@endsection
 								<p>
 									Objetivo: o ano de 2019 acaba de iniciar, e agora é tudo novo de novo! Vamos acolher cada um que chegar, todos que quiserem são bem vindos, e os que não quiserem vão se integrar nessas voltas as aulas 2019, pois esse ano promete muita felicidade e paz! O principal objetivo é que possamos acolher a todos os alunos, que eles saibam onde estão e para que estão! Que conheçam o ambiente escolar de uma maneira que se sintam em casa. Falando em casa, a mesma lembra organização, aconchego e liberdade, na nossa casa podemos fazer o que quiser (claro desde que tenhamos limites), nada melhor do que ver nossa casa limpa e organizada, assim sabemos onde cada coisa pode ser encontrada. Sendo assim a proposta é fazer com que ao final do projeto os alunos saibam tudo sobre a escola que da qual eles fazem parte e que conheçam cada detalhe e possam se sentir felizes e acolhidos.
 								</p>

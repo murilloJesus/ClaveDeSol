@@ -2,10 +2,9 @@
 @section('content')
 <article id="content">
 
-								<header>
-									<h2 align="center"> Plano de trabalho psicologia escolar 2021 </h2>
-									<p align="center">Estruturação Possibilidades e Habilidades Sociais </p>
-								</header>
+								@section('title') Plano de trabalho psicologia escolar 2021 <br />
+									Estruturação Possibilidades e Habilidades Sociais 
+								@endsection
 								<h3>Justificativa</h3>
 								<p>
 									É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este processo dificuldades de aprendizagem acontecem, com causas, desenvolvimento e outras múltiplas questões, fazendo assim conhecimentos necessários em outras dimensões, onde entre estas a psicologia faz parte.
