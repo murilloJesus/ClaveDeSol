@@ -2,10 +2,10 @@
 @section('content')
 <article id="content">
 
-								@section('tite')
+								@section('title')
 										Plano de Trabalho de 4º ano (PT4)
-								
 								@endsection
+								<p>
 									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia, autoestima e aceitação de diversas situações rotineiras que modificam a vida em geral.
 								</p>
 								<h3>

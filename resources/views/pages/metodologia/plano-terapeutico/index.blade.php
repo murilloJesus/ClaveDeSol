@@ -6,40 +6,66 @@
     @section('title')
             Plano Terapeutico
     @endsection
+
     <div class="row features">
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="/metodologia/plano-terapeutico/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de movimento e de uma forma...
+                O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e esclarecer prováveis dúvidas sobre 
             </p>
             <ul class="actions major">
-                <li><a href="#" class="button">Veja Mais</a></li>
+                <li><a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="button">Veja Mais</a></li>
             </ul>
         </section>
+
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
                 <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
+               É preciso reconhecer que o processo de ensino e aprendizagem implica foco em diversas áreas do conhecimento humano, pois em meio este processo dificuldades de 
             </p>
             <ul class="actions major">
-                <li><a href="/metodologia/piscina/" class="button">Veja Mais</a></li>
+                <li><a href="/metodologia/plano-terapeutico/psicologia-escolar/" class="button">Veja Mais</a></li>
             </ul>
         </section>
+
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                    Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.
+                    O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o tempo e o espaço 
             </p>
             <ul class="actions major">
-                <li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao" class="button">Veja Mais</a></li>
+                <li><a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="button">Veja Mais</a></li>
             </ul>
         </section>
+
+           <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+                     A Terapia Ocupacional estuda a atividade humana e utiliza como recurso terapêutico para prevenir as dificuldades física ou psicossociais que interferem no 
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-terapeutico/terapia-ocupacional/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+
+
+          
+
+
+
+
+
     </div>
+
+
 </section>
 @endsection
+

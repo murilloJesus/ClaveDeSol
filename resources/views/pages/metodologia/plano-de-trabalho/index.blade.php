@@ -13,34 +13,109 @@
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                Vivenciar para Aprender
+                Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus...
             </p>
             <ul class="actions major">
                 <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="button">Veja Mais</a></li>
             </ul>
         </section>
+
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
+               OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização...
             </p>
             <ul class="actions major">
-                <li><a href="/metodologia/piscina/" class="button">Veja Mais</a></li>
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-1º-ano-(pt1)/" class="button">Veja Mais</a></li>
             </ul>
         </section>
-        <section class="col-4 col-12-narrower feature">
+
+          <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                    Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.
+                OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e...
             </p>
             <ul class="actions major">
-                <li><a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="button">Veja Mais</a></li>
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="button">Veja Mais</a></li>
             </ul>
         </section>
+        
+          <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+               Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando...
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+
+          <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+                Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade...
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+        
+          <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+               Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena...
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-(pt5)/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+        
+          <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+                Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena...
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+        
+          <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+               Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e...
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+
+         <section class="col-4 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            </div>
+            <p align="center">
+              Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de...
+            </p>
+            <ul class="actions major">
+                <li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-culinaria/" class="button">Veja Mais</a></li>
+            </ul>
+        </section>
+        
     </div>
 </section>
 @endsection

@@ -39,6 +39,7 @@
                 <li><a href="#" class="button">Veja Mais</a></li>
             </ul>
         </section>
+
     </div>
 </section>
 @endsection
