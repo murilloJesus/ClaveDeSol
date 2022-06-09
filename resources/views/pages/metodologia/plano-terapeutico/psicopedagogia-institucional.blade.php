@@ -39,7 +39,7 @@
 								<p>
 									Planejamento, execução e orientação de pesquisas psicopedagógicas.
 								</p>
-								<h3>Métodos/Técnicas/Estratégias</h3>
+								<h3>Métodos,Técnicas e Estratégias</h3>
 								<p>
 									  Utilização de métodos, técnicas e estratégias psicopedagógicas, as quais apurem e tragam possibilidade e ofereçam soluções alternativas às dificuldades ajudando auxiliar a supera as mesmas.
 								</p>

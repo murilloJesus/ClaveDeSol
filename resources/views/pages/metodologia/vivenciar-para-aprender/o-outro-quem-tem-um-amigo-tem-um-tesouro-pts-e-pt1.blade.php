@@ -27,7 +27,7 @@
 										O outro
 									</li>
 									<li>
-										Cada amigo é diferente...Porém todos são especiais!
+										Cada amigo é diferente. Porém todos são especiais
 									</li>
 									<li>
 										O abraço

@@ -10,11 +10,11 @@
 									OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir adquirir conhecimento e estrutura para vida social com qualidade.
 								</p>
 								<h3>
-									Conteúdos:
+									Conteúdos
 								</h3>
-								<h3>
-									 Língua Portuguesa:
-								</h3>
+								<small></small>>
+									 Língua Portuguesa
+								</small>
 								<ul>
 									<li>
 										Roda da conversa;
@@ -32,16 +32,16 @@
 										Noção de alfabeto;
 									</li>
 									<li>
-										Noção de escrita/ letras móveis ou manuscritas;
+										Noção de escrita: letras móveis ou manuscritas;
 									</li>
 									<li>
-										Associação de letra/ som
+										Associação de letra, som
 									</li>
 									<li>
 										Associação de figuras a palavras;
 									</li>
 									<li>
-										Noção de leitura formal ou informal (pequenas palavras/ ou logos);
+										Noção de leitura formal ou informal (pequenas palavras ou logos);
 									</li>
 									<li>
 										Escrita espontânea;
@@ -51,7 +51,7 @@
 									</li>
 								</ul>
 								<h3>
-									Matemática:
+									Matemática
 								</h3>
 								<ul>
 									<li>
@@ -77,7 +77,7 @@
 									</li>
 								</ul>
 								<h3>
-									 Conhecimentos Gerais:
+									 Conhecimentos Gerais
 								</h3>
 								<ul>
 									<li>
@@ -87,7 +87,7 @@
 										Higiene;
 									</li>
 									<li>
-										Passeios
+										Passeios;
 									</li>
 									<li>
 										Compras;
@@ -133,10 +133,10 @@
 									</li>
 								</ul>
 								<p>
-									Obs.: os conteúdos acima se baseiam em NOÇÕES ,expor a noção para o aluno significa apresentar os símbolos que o cercam, para que o próximo passo seja a aquisição do aprendizado.
+									Obs: os conteúdos acima se baseiam em noções,expor a noção para o aluno significa apresentar os símbolos que o cercam, para que o próximo passo seja a aquisição do aprendizado.
 								</p>
  								<p>
-									... tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									... tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 								<p>
 									<b>Sinônimos de Aprendido</b>

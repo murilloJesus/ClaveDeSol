@@ -9,12 +9,10 @@
     <p>
         A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de
         Trabalho de Culinária.
-    </p>
-    <p>
+     <br />
         Os alunos entram em contato com a receita, ingredientes,degustação, quantidade e realizam a receita com
         supervisão.
-    </p>
-    <p>
+    <br />
         É neste momento em que os alunos podem ter contato com os utensílios domésticos e realizar treinos de AVP
         (Atividades da Vida Prática), como preparar seu próprio alimento, sendo possível ainda, a distribuição dos
         pratos, toalha de mesa, copos e talheres, tudo de acordo com o proposto e com o objetivo direcionado a turma.
@@ -28,7 +26,7 @@
             <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
         </div>
         <header>
-            <h3 align="center">Educação ambiental! Preservar o meio ambiente é coisa séria! </h3>
+            <h3 align="center">Educação ambiental, Preservar o meio ambiente é coisa séria </h3>
         </header>
         <p align="justify">
             Objetivo: o assunto de preservação do meio ambiente está em alta, devido a tantas situações de riscos que a

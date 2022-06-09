@@ -9,10 +9,10 @@
 									Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade. Estimular a socialização, autonomia, autoestima e aceitação de diversas situações rotineiras que modificam a vida em geral.
 								</p>
 								<h3>
-									Conteúdos:
+									Conteúdos
 								</h3>
 								<h3>
-									Língua Portuguesa:
+									Língua Portuguesa
 								</h3>
 								<ul>
 									<li>
@@ -25,10 +25,10 @@
 										Escrita de pequenos textos;
 									</li>
 									<li>
-										Escrita espontânea; (redação/relatos pessoais/criação de textos);
+										Escrita espontânea; (redação, relatos,pessoais,criação de textos);
 									</li>
 									<li>
-										Interpretação de textos; (jornais/revistas/fatos sociais);
+										Interpretação de textos (jornais,revistas,fatos,sociais);
 									</li>
 									<li>
 										Expressão do pensamento;
@@ -49,18 +49,18 @@
 										Caça-palavras;
 									</li>
 									<li>
-										Ditado de palavras/frases
+										Ditado de palavras, frases
 									</li>
 								</ul>
 								<h3>
-									Matemática:
+									Matemática
 								</h3>
 								<ul>
 									<li>
 										Domínio nas noções de:
 									</li>
 									<li>
-										Espaço/tempo/tamanho
+										Espaço,tempo,tamanho
 									</li>
 									<li>
 										Reconhecimento de números;
@@ -85,7 +85,7 @@
 									</li>
 								</ul>
 								<h3>
-									 Conhecimentos Gerais:
+									 Conhecimentos Gerais
 								</h3>
 								<ul>
 									<li>
@@ -126,7 +126,7 @@
 									</li>
 								</ul>
 								<p>
-									... Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 									<p>
 									<b>Sinônimos de Aprendido</b>

@@ -15,7 +15,7 @@
 									O presente documento tem como objetivo apresentar as contribuições, a amplitude do fazer fonoaudiólogo no contexto educacional e esclarecer prováveis dúvidas sobre essa área de competência. Mais especificamente, apoiadas nos princípios éticos que regem a profissão, nas políticas públicas de Saúde e Educação.
 								</p>
 								<p>
-									A Fonoaudiologia é a ciência que tem como objeto de estudo a comunicação humana em todas as suas dimensões e ciclos de vida. Abrange os aspectos referentes à linguagem oral, escrita e sinalizada, fluência, articulação da fala, voz, às estruturas/ funções orofaciais (respiração, mastigação e deglutição), funções auditiva e vestibular (equilíbrio) e aos sistemas de comunicação alternativos, aumentativos ou suplementares, entre outros.
+									A Fonoaudiologia é a ciência que tem como objeto de estudo a comunicação humana em todas as suas dimensões e ciclos de vida. Abrange os aspectos referentes à linguagem oral, escrita e sinalizada, fluência, articulação da fala, voz, às estruturas,funções orofaciais (respiração, mastigação e deglutição), funções auditiva e vestibular (equilíbrio) e aos sistemas de comunicação alternativos, aumentativos ou suplementares, entre outros.
 								</p>
 								<p>
 									A interface da Fonoaudiologia com a Educação pode se dar por meio de ações clínicas e de prevenção e promoção da Saúde pela demandas relativas aos problemas da comunicação humana e à aprendizagem.
@@ -96,23 +96,23 @@
 									Utilização de métodos e técnicas fonoaudiólogas, afim de contribuir e minimizar as dificuldades apresentadas no âmbito escolar, relacionado ao contexto fonoaudiologico.
 								</p>
 								<h3>
-									Estratégias
+									Estratégias;
 								</h3>
 								<ul>
 									<li>
-										Observação e coleta de dados
+										Observação e coleta de dados;
 									</li>
 									<li>
-										Intervenções para orientação e intervenções
+										Intervenções para orientação e intervenções;
 									</li>
 									<li>
-										Plataforma com contexto interativos, interventivos, orientativos e instrutivos.
+										Plataforma com contexto interativos, interventivos, orientativos e instrutivos;
 									</li>
 									<li>
-										Atendimentos emergenciais
+										Atendimentos emergenciais;
 									</li>
 									<li>
-										Trabalho junto a equipe terapêutica multidisciplinar
+										Trabalho junto a equipe terapêutica multidisciplinar;
 									</li>
 									<li>
 										Estimulação Auditiva;
@@ -130,7 +130,7 @@
 										Interação e jogos cooperativos;
 									</li>
 									<li>
-										Músicas, memória, atenção e ritmo.
+										Músicas, memória, atenção e ritmo;
 									</li>
 									<li>
 										Reconhecimento de Imagens em Geral, bem como associações de animais, cores e números;

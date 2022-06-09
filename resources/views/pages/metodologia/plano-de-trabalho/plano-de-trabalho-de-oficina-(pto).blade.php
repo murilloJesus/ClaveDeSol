@@ -9,20 +9,20 @@
 									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma qualidade de vida, um desenvolvimento social, afetivo e seja estimulado cognitivamente para pequenas resoluções que a sociedade possa exigir, com o propósito em destaque de oferecer a estes um ambiente agradável e de descontração.
 								</p>
 								<h3>
-									 Conteúdos:
+									 Conteúdos
 								</h3>
 								<p>
-									Reforço eaprimoramentos dos  sentidos sensoriais (tato-olfato-paladar-audição-visão), para que isso os ajude a perceber o mundo e suas diversidades/ sejam atentos ao mundo...
+									Reforço e aprimoramentos dos  sentidos sensoriais (tato,olfato,paladar,audição,visão) para que isso os ajude a perceber o mundo e suas diversidades, sejam atentos ao mundo.
 								</p>
 								<h3>
-									Estimulação:
+									Estimulação
 								</h3>
 								<ul>
 									<li>
 										Artesanato com sucatas;
 									</li>
 									<li>
-										Pintura de telas/vidros/guardanapos/MDF, etc;
+										Pintura de telas,vidros,guardanapos,MDF;
 									</li>
 									<li>
 										Jogos;
@@ -31,7 +31,7 @@
 										Danças;
 									</li>
 									<li>
-										Atividades recreativas/gincanas;
+										Atividades recreativas,gincanas;
 									</li>
 									<li>
 										Piscina;
@@ -78,7 +78,7 @@
 										Noção de números;
 									</li>
 									<li>
-										Noção de quantidade
+										Noção de quantidade;
 									</li>
 									<li>
 										Reconhecimento do valor monetário;
@@ -87,7 +87,7 @@
 										Manuseio de dinheiro;
 									</li>
 									<li>
-										Noção de: -cor/forma/tamanho/lugar/espaço/etc;
+										Noção de cor,forma,tamanho,lugar,espaço.;
 									</li>
 									<li>
 										Exposição e noção do alfabeto;
@@ -117,7 +117,7 @@
 										Colagem;
 									</li>
 									<li>
-										Pintura com giz / pincel;
+										Pintura com giz,pincel;
 									</li>
 									<li>
 										Socialização em geral;
@@ -134,7 +134,7 @@
 										Manuseio, reconhecimento e organização de seus pertences;
 									</li>
 									<li>
-										Preparar seus alimentos (frios/ se possível quente);
+										Preparar seus alimentos (frios, se possível quente);
 									</li>
 									<li>
 										Autonomia para se servir, para comer, para lavar seus utensílios, para buscar seus desejos;
@@ -149,7 +149,7 @@
 										Treino de tirar e colocar roupas e sapatos;
 									</li>
 									<li>
-										Treino da utilização do uso da cozinha-cuidados- (receitas)
+										Treino da utilização do uso da cozinha,cuidados (receitas)
 									</li>
 									<li>
 										Passeios;
@@ -168,7 +168,7 @@
 									</li>
 								</ul>
 								<p>
-									... Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 								<p>
 									<b>Sinônimos de Aprendido</b>

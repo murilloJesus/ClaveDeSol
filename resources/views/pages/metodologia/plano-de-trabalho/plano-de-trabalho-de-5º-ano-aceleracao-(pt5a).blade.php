@@ -9,10 +9,10 @@
 									Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena alfabetização para serem inserido no Ensino Regular, contando com o apoio efetivo da Psicóloga junto ao aluno e a família.
 								</p>
 								<h3>
-									Conteúdos:
+									Conteúdos
 								</h3>
 								<h3>
-									Língua Portuguesa:
+									Língua Portuguesa
 								</h3>
 								<ul>
 									<li>
@@ -57,7 +57,7 @@
 								</h3>
 								<ul>
 									<li>
-										Domínio nas noções de espaço/tempo/tamanho/;
+										Domínio nas noções de espaço,tempo,tamanho;
 									</li>
 									<li>
 										Resolução de situações problemas;
@@ -78,26 +78,26 @@
 										Noções de porcentagem;
 									</li>
 									<li>
-										Numerais/quantidade;
+										Numerais,quantidade;
 									</li>
 									<li>
-										Antecessores/sucessores;
+										Antecessores,sucessores;
 									</li>
 									<li>
 										Números pares e ímpares;
 									</li>
 									<li>
-										Dobro/triplo;
+										Dobro,triplo;
 									</li>
 									<li>
 										Sistema monetário;
 									</li>
 									<li>
-										Noções de compra/venda/troca
+										Noções de compra,venda,troca
 									</li>
 								</ul>
 								<h3>
-									Conhecimentos Gerais:
+									Conhecimentos Gerais
 								</h3>
 								<ul>
 									<li>
@@ -110,7 +110,7 @@
 										Musicoterapia
 									</li>
 									<li>
-										Artes (colagem/pinturas/desenhos)
+										Artes (colagem,pinturas,desenhos)
 									</li>
 									<li>
 										Saúde;
@@ -153,7 +153,7 @@
 									</li>
 								</ul>
 								<h3>
-									Trabalho Psicológico:
+									Trabalho Psicológico
 								</h3>
 								<ul>
 									<li>
@@ -170,7 +170,7 @@
 									</li>
 								</ul>
 								<h3>
-									Direcionamentos nas questões de:
+									Direcionamentos nas questões de
 								</h3>
 								<ul>
 									<li>
@@ -186,11 +186,11 @@
 										Responsabilidade;
 									</li>
 									<li>
-										Pontualidade, etc
+										Pontualidade;
 									</li>
 								</ul>
 								<p>
-									... Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 								<p>
 									<b>Sinônimos de Aprendido</b>

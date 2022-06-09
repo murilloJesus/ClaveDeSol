@@ -36,7 +36,7 @@
 									</li>
 
 									<li>
-										Exposição da receita escolhida
+										Exposição da receita escolhida;
 									</li>
 
 									<li>
@@ -48,7 +48,7 @@
 									</li>
 
 									<li>
-										Identificação/reconhecimento do ingrediente;
+										Identificação,reconhecimento do ingrediente;
 									</li>
 
 									<li>
@@ -60,11 +60,11 @@
 									</li>
 
 									<li>
-										Cuidado com os eletrodomésticos (garfo/ faca/ liquidificador/batedeira/forno, etc
+										Cuidado com os eletrodomésticos (garfo, faca, liquidificador, batedeira, forno, etc
 									</li>
 
 									<li>
-										Elevar a auto-estima do aluno (sentir-se útil ao preparar uma receita);-trabalhar em equipe (aprender e respeitar as regras de convívio);-aprender bons modos à mesa;
+										Elevar a auto-estima do aluno (sentir-se útil ao preparar uma receita); Trabalhar em equipe (aprender e respeitar as regras de convívio); Aprender bons modos à mesa;
 									</li>
 
 									<li>
@@ -74,11 +74,11 @@
 								</ul>
 
 								<h3>
-									  Desenvolver:
+									  Desenvolver
 								</h3>
 
 								<p>
-									antes de iniciar a receita os alunos devem independente da limitação física ou cognitiva, manusear, degustar, cheirar, reconhecer todos os ingredientes, explorar em todos os aspectos.
+									Antes de iniciar a receita os alunos devem independente da limitação física ou cognitiva, manusear, degustar, cheirar, reconhecer todos os ingredientes, explorar em todos os aspectos.
 								</p>
 
 								<h3>
@@ -103,7 +103,7 @@
 									</li>
 
 									<li>
-										enrolar
+										enrolar;
 									</li>
 
 									<li>

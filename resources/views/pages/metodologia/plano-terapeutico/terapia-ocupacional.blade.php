@@ -15,7 +15,7 @@
 								<p>
 									 As práticas terapêuticas estarão entrelaçadas com os processos educacionais, sendo assim, os objetivos principais da Terapia Ocupacional dentro do ambiente escolar visão trabalhar e desempenhar suas funções específicas em conjunto com os serviços educacionais, colaborando de forma técnica e eficiente para que os alunos encontrem um nível satisfatório de qualidade de vida.
 								</p>
-								<h3>Objetivos Geral:</h3>
+								<h3>Objetivos Geral</h3>
 								<ul>
 									<li> Estruturação de rotina do aluno.
 									</li>
@@ -54,9 +54,9 @@
 									</li>
 								</ul>
 								<p>
-									Tecnologia assistiva - qual treina e capacita os professores para o uso da tecnologia adaptada ou projetadas, para a melhora das funcionalidades consequentes a deficiência ou mobilidade reduzida.
+									Tecnologia assistiva, qual treina e capacita os professores para o uso da tecnologia adaptada ou projetadas, para a melhora das funcionalidades consequentes a deficiência ou mobilidade reduzida.
 								</p>
-								<h3>Objetivos Específicos:</h3>
+								<h3>Objetivos Específicos</h3>
 								<ul>
 									<li>
 										  Estimular a socialização intuindo facilitar a iniciativa e interesse do aluno.
@@ -71,11 +71,11 @@
 										Estimular a independência e autonomia, através das realizações das AVBD’s e AVBP’s (atividades básicas da vida diária e prática)
 									</li>
 								</ul>
-								<h3>Métodos e Técnicas:</h3>
+								<h3>Métodos e Técnicas</h3>
 								<p>
 									    De acordo com o programa educacional do instituto a Terapia Ocupacional tem como função desempenhar e facilitar o aprendizado dos alunos com deficiência ao acesso à educação, pois acredita na oportunidade do indivíduo desenvolver aspectos intelectuais, social, emocional e físicos, por meio de participação no espaço educacional, melhorando e possibilitando a qualidade de vida e para isto utilizará de diversas atividades interventivas e de autocuidado, afim de restaurar <b>a capacidade dos alunos, atividades como recurso terapêutico com contexto da ocupação  humana.</b>
 								</p>
-								<h3>Estratégias:</h3>
+								<h3>Estratégias</h3>
 								<p>
 									<b>O Terapeuta Ocupacional sendo o profissional dentro do âmbito escolar que pode atuar para a</b> <a href="https://pt.wikipedia.org/wiki/Preven%C3%A7%C3%A3o">prevenção</a>, <a href="https://pt.wikipedia.org/wiki/Habilita%C3%A7%C3%A3o">habilitação</a> ou reabilitação, então as estratégias utilizadas pela terapeuta ocupacional está direcionada para contribuir  com a manutenção e aquisição de habilidades, sejam elas motoras ou cognitivas, para um melhor desempenho escolar, sendo assim oferece atividades especificas que cooperem para o ganho de autonomia  e independência.
 								</p>
@@ -101,7 +101,7 @@
 								<p>
 									 A terapia ocupacional tem o papel de identificar junto ao instituto possíveis dificuldades inerentes a condição de totalidade da aprendizagem, sendo assim auxiliar com planejamentos, intervenções, orientações e resoluções dos problemas apresentado, afim de obter comportamento saudáveis neste contexto.
 								</p>
-								<h3>Conclusão:</h3>
+								<h3>Conclusão</h3>
 								<p>
 									A terapia ocupacional no ambiente escolar tem uma contribuição que perpasse a restruturação das escolas, da atenção individualizada do aluno, dando visibilidade e um conhecimento maior em suas potencialidades, assim como alcance satisfatório do meio sociocultural em que o aluno está inserido.
 								</p>

@@ -11,7 +11,7 @@
 								</p>
 
 								<p>
-									<b>Obs.:déficits cognitivos:</b> são alterações na maneira como o indivíduo processa uma informação. Está relacionado a inteligência. Envolve principalmente funções mentais como a memória, linguagem, raciocínio lógico e abstrato, atenção, percepção, capacidades executivas e capacidade visio espacial.
+									<b>Obs:déficits cognitivos</b> são alterações na maneira como o indivíduo processa uma informação. Está relacionado a inteligência. Envolve principalmente funções mentais como a memória, linguagem, raciocínio lógico e abstrato, atenção, percepção, capacidades executivas e capacidade visio espacial.
 								</p>
 
 								<p>
@@ -27,13 +27,13 @@
 								</p>
 
 								<h3>
-									Coordenação Motora:
+									Coordenação Motora
 								</h3>
 
 								<ul>
 
 									<li>
-										Explorar brinquedos/- ensinar a brincar/ a função de cada brinquedo;
+										Explorar brinquedos ensinar a brincar, a função de cada brinquedo;
 									</li>
 
 									<li>
@@ -51,7 +51,7 @@
 								</ul>
 
 								<h3>
-									 Estimulação:
+									 Estimulação
 								</h3>
 
 								<ul>
@@ -72,15 +72,15 @@
 								<ul>
 
 									<li>
-										Tempo (quanto tempo preciso estar aqui...);
+										Tempo (quanto tempo preciso estar aqui);
 									</li>
 
 									<li>
-										Lugar (para onde irei depois daqui...);
+										Lugar (para onde irei depois daqui);
 									</li>
 
 									<li>
-										Espaço (o que devo fazer nesse local...);
+										Espaço (o que devo fazer nesse local);
 									</li>
 
 								</ul>
@@ -104,7 +104,7 @@
 									</li>
 
 									<li>
-										Confecção de bandinha com sucatas; ( o som auxilia na atenção/concentração);
+										Confecção de bandinha com sucatas ( o som auxilia na atenção concentração);
 									</li>
 
 									<li>
@@ -120,7 +120,7 @@
 
 
 								<h3>
-									Utilizar dos brinquedos que a escola oferece como:
+									Utilizar dos brinquedos que a escola oferece
 								</h3>
 
 								<ul>
@@ -137,7 +137,7 @@
 									</li>
 
 									<li>
-										Brincadeiras corporais/ bolas/ Bambolês;
+										Brincadeiras corporais,bolas,bambolês;
 									</li>
 
 									<li>
@@ -147,7 +147,7 @@
 								</ul>
 
 								<h3>
-									 Atividades Pedagógicas:
+									 Atividades Pedagógicas
 								</h3>
 
 								<ul>
@@ -164,7 +164,7 @@
 									</li>
 
 									<li>
-										Revistas- reconhecer imagens/rasgar figuras/amassar folhas;
+										Revistas- reconhecer imagens,rasgar,figuras,amassar folhas;
 									</li>
 
 									<li>
@@ -193,12 +193,12 @@
 								</ul>
 
 								<h3>
-									Adquirir boas maneiras e instruções no:
+									Adquirir boas maneiras e instruções
 								</h3>
 
 								<ul>
 									<li>
-										Comer/ sentar/ esperar/ manuseio de talheres e copos;
+										Comer,sentar,esperar,manuseio de talheres e copos;
 									</li>
 
 									<li>
@@ -206,12 +206,12 @@
 									</li>
 
 									<li>
-										Saber resolver uma pequena situação problema do dia a dia ( Ex.:abrir um refrigerante)
+										Saber resolver uma pequena situação problema do dia a dia ( Ex:abrir um refrigerante)
 									</li>
 								</ul>
 
 								<p>
-									... Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 
 									<p>

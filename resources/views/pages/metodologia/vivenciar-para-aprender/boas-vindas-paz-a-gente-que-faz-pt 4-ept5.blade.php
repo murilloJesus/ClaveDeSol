@@ -13,7 +13,7 @@
 									 Turmas: P.T.4 E P.T.5
 								</h3>
 								<p>
-									Os alunos que apresentam o perfil do p.T.4 e p.T.5 são alunos que apresentam-se verbais, na grande maioria apresentam comportamentos adequados, e a maior dificuldade deles além das pedagógicas são as de socialização. Nesses p.T.S é importante além de focar nas atividades que englobem língua portuguesa, conhecimentos gerais, raciocínio lógico matemático, é necessário oferecer atividades de expressividade, socialização, para o favorecimento da autoconfiança e amadurecimento. Também é uma fase em que eles estão curiosos e ao mesmo tímidos, e que o relógio biológico está em grandes modificações hormonais para a sexualidade, que também devem ser temas abordados ao longo do semestre letivo. Vamos trabalhar com eles nesse primeiro momento sobre paz a gente que faz!
+									Os alunos que apresentam o perfil do P.T.4 e P.T.5 são alunos que apresentam-se verbais, na grande maioria apresentam comportamentos adequados, e a maior dificuldade deles além das pedagógicas são as de socialização. Nesses P.T.S é importante além de focar nas atividades que englobem língua portuguesa, conhecimentos gerais, raciocínio lógico matemático, é necessário oferecer atividades de expressividade, socialização, para o favorecimento da autoconfiança e amadurecimento. Também é uma fase em que eles estão curiosos e ao mesmo tímidos, e que o relógio biológico está em grandes modificações hormonais para a sexualidade, que também devem ser temas abordados ao longo do semestre letivo. Vamos trabalhar com eles nesse primeiro momento sobre paz a gente que faz!
 								</p>
 								<h3>
 									Objetivos específicos
@@ -44,10 +44,10 @@
 										Paz no mundo;
 									</li>
 									<li>
-										Atitudes contrarias a paz
+										Atitudes contrarias a paz;
 									</li>
 									<li>
-										Semeadores da paz
+										Semeadores da paz;
 									</li>
 								</ul>
 								<h3>
@@ -70,7 +70,7 @@
 										Palavras cruzadas;
 									</li>
 									<li>
-										Cartazes
+										Cartazes;
 									</li>
 								</ul>
 								<h3>
@@ -78,20 +78,20 @@
 								</h3>
 								<ul>
 									<li>
-										 Favorecer o desenvolvimento da noção de tempo
+										 Favorecer o desenvolvimento da noção de tempo;
 									</li>
 									<li>
 										 Identificação de números, contagem, sequência e quantidade numérica;
 									</li>
 									<li>
-										Ordens e classes; · número decimal; · área e perímetro; · sólidos geométricos; · adição, multiplicação e subtração; · medidas de tempo, massa, comprimento e capacidade; · frações equivalentes, própria e imprópria, ideia de fração e fração de um número; · tabuada de multiplicação.
+										Ordens e classes;  número decimal;  área e perímetro;  sólidos geométricos;  adição, multiplicação e subtração;  medidas de tempo, massa, comprimento e capacidade;  frações equivalentes, própria e imprópria, ideia de fração e fração de um número;  tabuada de multiplicação.
 									</li>
 								</ul>
 								<h3>
 									Dicas
 								</h3>
 								<p>
-									“perfil do aluno”- o próprio aluno com o auxílio do professor irá preencher o seu perfil a lápis e esse preenchimento deverá acontecer em 3 momentos no semestre, para que o aluno possa perceber sua própria evolução.
+									“Perfil do aluno”- o próprio aluno com o auxílio do professor irá preencher o seu perfil a lápis e esse preenchimento deverá acontecer em 3 momentos no semestre, para que o aluno possa perceber sua própria evolução.
 								</p>
 								<p>
 									“Rotina”- a rotina diária de forma ilustrativa é de extrema importância para compreensão do que acontecerá ao longo do período (para as salas que tiverem algum aluno que apresentem essa necessidade, a rotina deverá ser realizada com todos, ou de forma individual).
@@ -103,7 +103,7 @@
 									”Calendário”- é importante que desde o primeiro dia possamos ter o calendário para eles visualizarem e registrarem para organizar os acontecimentos e compreender as questões de tempo. (nas folhas de registro, e da vivencia é importante constar sempre a data)
 								</p>
 								<p>
- 									“Roda de conversa” – para os alunos desses p.T.S é de extrema importância determinar alguns temas a serem conversados na roda, tornando o ambiente tranquilo e de confiança e expressividade. Sugiro que essa roda de conversa seja uma vez por semana em um espaço diferenciado da sala de aula .
+ 									“Roda de conversa” – para os alunos desses P.T.S é de extrema importância determinar alguns temas a serem conversados na roda, tornando o ambiente tranquilo e de confiança e expressividade. Sugiro que essa roda de conversa seja uma vez por semana em um espaço diferenciado da sala de aula .
 								</p>
 								<p align="center">
 									<b>

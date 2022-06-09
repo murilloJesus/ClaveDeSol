@@ -28,9 +28,11 @@ Projeto de musicalização (Educador)
         aluno de forma mais individual possível.
     </p>
     <h3>Planejamento da aula</h3>
-    <p>
-        Os alunos deverão ser recebidos no espaço da aula com:
-    </p>
+    <small>
+        <p>
+        Os alunos deverão ser recebidos no espaço da aula com
+        </p>
+    </small>
     <ul>
         <li>
             Materiais já organizados;
@@ -59,7 +61,7 @@ Projeto de musicalização (Educador)
     <h3>O Musicista terá 3 direcionamentos a seguir</h3>
     <ul>
         <li>
-            Utilizar como norte os P.T.s que determina o nível de necessidade da sala;
+            Utilizar como norte os P.T.S que determina o nível de necessidade da sala;
         </li>
         <li>
             Receber um Projeto Pedagógico que dará a direção dos assuntos que deve explorar;
@@ -117,7 +119,7 @@ Projeto de musicalização (Educador)
     <p>
         Plano desenvolvido para alunos que possuem um rendimento médio, já apresentam uma compreensão razoável, porém um
         comportamento desordenado (não aceita regras, limites, realiza todas as suas vontades se descontrola com
-        facilidade, apresenta agressividade), e não apresenta nenhum conteúdo pedagógico.
+        facilidade, apresenta agressividade) e não apresenta nenhum conteúdo pedagógico.
     </p>
     <p>
         Nesta turma os alunos necessitam adquirir a reorganização pessoal, aceitar regras, limites, tempo e adquiri
@@ -132,7 +134,7 @@ Projeto de musicalização (Educador)
             Afetivos: estreitar vínculos na aceitação do grupo e do próximo
         </li>
         <li>
-            Cognitivos: oferecer atividades que estimulem a atenção/concentração e a realização de comandos.
+            Cognitivos: oferecer atividades que estimulem a atenção,concentração e a realização de comandos.
         </li>
     </ul>
 
@@ -172,7 +174,7 @@ Projeto de musicalização (Educador)
     <p>
         Plano foi desenvolvido para alunos que apresentam uma compreensão, porém de baixa aceitação a determinações.
         Apresentam grande dificuldade na assimilação e aquisição de conteúdo. Alunos que possuem dificuldade de
-        atenção/concentração e precisam ser estimulados em tempo integral até mesmo em suas atividades da vida diária.
+        atenção, concentração e precisam ser estimulados em tempo integral até mesmo em suas atividades da vida diária.
     </p>
     <p>
         Plano desenvolvido para alunos que necessitam ser estimulados cognitivamente e reorganizado para que possam vir
@@ -190,7 +192,7 @@ Projeto de musicalização (Educador)
             Identificação de letras através da música;
         </li>
         <li>
-            Associação de letra/ som
+            Associação de letra, som
         </li>
         <li>
             Associação de figuras a palavras;
@@ -225,7 +227,8 @@ Projeto de musicalização (Educador)
 
         </li>
     </ul>
-    <h3>P.T.3 <small> plano de trabalho para sala: 3º ano Ensino Fundamental </small></h3>
+    <h3>P.T.3 
+      <br/ >  <small> Plano de trabalho para sala: 3º ano Ensino Fundamental </small></h3>
     <p>
         Plano de Trabalho foi desenvolvido para alunos que já possuem as noções da alfabetização, porém se encontram na
         fase da construção do pensamento, compreendem e aceitam as determinações, porém a dificuldade de aprendizagem é
@@ -261,7 +264,7 @@ Projeto de musicalização (Educador)
             Meio ambiente;
         </li>
         <li>
-            Direitos/deveres;
+            Direitos e deveres;
         </li>
         <li>
             Contação de histórias através da música;
@@ -364,7 +367,7 @@ Projeto de musicalização (Educador)
             Expressão do pensamento crítico;
         </li>
         <li>
-            Domínio nas noções de espaço/tempo/tamanho;
+            Domínio nas noções de espaço,tempo,tamanho;
         </li>
         <li>
             Saúde;
@@ -376,7 +379,7 @@ Projeto de musicalização (Educador)
             Meio ambiente;
         </li>
         <li>
-            Direitos/ deveres;
+            Direitos e deveres;
         </li>
         <li>
             Autonomia;

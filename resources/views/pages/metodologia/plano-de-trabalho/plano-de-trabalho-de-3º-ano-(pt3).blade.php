@@ -10,7 +10,7 @@
 									Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando avançar no desenvolvimento da escrita e da leitura e do raciocínio lógico.
 								</p>
 								<h3>
-									Conteúdos:
+									Conteúdos
 								</h3>
 								<h3>
 									Língua Portuguesa:
@@ -44,7 +44,7 @@
 										Expressão do pensamento e senso crítico;
 									</li>
 									<li>
-										Jogos com letras móveis;(sorteia uma letra e o aluno deve escrever uma palavra);
+										Jogos com letras móveis (sorteia uma letra e o aluno deve escrever uma palavra);
 									</li>
 									<li>
 										Recortes de palavras em jornais e revistas;
@@ -54,7 +54,7 @@
 									</li>
 								</ul>
 								<h3>
-									Matemática:
+									Matemática
 								</h3>
 								<ul>
 									<li>
@@ -64,18 +64,18 @@
 										Subtração;
 									</li>
 									<li>
-										Calendário (dia/mês);
+										Calendário (dia e mês);
 									</li>
 								</ul>
 								<h3>
-									 Noções de:
+									 Noções de
 								</h3>
 								<ul>
 									<li>
-										Tempo *espaço *lugar/dia/noite/tamanho;
+										Tempo, espaço, lugar, dia ,noite, tamanho;
 									</li>
 									<li>
-										Reconhecimento de números/quantidade;
+										Reconhecimento de números e quantidade;
 									</li>
 									<li>
 										Sistema monetário;
@@ -92,13 +92,13 @@
 										Situações sociais;
 									</li>
 									<li>
-										Higiene/ saúde;
+										Higiene e saúde;
 									</li>
 									<li>
 										Meio ambiente;
 									</li>
 									<li>
-										Direitos/deveres;
+										Direitos e deveres;
 									</li>
 									<li>
 										Contação de histórias;
@@ -107,7 +107,7 @@
 										Pastas das atividades do Teaach para complementos das atividades;
 									</li>
 									<li>
-										Recortes/ colagem/ pintura;
+										Recortes, colagem, pintura;
 									</li>
 									<li>
 										Jogos;
@@ -141,7 +141,7 @@
 									</li>
 								</ul>
 								<p>
-									... tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 									<p>
 									<b>Sinônimos de Aprendido</b>

@@ -2,7 +2,7 @@
 @section('content')
 <article id="content">
 
-								@section('title') Educação ambiental! <br /> Preservar o meio ambiente é coisa séria! </h2>
+								@section('title') Educação ambiental <br /> Preservar o meio ambiente é coisa séria! </h2>
 								@endsection
 
 								<p>
@@ -18,7 +18,7 @@
 								</h3>
 
 								<p>
-									Temas:
+									Temas
 								</p>
 
 								<ul>

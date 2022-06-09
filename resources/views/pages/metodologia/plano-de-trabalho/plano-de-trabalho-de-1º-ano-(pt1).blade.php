@@ -12,33 +12,33 @@
 									Conteúdos:
 								</h3>
 								<p>
-									Sensoriais- estimular todos os SENTIDOS-(audição/tato/olfato/paladar/visão);
+									Sensoriais, estimular todos os Sentidos (audição,tato,olfato,paladar,visão);
 								</p>
 								<p>
-									Afetivos- estreitar vínculos na aceitação do grupo e do próximo
+									Afetivos estreitar vínculos na aceitação do grupo e do próximo.
 								</p>
 								<p>
-									Cognitivos- oferecer atividades que estimulem a atenção/concentração e a realização de comandos.
+									Cognitivos oferecer atividades que estimulem a atenção,concentração e a realização de comandos.
 								</p>
 								<h3>
-									Coordenação Motora:
+									Coordenação Motora
 								</h3>
 								<ul>
 									<li>
 										Massinha;
 									</li>
 									<li>
-										Revista com auxílio e apoio verbal
+										Revista com auxílio e apoio verbal;
 									</li>
 									<li>
-										Jogos com auxílio e direcionamento
+										Jogos com auxílio e direcionamento;
 									</li>
 									<li>
-										Brinquedos sob supervisão
+										Brinquedos sob supervisão;
 									</li>
 								</ul>
 								<h3>
-									Estimulação:
+									Estimulação
 								</h3>
 								<ul>
 									<li>
@@ -57,13 +57,13 @@
 										na aceitação e na compreensão do painel de rotina;
 									</li>
 									<li>
-										Noção de tempo – dia (calendário);
+										Noção de tempo (calendário);
 									</li>
 									<li>
-										Lugar- onde estou e para onde vou (organização pessoal);
+										Lugar, onde estou e para onde vou (organização pessoal);
 									</li>
 									<li>
-										Espaço- limites e regras (como devo me comportar, até onde tenho espaço);
+										Espaço, limites e regras (como devo me comportar, até onde tenho espaço);
 									</li>
 									<li>
 										Adequar pranchas do Teaach para reforçar atividades de registro com mais apoio visual;
@@ -133,14 +133,14 @@
 										Utilização e organização de seus pertences;
 									</li>
 									<li>
-										Estimular a alimentação; forma/quantidade/como se comportar;
+										Estimular a alimentação; forma,quantidade,como se comportar;
 									</li>
 									<li>
 										Estimular o uso do banheiro com independência;
 									</li>
 								</ul>
 								<p>
-									... Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 								<p>
 									<b>Sinônimos de Aprendido</b>

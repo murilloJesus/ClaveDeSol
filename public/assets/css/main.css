@@ -3157,3 +3157,17 @@ input, select, textarea {
     font-weight: 100;
     font-size: .75em;
 }
+
+		.button-b {
+			background-color: #08162e;
+			box-shadow: #000000 4px 4px 0px;
+			border-radius: 8px;
+			padding: 0.8em 2em 0.8em 2em;
+			font-size: 20px;
+		}
+
+		.button-b:hover {
+			background-color: #08162e;
+			transform: translateY(4px) translateX(4px);
+			box-shadow: 0px 0px 0px
+		}

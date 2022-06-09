@@ -3,23 +3,23 @@
 <article id="content">
 
 								@section('title')
-							    A prática das Atividades de Vida Diária <br/ >(AVD) e sua importância
+							    A prática das Atividades de Vida Diária <br/ > e sua importância
 								@endsection
 								
 								<p>
-									Chamamos de avd’s as atividades rotineiras, ou seja, que são realizadas diariamente com funções de autocuidado e higiene pessoal.
+									Chamamos de AVDS as atividades rotineiras, ou seja, que são realizadas diariamente com funções de autocuidado e higiene pessoal.
 								</p>
 								<p>
-									Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos!
+									Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos.
 								</p>
 								<p>
-									Primeiramente é importante traçar uma meta, um objetivo a ser alcançado com a criança/adolescente/adulto, focar em uma atividade por vez, para que não ocorra sobrecargas e frustrações, levando a desistência.
+									Primeiramente é importante traçar uma meta, um objetivo a ser alcançado com a criança,adolescente,adulto focar em uma atividade por vez, para que não ocorra sobrecargas e frustrações, levando a desistência.
 								</p>
 								<P>
-									É de fundamental importância a paciência e persistência para que o objetivo traçado seja alcançado. O tempo de aquisição da independência em algumas avds variam bastante de pessoa para pessoa, então é necessário repetição, insistência e perseverança no que desejamos conquistar!
+									É de fundamental importância a paciência e persistência para que o objetivo traçado seja alcançado. O tempo de aquisição da independência em algumas AVDS variam bastante de pessoa para pessoa, então é necessário repetição, insistência e perseverança no que desejamos conquistar.
 								</P>
 								<p>
-									A motivação aliada as brincadeiras durante a realização das AVDs podem ajudar as crianças em aceitar e adquirir as habilidades mais rapidamente.
+									A motivação aliada as brincadeiras durante a realização das AVDS podem ajudar as crianças em aceitar e adquirir as habilidades mais rapidamente.
 								</p>
 								<p>
 									Seja o modelo, faça junto com a criança, mostrando o passo a passo da atividade. Muitas crianças aprendem mais rapidamente observando o outro fazer, do que com comando e orientações verbais.

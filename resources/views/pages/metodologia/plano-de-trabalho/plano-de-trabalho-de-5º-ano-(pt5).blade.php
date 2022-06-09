@@ -9,14 +9,14 @@
 									 Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização como um todo.
 								</p>
 								<h3>
-									Conteúdos:
+									Conteúdos
 								</h3>
 								<h3>
-									 Língua Portuguesa:
+									 Língua Portuguesa
 								</h3>
 								<ul>
 									<li>
-										Treino ortográfico
+										Treino ortográfico;
 									</li>
 									<li>
 										Escrita espontânea;
@@ -61,7 +61,7 @@
 										Bingo de palavras;
 									</li>
 									<h3>
-										Matemática:
+										Matemática
 									</h3>
 									<li>
 										Números;
@@ -88,7 +88,7 @@
 										Divisão;
 									</li>
 									<li>
-										Domínio nas noções de: (tamanho/lugar/espaço/tempo, etc)
+										Domínio nas noções de (tamanho,lugar,espaço,tempo, etc)
 									</li>
 									<li>
 										Calendário;
@@ -97,7 +97,7 @@
 										Sistema monetário;
 									</li>
 									<li>
-										As diferenças entre: troca/venda/compra
+										As diferenças entre: troca,venda,compra
 									</li>
 									<li>
 										Porcentagem;
@@ -107,7 +107,7 @@
 									</li>
 								</ul>
 								<h3>
-									Conhecimentos Gerais:
+									Conhecimentos Gerais
 								</h3>
 								<ul>
 									<li>
@@ -147,7 +147,7 @@
 										Sala de TV;
 									</li>
 									<li>
-										Visita das terapeutas;(fono/T.O./Psicologa);
+										Visita das terapeutas (fono/T.O./Psicologa);
 									</li>
 									<li>
 										exposição de trabalhos;
@@ -162,14 +162,14 @@
 										Gincanas;
 									</li>
 									<li>
-										Colagem/recortes/desenhos/pinturas;
+										Colagem,recortes,desenhos,pinturas;
 									</li>
 									<li>
 										Festas escolares.
 									</li>
 								</ul>
 								<p>
-									... Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno!!!
+									Tudo que vou ensinar , precisa ser aprendido, então cabe a mim professor buscar um meio para que essa aprendizagem venha fazer a diferença  na qualidade de vida do meu aluno.
 								</p>
 									<p>
 									<b>Sinônimos de Aprendido</b>

@@ -11,13 +11,13 @@
 									<b>Período:</b> 25/01 á 15/02
 								</p>
 								<h3>
-									Turmas: P.T.2 E P.T.3
+									Turmas P.T.2 E P.T.3
 								</h3>
 								<p>
-									Os alunos que apresentam o perfil do p.T.2 e p.T.3, são alunos que estão em desenvolvimento das habilidades cognitivas e subsequente pedagógicas. Esses alunos na maioria das vezes apresentam déficit em atenção e concentração, além de dificuldades em memorização, a maioria apresentam vontade de aprender porém falta de estimulo e/ou limitações. Nessa fase precisamos esgotar recursos, ser criativos, para que possamos ensinar de uma maneira que eles aprendam, sintam-se capazes e curiosos. Estes alunos estão em fase de descobertas, na sua maioria possuem um verbal que pode ser nosso instrumento facilitador para alcançarmos nossos principais objetivos. É importante ressaltar as questões de estabelecimento de regras e limites, pois muitos apresentam essa dificuldade nos impedindo de apropriar-se de alguns ganhos. As vivências devem ser o carro chefe da rotina desses alunos, pois eles necessitam o tempo todo do concreto para abstrair as informações, e poder iniciar os registros. Não podemos esquecer de sempre mantê-los organizados para poder estruturar e facilitar a aprendizagem. É importante que o pedagogo organize a sua rotina em sala incluindo sempre a acolhida, a vivência, sequência de atividades, lanche, higiene, jogos, brincadeiras, o cuidar de si e do próximo e finalização do dia.
+									Os alunos que apresentam o perfil do P.T.2 e P.T.3, são alunos que estão em desenvolvimento das habilidades cognitivas e subsequente pedagógicas. Esses alunos na maioria das vezes apresentam déficit em atenção e concentração, além de dificuldades em memorização, a maioria apresentam vontade de aprender porém falta de estimulo e/ou limitações. Nessa fase precisamos esgotar recursos, ser criativos, para que possamos ensinar de uma maneira que eles aprendam, sintam-se capazes e curiosos. Estes alunos estão em fase de descobertas, na sua maioria possuem um verbal que pode ser nosso instrumento facilitador para alcançarmos nossos principais objetivos. É importante ressaltar as questões de estabelecimento de regras e limites, pois muitos apresentam essa dificuldade nos impedindo de apropriar-se de alguns ganhos. As vivências devem ser o carro chefe da rotina desses alunos, pois eles necessitam o tempo todo do concreto para abstrair as informações, e poder iniciar os registros. Não podemos esquecer de sempre mantê-los organizados para poder estruturar e facilitar a aprendizagem. É importante que o pedagogo organize a sua rotina em sala incluindo sempre a acolhida, a vivência, sequência de atividades, lanche, higiene, jogos, brincadeiras, o cuidar de si e do próximo e finalização do dia.
 								</p>
 								<p>
-									Temas:
+									Temas
 								</p>
 								<ul>
 									<li>

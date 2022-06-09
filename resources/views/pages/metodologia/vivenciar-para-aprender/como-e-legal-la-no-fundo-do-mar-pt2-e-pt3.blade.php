@@ -1,7 +1,7 @@
 @extends('layouts.front-mixed')
 @section('content')
 	@section('title') Reino Animal 
-		<br />Como é legal lá no fundo do mar!
+		<br />Como é legal lá no fundo do mar
 	@endsection
 	<article id="content">
 
@@ -16,7 +16,7 @@
 								</h3>
 								<p align="center">
 									<b>
-										É importante....
+										É importante
 									</b>
 								</p>
 								<ul>
@@ -62,7 +62,7 @@
 										Baleia;
 									</li>
 									<li>
-										Cavalo-marinho
+										Cavalo-marinho;
 									</li>
 									<li>
 										Arraia;
@@ -89,10 +89,10 @@
 										Corais;
 									</li>
 									<li>
-										Calendário
+										Calendário;
 									</li>
 									<li>
-										Culinária
+										Culinária;
 									</li>
 								</ul>
 								<h3>
@@ -112,7 +112,7 @@
 										Desenho;
 									</li>
 									<li>
-										Música
+										Música;
 									</li>
 									<li>
 										Filmes;

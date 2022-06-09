@@ -9,29 +9,20 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
 <article id="content">
     <p>
         A escola é uma importante etapa na construção do individuo, as experiências adquiridas durante esse período
-        serão determinantes para o seu desenvolvimento, tanto físico como psicológico. A necessidade de uma estrutura
-        educacional e pedagógica é indispensável.
+        serão determinantes para o seu desenvolvimento, tanto físico como psicológico. A necessidade de uma estrutura educacional e pedagógica é indispensável.
     </p>
     <p>
-        É na infância onde se inicia a aprendizagem necessária à vida adulta. É na educação infantil onde a criança deve
-        promover o maior numero de experiências possíveis. Onde começa se relacionar com o meio social e físico ajudando
-        no desenvolvimento.
+        É na infância onde se inicia a aprendizagem necessária à vida adulta. É na educação infantil onde a criança deve promover o maior numero de experiências possíveis. Onde começa se relacionar com o meio social e físico ajudando no desenvolvimento.
     </p>
     <p>
         Por isso a educação física escolar é tão importante, pois através de brincadeiras, jogos, esportes e de uma
-        forma lúdica e prazerosa, consegue proporcionar maior numero de possibilidades, por meios de desafios corporais
-        que envolvam ações cognitivas, afetivas e motoras de maneira integral, respeitando suas particularidades,
-        possibilitando a criança de vivenciar diferentes situações consigo mesma, com outras crianças e com o mundo que
-        a cerca.
+        forma lúdica e prazerosa, consegue proporcionar maior numero de possibilidades, por meios de desafios corporais que envolvam ações cognitivas, afetivas e motoras de maneira integral, respeitando suas particularidades, possibilitando a criança de vivenciar diferentes situações consigo mesma, com outras crianças e com o mundo que a cerca.
     </p>
     <p>
-        Já dizia Sara Pain (1992) “ é com o corpo que se aprende”. Então se pode acreditar que a Educação Física tem
-        grande responsabilidade para o processo de aprendizagem.
+        Já dizia Sara Pain (1992) “ é com o corpo que se aprende”. Então se pode acreditar que a Educação Física tem grande responsabilidade para o processo de aprendizagem.
     </p>
     <p>
-        João Batista Freire(1989) “E o significado, nessa primeira fase da vida, depende, mais que em qualquer outra da
-        ação corporal. Entre os sinais gráficos de uma língua escrita e o mundo concreto, existe um mediador, às vezes
-        esquecido, que é a ação corporal.
+        João Batista Freire (1989) “E o significado, nessa primeira fase da vida, depende, mais que em qualquer outra da ação corporal. Entre os sinais gráficos de uma língua escrita e o mundo concreto, existe um mediador, às vezes esquecido, que é a ação corporal.
     </p>
     <p>
         <b>Professora luana cristina da silva</b>
