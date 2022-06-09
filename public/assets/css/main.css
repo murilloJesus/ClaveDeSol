@@ -3140,3 +3140,20 @@ input, select, textarea {
   			}
 
 
+#content {
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: justify;
+}
+
+#content header, #content h3 {
+    font-weight: 600;
+}
+
+#content p {
+    text-indent: 1.25em;
+}
+
+#content small {
+    font-weight: 100;
+    font-size: .75em;
+}
