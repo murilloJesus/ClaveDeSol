@@ -22,7 +22,7 @@
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
-                A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
+                A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço ...
             </p>
             <ul class="actions major">
                 <li><a href="#" class="button">Veja Mais</a></li>
