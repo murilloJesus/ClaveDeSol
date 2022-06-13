@@ -12,6 +12,7 @@
             <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de Oficina (PTO)</h3>
             <p align="center">
                 Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus...
             </p>
@@ -24,6 +25,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de 1º ano (PT1) </h3>
             <p align="center">
                OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização...
             </p>
@@ -36,6 +38,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de 2º ano (PT2)</h3>
             <p align="center">
                 OBJETIVO: Esse Plano foi desenvolvido para alunos que necessitam ser estimulados cognitivamente e...
             </p>
@@ -48,6 +51,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de 3º ano (PT3)</h3>
             <p align="center">
                Objetivo:Desenvolver a capacidade crítica e as habilidades de produção espontânea, procurando...
             </p>
@@ -60,6 +64,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de 4º ano (PT4) </h3>
             <p align="center">
                 Objetivo:Auxiliar na construção do pensamento e na expressão do mesmo com definição e propriedade...
             </p>
@@ -72,6 +77,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de 5º ano (PT5)</h3>
             <p align="center">
                Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena...
             </p>
@@ -84,6 +90,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>
             <p align="center">
                 Objetivo: Incentivar os alunos de maneira intensiva para que adquiram a estrutura efetiva da plena...
             </p>
@@ -96,6 +103,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de Socialização (PTS)</h3>
             <p align="center">
                Objetivo esse plano de trabalho, deve ser oferecido aos alunos que possuem baixo rendimento, e...
             </p>
@@ -108,6 +116,7 @@
             <div class="image-wrapper">
                 <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
             </div>
+                <h3>Plano de Trabalho de Culinária</h3>
             <p align="center">
               Objetivo propiciar ao aluno uma atividade de descontração, troca, conhecimento,manuseio de...
             </p>

@@ -3,7 +3,7 @@
 <article id="content">
 
 								@section('title') 
-										Plano de Trabalho de 3º ano (PT3) >
+										Plano de Trabalho de 3º ano (PT3) 
 								@endsection
 
 								<p>
