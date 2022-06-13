@@ -23,7 +23,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -2010,24 +2011,24 @@ input, select, textarea {
 		-ms-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
 		transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
 		display: inline-block;
-		color: #fff;
-		background: #ffab00;
-		text-decoration: none;
-		border: solid 1px #000000;
-		border-radius: 0.35em;
-		padding: 0.8em 2em 0.8em 2em;
-		cursor: pointer;
-		outline: 0;
+		  background-color: #08162e;
+  		box-shadow: #354579 4px 4px 0px;
+  		border-radius: 8px;
+  		padding: 0.8em 2em 0.8em 2em;
+  		font-size: 20px;
+  		color: #354579;
 	}
+
 
 		input[type="button"]:hover,
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			color: #fff;
-			border-color:#000000;
-			background: #4c62ad;
+				border-color: #3d5afe;
+				background-color: #fddda3;
+				color: #3d5afe;
+}
 		}
 
 /* Icons */
@@ -3116,26 +3117,29 @@ input, select, textarea {
 
 
               #hero .button, #promo .button  {
-                background-color: #0b1f42;
-                border-color: rgba(0, 0, 0, 0);
-                color: #fff;
+                background-color: #08162e;;
+                border:none;
+                box-shadow: #354579 4px 4px 0px;
+                border-radius: 8px;
+                color: #f1f1f1;
                 font-size: 1.25em;
-                box-shadow: none;
+                padding: 0.8em 2em 0.8em 2em;
+
               }
 
 
             #hero .button:hover, #promo .button:hover  {
-                border-color:none;
-                color: #fff;
-                background: #576c8e;
-                box-shadow: none;
+            	border:none;
+                transform: translateY(4px) translateX(4px);
+  				box-shadow: #354579 4px 4px 0px;
+  				border-radius: 8px;
+  				color: #000000;
             }
 
 
             /* alterações dos cards itens*/
 
             section h3 {
-  				height: 5em;
   				margin: 0px 0px 10px;
   			}
 
@@ -3158,20 +3162,20 @@ input, select, textarea {
     font-size: .75em;
 }
 
-		.button-b {
-			background-color: #08162e;
-			box-shadow: #000000 4px 4px 0px;
-			border-radius: 8px;
-			padding: 0.8em 2em 0.8em 2em;
-			font-size: 20px;
-		}
+.button:hover {
+				border:none;
+                transform: translateY(4px) translateX(4px);
+  				box-shadow: #354579 4px 4px 0px;
+  				border-radius: 8px;
+  				color: #ffa466;
+  				border-color: #ffa466;
+  				background-color: #fff7e8;
 
-		.button-b:hover {
-			background-color: #08162e;
-			transform: translateY(4px) translateX(4px);
-			box-shadow: 0px 0px 0px
-		}
-
-		.features p {
-  			height: 5em;
 }
+
+p {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+	height: 5em;
+}
+
