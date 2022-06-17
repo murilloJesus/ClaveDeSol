@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\MessageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +19,7 @@ Route::get('/', function () {
 });
 
 Auth::routes();
+Route::resource('message', MessageController::class)->only('store');
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 

@@ -96,7 +96,7 @@
 						</header>
 
 						<div class="row">
-							<section class="col-6 col-12-narrower">
+							<section class="col-12 col-12-narrower">
 								<form action="/message" method="POST">
                         @csrf
                         <div class="fields row">
