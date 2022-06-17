@@ -9,5 +9,8 @@
 @endsection
 
 @section('content')
+
     @yield('content')
 @endsection
+
+

@@ -65,8 +65,8 @@
 
 									<li><a href="/contato">Contato</a>
 										<ul>
-											<li><a href="#">Contate-nos</a></li>
-											<li><a href="#">Trabalhe Conosco</a></li>
+											<li><a href="/metodologia/contato/">Contate-nos</a></li>
+											<li><a href="/metodologia/trabalhe">Trabalhe Conosco</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -97,33 +97,40 @@
 
 						<div class="row">
 							<section class="col-6 col-12-narrower">
-								<form method="post" action="#">
-									<div class="row gtr-50">
-										<div class="col-6 col-12-mobile">
-											<input name="name" placeholder="Nome" type="text" />
-										</div>
-										<div class="col-6 col-12-mobile">
-											<input name="email" placeholder=" Seu Email" type="text" />
-										</div>
-										<div class="col-12">
-											<textarea name="message" placeholder="Mensagem"></textarea>
-										</div>
-										<div class="col-12">
-											<ul class="actions">
-												<li><input type="reset" value="Cancelar" /></li>
-												<li><input type="submit" value="Enviar" /></li>
-											</ul>
-										</div>
-									</div>
-								</form>
-							</section>
-							<section class="col-6 col-12-narrower">
-								<div class="row gtr-0">
-									<ul class="divided icons col-6 col-12-mobile">
-										<li class="icon brands fa-facebook-f"><a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiK-tre6tr3AhXNjZUCHdHMB5wQFnoECBQQAQ&url=https%3A%2F%2Fpt-br.facebook.com%2FInstitutoClaveDeSol%2F&usg=AOvVaw0eNszAR5MRrietS-2OzQ1Y">Nos Acompanhe<span class="extra"></span></a></li>
-										<li class="icon brands fa-instagram"><a href="#"> Nos Acompanhe<span class="extra"></span></a></li>
-									</ul>
-								</div>
+								<form action="/message" method="POST">
+                        @csrf
+                        <div class="fields row">
+                            <div class="field col-6 col-12-medium">
+                                <label for="name">Nome</label>
+                                <input type="text" name="name" id="name" placeholder="Nome">
+                            </div>
+                            <div class="field col-6 col-12-medium">
+                                <label for="email">Email</label>
+                                <input type="email" name="email" id="email" placeholder="Email">
+                            </div>
+                            <div class="field col-6 col-12-medium">
+                                <label for="phone">Telefones</label>
+                                <input type="text" name="phone" id="phone" placeholder="Telefone">
+                            </div>
+                            <div class="field col-6 col-12-medium">
+                                <label for="reason">Motivo do contato</label>
+                                <select name="reason" id="reason">
+                                    <option value="">Selecione..</option>
+                                    <option value="Dúvidas">Dúvidas</option>
+                                    <option value="Matrículas">Matrículas</option>
+                                    <option value="Eventos">Eventos</option>
+                                    <option value="Outros">Outros</option>
+                                </select>
+                            </div>
+                            <div class="field col-12">
+                                <label for="message">Mensagem</label>
+                                <textarea name="message" id="message" placeholder="Mensagem" rows="7"></textarea>
+                            </div>
+                        </div>
+                        <div class="actions">
+                            <input type="submit" value="Enviar" class="button alt">
+                        </div>
+                    </form>
 							</section>
 						</div>
 					</div>
@@ -135,6 +142,7 @@
 				</div>
 
 				
+
 
 		</div>
 
