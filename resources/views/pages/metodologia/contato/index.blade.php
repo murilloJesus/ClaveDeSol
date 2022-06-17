@@ -1,12 +1,11 @@
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
-
-								@section('title')
-							    Contate-nos
-								@endsection
+@section('title')
+Contate-nos
+@endsection
 								
-					<article id="content">
+<article id="content">
 <div class="container">
         @if ( isset($response) && $response)
         <div align=center>
