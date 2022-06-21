@@ -98,7 +98,7 @@
 									A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos citados no Plano de Trabalho de Culinária.
 								</p>
 								<ul class="actions">
-									<li><a href="metodologia/culinaria/" class="button">Próxima Pagina</a></li>
+									<li><a href="/metodologia/culinaria" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>

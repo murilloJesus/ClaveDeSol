@@ -38,7 +38,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
             <h3 align="center">Culinaria</h3>
         </header>
         <p align="justify">A nossa Culinária é realizada sempre que determinada no projeto, com objetivos específicos
-            citados no Plano de Trabalho de Culinária. </p>
+            citados no Plano de Trabalho de... </p>
         <ul class="actions">
             <li><a href="/metodologia/culinaria" class="button">Veja Mais</a></li>
         </ul>
@@ -63,8 +63,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
         <header>
             <h3 align="center">Plano de aula - corpo e movimento - 2021</h3>
         </header>
-        <p align="justify">As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz
-            e integra o aluno na cultura corporal de movimento e de uma forma </p>
+        <p align="justify">As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de... </p>
         <ul class="actions">
             <li><a href="/metodologia/educacao-fisica/" class="button">Próxima Pagina</a></li>
         </ul>

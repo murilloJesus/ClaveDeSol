@@ -42,13 +42,12 @@
                             <div class="field col-6 col-12-medium"> 
                                 <label for="arquivo" >Encaminhar Curriculo</label>
                                 <input type="file" name="curriculo" id="curriculo">
-
                             </div>
 
-                            <div class="field col-6 col-12-medium"> 
-                             <div class="actions">
-                            <input type="submit" value="Enviar">
-                            </div>
+                            <div class="field col-12 col-12-medium"> 
+                                <div class="actions">
+                                    <input type="submit" value="Enviar">
+                                </div>
                             </div>
 
                         </div>

@@ -45,9 +45,12 @@ Contate-nos
                                 <textarea name="message" id="message" placeholder="Mensagem" rows="7"></textarea>
                             </div>
                         </div>
-                        <div class="actions">
-                            <input type="submit" value="Enviar" class="button alt">
+                         
+                         <div class="actions">
+                                <input type="submit" value="Enviar">
                         </div>
+
+
                     </form>
                 </div>
             </div>
