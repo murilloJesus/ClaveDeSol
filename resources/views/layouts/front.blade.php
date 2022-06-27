@@ -47,23 +47,23 @@
                                                     <li><a href="/metodologia/culinaria">Culinária</a></li>
                                                     <li><a href="/metodologia/horta">Horta</a></li>
                                                     <li><a href="/metodologia/piscina">Piscina</a></li>
+                                                    <li><a href="/metodologia/curiosidades/a-importancia-da-educacao-fisica-escolar-no-desenvolvimento-infantil/">Curiosidades</a></li>
                                                 </ul>
                                             </li>
 
 										</ul>
 									</li>
 
-									<li class="break"><a href="/mural/">Mural</a>
+									<li class="break"><a href="#">Mural</a>
 										<ul>
 											<li><a href="#">Comunicados</a></li>
 											<li><a href="#">Depoimentos</a></li>
-											<li><a href="#">Curiosidades</a></li>
 											<li><a href="#">Calendário do Ano</a></li>
 										</ul>
 									</li>
 
 
-									<li><a href="/contato">Contato</a>
+									<li><a href="#">Contato</a>
 										<ul>
 											<li><a href="/metodologia/contato/">Contate-nos</a></li>
 											<li><a href="/metodologia/trabalhe">Trabalhe Conosco</a></li>
