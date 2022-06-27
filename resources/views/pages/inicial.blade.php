@@ -7,7 +7,7 @@
             <h2>Instituto de Educação Especial
             <br /> Clave de Sol </h2>
         </header>
-        <p>Contamos com Vocês para podermos continuar cuidando
+        <p id="a">Contamos com Vocês para podermos continuar cuidando
         <br /> de nossas Pequenas Estrelas</p>
         <ul class="actions">
             <li><a href="#" class="button">Faça sua Doação</a></li>
@@ -68,7 +68,7 @@
             <section class="container">
                 <header class="major">
                     <h2>Fique por dentro de nossas Novidades</h2>
-                    <p>Tenha acesso a todas as nossas atualizações</p>
+                    <p id="a">Tenha acesso a todas as nossas atualizações</p>
                 </header>
                 <div class="row features">
                     <section class="col-4 col-12-narrower feature">
