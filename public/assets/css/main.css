@@ -2097,6 +2097,7 @@ input, select, textarea {
 			top: 0;
 			z-index: 1;
 			box-shadow: inset 0px 0px 0px 1px #e8e8e8;
+			top: -20px;
 			background: #f6f8fb url("images/backgrond-cards.jpg");
 		}
 
