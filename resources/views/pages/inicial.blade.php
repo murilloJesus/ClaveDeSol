@@ -1,5 +1,5 @@
 
-@extends('layouts.front')
+@extends('layouts.init_front')
 
 @section('hero')
     <section id="hero" class="container">
@@ -10,7 +10,7 @@
         <p id="a">Contamos com Vocês para podermos continuar cuidando
         <br /> de nossas Pequenas Estrelas</p>
         <ul class="actions">
-            <li><a href="#" class="button">Faça sua Doação</a></li>
+            <li><a href="#" class="button" data-toggle="modal" data-target="#exampleModal">Faça sua Doação</a></li>
         </ul>
     </section>
 @endsection
@@ -51,14 +51,17 @@
                     </div>
                 </div>
             </div>
+        </div>
 
         <!-- Promo -->
-            <div id="promo-wrapper">
-                <section id="promo">
-                    <h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
-                    <a href=""  class="button">Doe com Carinho</a>
-                </section>
-            </div>
+        <div id="promo-wrapper">
+            <section id="promo">
+                <h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
+                <button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Doe com Carinho</a>
+            </section>
+        </div>
+
+        <x-modal-doacoes></x-modal-doacoes>
 
 
 
