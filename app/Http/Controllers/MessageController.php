@@ -25,16 +25,14 @@ class MessageController extends Controller
      */
     public function store(Request $request)
     {
-    //     $try = Message::create($request->post());
+        $try = Message::create($request->post());
 
-    //     if($try){
-    //         return view('pages.contato')->with(['response' => 'Sua mensagem foi enviada! Agradecemos o contato', 'page' => 'contato']);
-    //     }else{
-    //         return view('pages.contato')->with(['response' => 'Algo deu errado. Tente novamente mais tarde', 'page' => 'contato']);
-    //     }
-    return view('pages.metodologia.contato.index')->with(['response' => 'Sua mensagem foi enviada! Agradecemos o contato', 'page' => 'contato']);
+        if($try){
+            return view('pages.contato')->with(['response' => 'Sua mensagem foi enviada! Agradecemos o contato', 'page' => 'contato']);
+        }else{
+            return view('pages.contato')->with(['response' => 'Algo deu errado. Tente novamente mais tarde', 'page' => 'contato']);
+        }
     }
-
 
     /**
      * Display the specified resource.

@@ -1,8 +1,10 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\MessageController;
-
+use App\Http\Controllers\NewsController;
+use App\Http\Controllers\PagesController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -19,9 +21,31 @@ Route::get('/', function () {
 });
 
 Auth::routes();
-Route::resource('message', MessageController::class)->only('store');
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::middleware(['auth:sanctum', 'verified'])->prefix('administrador')->group( function () {
+
+    Route::get('/logout', [LoginController::class, 'logout']);
+
+    Route::get('/', function ()
+    {
+        return view('admin.home')->with('page', 'home');
+    });
+
+    Route::get('/{pagina}', function ($pagina) {
+        return view("admin.$pagina")->with('page', $pagina);
+    });
+});
+
+
+// Route::prefix('noticias')->group(function(){
+
+//     Route::get('/', [NewsController::class, 'home']);
+
+//     Route::get('/{name}/{id}', [NewsController::class, 'ver']);
+
+// });
+
+Route::resource('message', MessageController::class)->only('store');
 
 Route::get('/{resource}', function ($resource)
 {
