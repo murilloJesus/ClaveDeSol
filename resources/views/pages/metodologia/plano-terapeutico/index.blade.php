@@ -22,7 +22,7 @@
         </section>
 
         <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/talking.png" alt="" /></a>
             </div>
                 <h3>Plano de trabalho psicologia escolar 2021 Estruturação... </h3>
@@ -35,7 +35,7 @@
         </section>
 
         <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/talking.png" alt="" /></a>
             </div>
                  <h3>Plano de trabalho de psicopedagogia educacional 2021 </h3>
@@ -48,7 +48,7 @@
         </section>
 
            <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)" class="image featured"><img src="/assets/css/images/talking.png" alt="" /></a>
             </div>
                  <h3>Terapia ocupacional educacional 2021 </h3>

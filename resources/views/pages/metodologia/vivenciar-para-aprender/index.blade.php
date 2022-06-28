@@ -22,8 +22,9 @@
             </ul>
         </section>
 
+
         <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                  <h3> Boas Vindas Ação E Organização PTS E PT1 Ação E Organização </h3>
@@ -36,7 +37,7 @@
         </section>
 
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Boas Vindas PT2 E PT3 </h3>
@@ -49,7 +50,7 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Boas vindas Paz a gente que faz PT 4 e PT5 </h3>
@@ -62,7 +63,7 @@
         </section>
 
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>O outro Quem tem um amigo tem um tesouro </h3>
@@ -75,7 +76,7 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Reino Animal Como é legal lá no fundo do mar</h3>
@@ -88,7 +89,7 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Educação ambiental Preservar o meio ambiente é coisa séria!</h3>
@@ -101,7 +102,7 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
+            <div class="image-wrapper first">
                 <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Histórias Carnavalescas </h3>
