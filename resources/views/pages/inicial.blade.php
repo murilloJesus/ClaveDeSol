@@ -1,5 +1,5 @@
 
-@extends('layouts.front')
+@extends('layouts.init_front')
 
 @section('hero')
     <section id="hero" class="container">
@@ -7,10 +7,10 @@
             <h2>Instituto de Educação Especial
             <br /> Clave de Sol </h2>
         </header>
-        <p>Contamos com Vocês para podermos continuar cuidando
+        <p id="a">Contamos com Vocês para podermos continuar cuidando
         <br /> de nossas Pequenas Estrelas</p>
         <ul class="actions">
-            <li><a href="#" class="button">Faça sua Doação</a></li>
+            <li><a href="#" class="button" data-toggle="modal" data-target="#exampleModal">Faça sua Doação</a></li>
         </ul>
     </section>
 @endsection
@@ -22,7 +22,7 @@
                     <div class="row">
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured first"><img src="/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
+                                <a href="#" class="image featured first"><img src="/assets/css/images/books.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Vivenciar para Aprender</h2>
@@ -35,8 +35,8 @@
                             </ul>
                         </section>
                         <section class="col-6 col-12-narrower feature">
-                            <div class="image-wrapper">
-                                <a href="#" class="image featured"><img src="/assets/css/images/plano-de-trabalho.png" alt="" /></a>
+                            <div class="image-wrapper first">
+                                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Plano de Trabalho</h2>
@@ -51,14 +51,17 @@
                     </div>
                 </div>
             </div>
+        </div>
 
         <!-- Promo -->
-            <div id="promo-wrapper">
-                <section id="promo">
-                    <h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
-                    <a href=""  class="button">Doe com Carinho</a>
-                </section>
-            </div>
+        <div id="promo-wrapper">
+            <section id="promo">
+                <h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
+                <button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Doe com Carinho</a>
+            </section>
+        </div>
+
+        <x-modal-doacoes></x-modal-doacoes>
 
 
 
@@ -68,34 +71,34 @@
             <section class="container">
                 <header class="major">
                     <h2>Fique por dentro de nossas Novidades</h2>
-                    <p>Tenha acesso a todas as nossas atualizações</p>
+                    <p id="a">Tenha acesso a todas as nossas atualizações</p>
                 </header>
                 <div class="row features">
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper first">
-                            <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                            <a href="/metodologia/educacao-fisica" class="image featured"><img src="/assets/css/images/computer.png" alt="" /></a>
                         </div>
                         <p align="center">
-                            As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de movimento e de uma forma...
+                            As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de favorecer a coordenação motora...
                         </p>
                         <ul class="actions major">
-                            <li><a href="#" class="button">Veja Mais</a></li>
+                            <li><a href="/metodologia/educacao-fisica" class="button">Veja Mais</a></li>
                         </ul>
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                            <a href="/metodologia/piscina" class="image featured"><img src="/assets/css/images/pscina.png" alt="" /></a>
                         </div>
                         <p align="center">
                             A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
                         </p>
                         <ul class="actions major">
-                            <li><a href="#" class="button">Veja Mais</a></li>
+                            <li><a href="/metodologia/piscina" class="button">Veja Mais</a></li>
                         </ul>
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                            <a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
                         </div>
                         <p align="center">
                                 Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.

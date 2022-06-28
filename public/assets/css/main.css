@@ -722,7 +722,7 @@ input, select, textarea {
 				.row {
 					margin-top: -40px;
 					margin-left: -20px;
-					width: 100%;
+					width: 95%;
 				}
 
 					.row > * {
@@ -843,7 +843,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-narrow {
-					width: 33.33333%;
+					width: 32.33333%;
 				}
 
 				.row > .off-4-narrow {
@@ -1768,6 +1768,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			height: 200px;
 		}
 
 		.image.fit {
@@ -2096,7 +2097,8 @@ input, select, textarea {
 			top: 0;
 			z-index: 1;
 			box-shadow: inset 0px 0px 0px 1px #e8e8e8;
-			background: #f6f8fb url("images/image-wrapper.svg");
+			top: -20px;
+			background: #f6f8fb url("images/backgrond-cards.jpg");
 		}
 
 	#header-wrapper {
@@ -2125,8 +2127,8 @@ input, select, textarea {
 	#footer-wrapper {
 		-webkit-transform: translate3d(0, 0, 0);
 		position: relative;
-		border-top: solid 1px #c2c7cc;
-		padding: 6em 0 6em 0;
+		
+		padding: 3em 0 2em 0;
 		background-image: url("images/overlay.png"), url("images/footer.svg");
 		background-size: 128px 128px,100% 100%;
 	}
@@ -2398,8 +2400,8 @@ input, select, textarea {
 		text-align: center;
 		border-top: solid 1px #d2d7dc;
 		color: #061226;
-		padding-top: 4em;
-		margin-top: 6em;
+		padding-top: 1em;
+		margin-top: 1em;
 	}
 
 /* Normal */
@@ -2435,9 +2437,7 @@ input, select, textarea {
 				padding: 5em 0 5em 0;
 			}
 
-			#footer-wrapper {
-				padding: 5em 0 5em 0;
-			}
+			
 
 	}
 
@@ -2480,9 +2480,7 @@ input, select, textarea {
 				padding: 2em;
 			}
 
-			#footer-wrapper {
-				padding: 4em 2em 4em 2em;
-			}
+			
 
 		/* Header */
 
@@ -3201,3 +3199,43 @@ input[type="submit"] {
   		border-color: #d2d7dc;
   		width: 100%
 }
+
+#a {
+	text-align: center;
+}
+
+#b {
+	list-style: none
+
+}
+
+#c {
+  	margin-left: 90px;
+	margin-top: 28px;
+  	text-align: justify;
+  	font-size: x-large;
+  	margin-left: 90px;
+}
+
+#d {
+	margin-left: 50px;
+  	text-align: justify;
+  	font-size: x-large;
+}
+
+footer {
+	flex-wrap: wrap;
+}
+
+#footer-img {
+	width: 100px;
+	height: 100px;
+	margin-left: 20px
+}
+
+.tam-footer {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+/*ola mundo*/

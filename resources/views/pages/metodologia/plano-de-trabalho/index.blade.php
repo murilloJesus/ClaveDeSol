@@ -10,7 +10,7 @@
     <div class="row features">
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de Oficina (PTO)</h3>
             <p align="center">
@@ -22,8 +22,8 @@
         </section>
 
         <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de 1º ano (PT1) </h3>
             <p align="center">
@@ -35,8 +35,8 @@
         </section>
 
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de 2º ano (PT2)</h3>
             <p align="center">
@@ -48,8 +48,8 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de 3º ano (PT3)</h3>
             <p align="center">
@@ -61,8 +61,8 @@
         </section>
 
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de 4º ano (PT4) </h3>
             <p align="center">
@@ -74,8 +74,8 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de 5º ano (PT5)</h3>
             <p align="center">
@@ -88,7 +88,7 @@
         
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>
             <p align="center">
@@ -100,8 +100,8 @@
         </section>
         
           <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de Socialização (PTS)</h3>
             <p align="center">
@@ -113,8 +113,8 @@
         </section>
 
          <section class="col-4 col-12-narrower feature">
-            <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+            <div class="image-wrapper first">
+                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
             </div>
                 <h3>Plano de Trabalho de Culinária</h3>
             <p align="center">
