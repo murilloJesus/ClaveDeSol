@@ -11,11 +11,11 @@
 
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                  <h3>Vivenciar para Aprender Metodologia de Ensino Clave de Sol</h3>
             <p align="center">
-                As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e...
+                As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz...
             </p>
             <ul class="actions major">
                 <li><a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="button">Veja Mais</a></li>
@@ -24,7 +24,7 @@
 
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                  <h3> Boas Vindas Ação E Organização PTS E PT1 Ação E Organização </h3>
             <p align="center">
@@ -37,7 +37,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Boas Vindas PT2 E PT3 </h3>
             <p align="center">
@@ -50,7 +50,7 @@
         
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Boas vindas Paz a gente que faz PT 4 e PT5 </h3>
             <p align="center">
@@ -63,7 +63,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>O outro Quem tem um amigo tem um tesouro </h3>
             <p align="center">
@@ -76,7 +76,7 @@
         
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Reino Animal Como é legal lá no fundo do mar</h3>
             <p align="center">
@@ -89,7 +89,7 @@
         
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Educação ambiental Preservar o meio ambiente é coisa séria!</h3>
             <p align="center">
@@ -102,11 +102,11 @@
         
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Histórias Carnavalescas </h3>
             <p align="center">
-               Tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a experiência desta... 
+               Tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a experiência... 
             </p>
             <ul class="actions major">
                 <li><a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="button">Veja Mais</a></li>

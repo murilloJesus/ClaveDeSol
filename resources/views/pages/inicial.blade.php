@@ -73,29 +73,29 @@
                 <div class="row features">
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper first">
-                            <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                            <a href="/metodologia/educacao-fisica" class="image featured"><img src="/assets/css/images/computer.png" alt="" /></a>
                         </div>
                         <p align="center">
-                            As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de movimento e de uma forma...
+                            As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de favorecer a coordenação motora...
                         </p>
                         <ul class="actions major">
-                            <li><a href="#" class="button">Veja Mais</a></li>
+                            <li><a href="/metodologia/educacao-fisica" class="button">Veja Mais</a></li>
                         </ul>
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                            <a href="/metodologia/piscina" class="image featured"><img src="/assets/css/images/pscina.png" alt="" /></a>
                         </div>
                         <p align="center">
                             A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
                         </p>
                         <ul class="actions major">
-                            <li><a href="#" class="button">Veja Mais</a></li>
+                            <li><a href="/metodologia/piscina" class="button">Veja Mais</a></li>
                         </ul>
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+                            <a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
                         </div>
                         <p align="center">
                                 Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.

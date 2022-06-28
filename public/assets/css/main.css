@@ -722,7 +722,7 @@ input, select, textarea {
 				.row {
 					margin-top: -40px;
 					margin-left: -20px;
-					width: 100%;
+					width: 95%;
 				}
 
 					.row > * {
@@ -843,7 +843,7 @@ input, select, textarea {
 				}
 
 				.row > .col-4-narrow {
-					width: 33.33333%;
+					width: 32.33333%;
 				}
 
 				.row > .off-4-narrow {
@@ -1768,6 +1768,7 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
+			height: 200px;
 		}
 
 		.image.fit {
