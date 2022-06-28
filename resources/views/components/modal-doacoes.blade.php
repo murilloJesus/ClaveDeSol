@@ -18,8 +18,8 @@
 
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Voltar</button>
-                    <button type="button" class="btn btn-primary">Realizar uma Doação</button>
+                    <button type="button" class="button" data-dismiss="modal">Voltar</button>
+                    <button type="button" class="button">Realizar uma Doação</button>
                 </div>
             </div>
         </div>
