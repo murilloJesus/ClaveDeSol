@@ -191,7 +191,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">O outro: Quem tem um amigo tem um tesouro <h3>
@@ -205,7 +205,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Histórias carnavalescas </h3>
@@ -219,7 +219,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Educação ambiental! Preservar o meio ambiente é coisa séria! </h3>

@@ -132,7 +132,7 @@
 <div class="row features">
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper first">
-            <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+            <a href="/metodologia/curiosidades/a-pratica-das-atividades-de-vida-diaria-e-sua-importancia/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">A prática das Atividades de Vida Diária (AVD) e sua importância</h3>
@@ -145,7 +145,7 @@
     </section>
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
-            <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+            <a href="/metodologia/horta/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Horta</h3>
@@ -158,7 +158,7 @@
     </section>
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
-            <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+            <a href="/metodologia/informatica/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
         <header>
             <h3>informatica</h3>

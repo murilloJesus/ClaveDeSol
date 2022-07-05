@@ -33,7 +33,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="/metodologia/curiosidades/a-importancia-da-educacao-fisica-escolar-no-desenvolvimento-infantil" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">A importância da Educação Física Escolar no desenvolvimento infantil</h3>
@@ -45,7 +45,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/educacao-fisica/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de aula - corpo e movimento - 2021</h3>
@@ -57,7 +57,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="/metodologia/horta/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Horta</h3>

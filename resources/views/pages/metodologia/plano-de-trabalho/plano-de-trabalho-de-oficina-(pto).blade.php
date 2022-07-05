@@ -184,7 +184,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="/metodologia/piscina/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 							<header>
 									<h3 align="center">Piscina</h3>
@@ -196,7 +196,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-1º-ano-(pt1)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 							<header>
 									<h3 align="center">Plano de Trabalho de 1º ano (PT1) </h3>
@@ -210,7 +210,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 2º ano (PT2)</h3>
@@ -220,12 +220,6 @@
 								</p>
 								<ul class="actions">
 									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="button">Veja Mais</a></li>
-								</ul>
-							</section>
-							<section class="col-4 col-12-narrower feature">
-								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-								</div>
 								</ul>
 							</section>
 						</div>

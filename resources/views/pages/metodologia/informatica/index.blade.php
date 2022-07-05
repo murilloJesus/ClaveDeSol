@@ -24,7 +24,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="/metodologia/horta/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Horta</h3>
@@ -36,7 +36,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/musicalizacao/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">
@@ -50,7 +50,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="/metodologia/piscina/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Piscina</h3>
