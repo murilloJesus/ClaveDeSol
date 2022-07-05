@@ -3130,7 +3130,7 @@
 	#hero .button:hover, #promo .button:hover  {
 		border:none;
 		transform: translateY(4px) translateX(4px);
-		box-shadow: #354579 4px 4px 0px;
+		
 		border-radius: 8px;
 		color: #000000;
 	}
@@ -3165,7 +3165,7 @@
 	.button:hover {
 		border:none;
 		transform: translateY(4px) translateX(4px);
-		box-shadow: #354579 4px 4px 0px;
+		
 		border-radius: 8px;
 		color: #ffa466;
 		border-color: #ffa466;
