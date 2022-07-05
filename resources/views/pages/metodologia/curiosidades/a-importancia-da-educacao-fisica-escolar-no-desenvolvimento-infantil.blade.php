@@ -32,7 +32,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
 <div class="row features">
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper first">
-            <a href="/metodologia/culinaria" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+            <a href="/metodologia/culinaria" class="image featured"><img src="/assets/css/images/talking.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Culinaria</h3>
@@ -45,7 +45,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
     </section>
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
-            <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+            <a href="/metodologia/curiosidades/a-pratica-das-atividades-de-vida-diaria-e-sua-importancia/" class="image featured"><img src="/assets/css/images/talking.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">A prática das Atividades de Vida Diária (AVD) e sua importância</h3>
@@ -58,7 +58,7 @@ A importância da Educação Física Escolar <br /> no desenvolvimento infantil
     </section>
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
-            <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+            <a href="/metodologia/educacao-fisica/" class="image featured"><img src="/assets/css/images/talking.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Plano de aula - corpo e movimento - 2021</h3>

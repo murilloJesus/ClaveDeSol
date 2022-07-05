@@ -151,7 +151,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-1º-ano-(pt1)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 1º ano (PT1) </h3>
@@ -165,7 +165,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 3º ano (PT3) </h3>
@@ -179,7 +179,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 4º ano (PT4)</h3>

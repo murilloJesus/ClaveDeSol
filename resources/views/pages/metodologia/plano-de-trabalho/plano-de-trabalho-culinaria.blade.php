@@ -120,7 +120,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de Socialização (PTS)</h3>
@@ -134,7 +134,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 									<header>
 									<h3 align="center">Fonoaudiologia escolar - 2021</h3>
@@ -148,7 +148,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/psicologia-escolar/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de trabalho psicologia escolar 2021 </h3>

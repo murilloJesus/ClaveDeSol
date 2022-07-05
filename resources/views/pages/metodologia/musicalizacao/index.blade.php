@@ -436,7 +436,7 @@ Projeto de musicalização (Educador)
 <div class="row features">
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper first">
-            <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+            <a href="/metodologia/informatica/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Informatica</h3>
@@ -449,7 +449,7 @@ Projeto de musicalização (Educador)
     </section>
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
-            <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+            <a href="/metodologia/piscina/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Piscina</h3>
@@ -462,7 +462,7 @@ Projeto de musicalização (Educador)
     </section>
     <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
-            <a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+            <a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
         <header>
             <h3 align="center">Plano de Trabalho de Oficina (PTO) </h3>
