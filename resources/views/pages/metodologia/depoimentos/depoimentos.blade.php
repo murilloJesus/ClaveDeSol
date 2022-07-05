@@ -1,30 +1,32 @@
 @extends('layouts.front-mixed')
 
 @section('title')
-    Depoimentos
+Depoimentos
 @endsection
 
 @section('content')
 <article id="content">
-   
+    <div class="row features">
 
+        <section class="col-3 col-12-narrower feature">
+            <div class="image-wrapper">
+                <a href="/metodologia/culinaria/" class="image featured"><img src="/assets/css/images/meet.png"
+                        alt="" /></a>
+            </div>
+            <div>
+                <header>
+                    <h3 class="titulo-depoimentos">Leonardo O. Alves </h3>
+                </header>
+                <p class="text-depoimentos">
+                    Desde que meu filho começou a estudar ele esta mais dissiplinado, organizado e tem mtt mais
+                    concentração nos estudos
+                </p>
+
+        </section>
+    </div>
 </article>
 
 
-   
-        <section class="col-3 col-12-narrower feature">
-        <div class="image-wrapper">
-            <a href="/metodologia/culinaria/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
-        </div>
-        <div>
-        <header>
-            <h3 class="titulo-depoimentos">Leonardo O. Alves </h3>
-        </header>
-        <p class="text-depoimentos">
-            Desde que meu filho começou a estudar ele esta mais dissiplinado, organizado e tem mtt mais concentração nos estudos 
-        </p>
-       
-    </section>
 
 
 
@@ -33,10 +35,7 @@
 
 
 
-
-
-
-    {{-- <section class="col-4 col-12-narrower feature">
+{{-- <section class="col-4 col-12-narrower feature">
         <div class="image-wrapper">
             <a href="/metodologia/curiosidades/a-importancia-da-educacao-fisica-escolar-no-desenvolvimento-infantil" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
         </div>
