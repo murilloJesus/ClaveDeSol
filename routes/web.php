@@ -5,6 +5,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\MessageController;
 use App\Http\Controllers\NewsController;
 use App\Http\Controllers\PagesController;
+use Illuminate\Support\Facades\View;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -49,7 +50,7 @@ Route::resource('message', MessageController::class)->only('store');
 
 Route::get('/{resource}', function ($resource)
 {
-    if(file_exists("/resources/views/pages/$resource.blade.php")){
+    if(View::exists("pages.$resource")){
         return view("pages.$resource");
     }else{
         return view("pages.$resource.index");
@@ -59,7 +60,7 @@ Route::get('/{resource}', function ($resource)
 
 Route::get('/{folder}/{resource}', function ($folder, $resource)
 {
-    if(file_exists("/resources/views/pages/$folder/$resource.blade.php")){
+    if( View::exists("pages.$folder.$resource") ){
         return view("pages.$folder.$resource");
     }else{
         return view("pages.$folder.$resource.index");
