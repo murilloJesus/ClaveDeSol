@@ -142,7 +142,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 3º ano (PT3) </h3>
@@ -156,7 +156,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-(pt5)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-(pt5)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 5º ano (PT5) </h3>
@@ -170,7 +170,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>

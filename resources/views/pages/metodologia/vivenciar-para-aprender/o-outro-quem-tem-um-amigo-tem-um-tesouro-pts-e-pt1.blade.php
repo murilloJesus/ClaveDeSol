@@ -1,7 +1,7 @@
 @extends('layouts.front-mixed')
 @section('content')
 <article id="content">
-								@section('title') 	
+								@section('title')
 										O outro: quem tem um amigo tem um tesouro
 								@endsection
 								<p>
@@ -100,7 +100,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Boas vindas: paz a gente que faz - PT 4 e PT5 </h3>
@@ -114,7 +114,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Como é legal lá no fundo do mar - PT2 e PT3</h3>
@@ -128,7 +128,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3>Histórias carnavalescas PT4 e PT5 </h3>

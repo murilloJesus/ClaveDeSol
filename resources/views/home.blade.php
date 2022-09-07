@@ -8,7 +8,7 @@
                     <div class="row">
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured first"><img src="/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
+                                <a href="#" class="image featured first"><img src="/public/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Vivenciar para Aprender</h2>
@@ -22,7 +22,7 @@
                         </section>
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper">
-                                <a href="#" class="image featured"><img src="/assets/css/images/plano-de-trabalho.png" alt="" /></a>
+                                <a href="#" class="image featured"><img src="/public/assets/css/images/plano-de-trabalho.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Plano de Trabalho</h2>
@@ -57,7 +57,7 @@
                 <div class="row features">
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper first">
-                            <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                            <a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
                         </div>
                         <p align="center">
                             As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de movimento e de uma forma...
@@ -68,7 +68,7 @@
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                            <a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
                         </div>
                         <p align="center">
                             A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...

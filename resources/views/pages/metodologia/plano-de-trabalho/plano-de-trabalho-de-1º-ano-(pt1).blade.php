@@ -3,7 +3,7 @@
 <article id="content">
 
 								@section('title')
-									 Plano de Trabalho de 1º ano (PT1) 
+									 Plano de Trabalho de 1º ano (PT1)
 								@endsection
 								<p>
 									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites, tempo e adquiri conhecimentos gerais nos âmbitos, sensoriais, afetivos e cognitivos.
@@ -156,7 +156,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 							<header>
 									<h3 align="center">Plano de Trabalho de Oficina (PTO) </h3>
@@ -170,7 +170,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-2º-ano-(pt2)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 2º ano (PT2)</h3>
@@ -184,7 +184,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-3º-ano-(pt3)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 3º ano (PT3) </h3>

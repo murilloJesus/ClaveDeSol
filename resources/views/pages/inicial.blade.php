@@ -22,7 +22,7 @@
                     <div class="row">
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured first"><img src="/assets/css/images/books.png" alt="" /></a>
+                                <a href="#" class="image featured first"><img src="/public/assets/css/images/books.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Vivenciar para Aprender</h2>
@@ -36,7 +36,7 @@
                         </section>
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+                                <a href="#" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Plano de Trabalho</h2>
@@ -76,7 +76,7 @@
                 <div class="row features">
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper first">
-                            <a href="/metodologia/educacao-fisica" class="image featured"><img src="/assets/css/images/computer.png" alt="" /></a>
+                            <a href="/metodologia/educacao-fisica" class="image featured"><img src="/public/assets/css/images/computer.png" alt="" /></a>
                         </div>
                         <p align="center">
                             As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de favorecer a coordenação motora...
@@ -87,7 +87,7 @@
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="/metodologia/piscina" class="image featured"><img src="/assets/css/images/pscina.png" alt="" /></a>
+                            <a href="/metodologia/piscina" class="image featured"><img src="/public/assets/css/images/pscina.png" alt="" /></a>
                         </div>
                         <p align="center">
                             A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
@@ -98,7 +98,7 @@
                     </section>
                     <section class="col-4 col-12-narrower feature">
                         <div class="image-wrapper">
-                            <a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                            <a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
                         </div>
                         <p align="center">
                                 Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.

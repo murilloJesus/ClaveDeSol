@@ -8,7 +8,7 @@
     <div class="row features">
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
                 Vivenciar para Aprender
@@ -19,7 +19,7 @@
         </section>
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
                 A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço ...
@@ -30,7 +30,7 @@
         </section>
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper">
-                <a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+                <a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
             </div>
             <p align="center">
                     Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.

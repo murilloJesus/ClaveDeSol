@@ -11,7 +11,7 @@
 
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                  <h3>Vivenciar para Aprender Metodologia de Ensino Clave de Sol</h3>
             <p align="center">
@@ -25,7 +25,7 @@
 
         <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                  <h3> Boas Vindas <br> Ação E Organização  <br> PTS E PT1 </h3>
             <p align="center">
@@ -38,7 +38,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/boas-vindas-pt2-e-pt3/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Boas Vindas <br> PT2 E PT3 </h3>
             <p align="center">
@@ -51,7 +51,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Boas vindas:<br> Paz a gente que faz <br> PT 4 e PT5 </h3>
             <p align="center">
@@ -64,7 +64,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>O outro: <br> Quem tem um amigo tem um tesouro </h3>
             <p align="center">
@@ -77,7 +77,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Reino Animal: <br> Como é legal lá no fundo do mar</h3>
             <p align="center">
@@ -90,7 +90,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Educação ambiental: <br> Preservar o meio ambiente é coisa séria!</h3>
             <p align="center">
@@ -103,7 +103,7 @@
 
           <section class="col-4 col-12-narrower feature">
             <div class="image-wrapper first">
-                <a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+                <a href="/metodologia/vivenciar-para-aprender/Historias-carnavalescas-pt4-e-pt5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
             </div>
                 <h3>Histórias Carnavalescas</h3>
             <p align="center">

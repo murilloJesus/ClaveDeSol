@@ -3,7 +3,7 @@
 <article id="content">
 
 								@section('title')
-									 Plano de trabalho de psicopedagogia educacional - 2021 
+									 Plano de trabalho de psicopedagogia educacional - 2021
 								@endsection
 								<p>
 									<b>A Borboleta e a Psicopedagogia:</b> O psicopedagogo coloca-se à altura da borboleta, intervindo no processo de seu nascimento, elaborando o tempo e o espaço necessários. Sem medo e insegurança, sem precipitação. Há tempo para tudo, tempo para nascer, tempo para viver, Tempo para respirar, Tempo para morrer, viver, este é o segredo. O psicopedagogo conhece a história da borboleta, acompanha o seu desenvolvimento, percebe o seu progresso, evolução, impaciência, ansiedade que deve ser superada.
@@ -82,7 +82,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 							<header>
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
@@ -96,7 +96,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Fonoaudiologia escola</h3>
@@ -110,7 +110,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-terapeutico/terapia-ocupacional/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/terapia-ocupacional/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Terapia ocupacional educacional - 2021</h3>

@@ -136,7 +136,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 							<header>
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
@@ -150,7 +150,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-terapeutico/psicologia-escolar/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/psicologia-escolar/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de trabalho psicologia escolar 2021 </h3>
@@ -164,7 +164,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">

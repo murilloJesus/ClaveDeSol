@@ -4,7 +4,7 @@
 		<article id="content">
 
 			@section('title')
-			Calendario Escolar 
+			Calendario Escolar
 			@endsection
 
 
@@ -93,7 +93,7 @@
 						<button id='botao-calendario'>
 							<time>24</time>
 						</button>
-						<button id='botao-calendario'> 
+						<button id='botao-calendario'>
 							<time>25</time>
 						</button>
 						<button id='botao-calendario'>
@@ -122,7 +122,7 @@
 								<div class="row features">
 									<section class="col-4 col-12-narrower feature">
 										<div class="image-wrapper first">
-											<a href="/metodologia/educacao-fisica/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+											<a href="/metodologia/educacao-fisica/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 										</div>
 										<header>
 											<h3 align="center">Plano de aula - corpo e movimento - 2021</h3>
@@ -134,7 +134,7 @@
 									</section>
 									<section class="col-4 col-12-narrower feature">
 										<div class="image-wrapper">
-											<a href="/metodologia/informatica/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+											<a href="/metodologia/informatica/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 										</div>
 										<header>
 											<h3>Informatica</h3>
@@ -146,7 +146,7 @@
 									</section>
 									<section class="col-4 col-12-narrower feature">
 										<div class="image-wrapper">
-											<a href="/metodologia/musicalizacao/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+											<a href="/metodologia/musicalizacao/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 										</div>
 										<header>
 											<h3 align="center">

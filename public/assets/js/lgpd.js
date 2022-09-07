@@ -11,7 +11,7 @@ let lgpdhtml = `
         </div>
     </div>
 </div>
-<link rel="stylesheet" href="assets-home/css/lgpd.css">
+<link rel="stylesheet" href="/public/assets-home/css/lgpd.css">
 `;
 
 let lscontent = localStorage.getItem('lgpd');

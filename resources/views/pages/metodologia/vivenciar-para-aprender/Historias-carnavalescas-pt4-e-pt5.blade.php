@@ -2,7 +2,7 @@
 @section('content')
 <article id="content">
 
-								@section('title') Histórias carnavalescas 
+								@section('title') Histórias carnavalescas
 								@endsection
 								<p>
 									Objetivo: o carnaval do Brasil é uma das festas mais tradicionais do mundo e desde pequenas, as crianças, escutam, vivenciam e apreciam a experiência desta cultura, mesmo que seja, através da Tv, de histórias ou interagindo em contextos sociais lúdicos na rua, ou na escola. Por esse motivo vamos favorecer o conhecimento das histórias carnavalescas, dividindo em 3 temas, cada sala ficará responsável por um tema realizando vivencias e atividades relacionadas ao tema, além de como conclusão fazermos uma ação recreativa sobre o carnaval como exposição.
@@ -61,7 +61,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/como-e-legal-la-no-fundo-do-mar-pt2-e-pt3/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Como é legal lá no fundo do mar - PT2 e PT3</h3>
@@ -75,7 +75,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/preservar-o-meio-ambiente-e-coisa-seria-pt4-e-pt5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Educação ambiental! Preservar o meio ambiente é coisa séria! </h3>
@@ -89,7 +89,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/culinaria" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/culinaria" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Culinária</h3>

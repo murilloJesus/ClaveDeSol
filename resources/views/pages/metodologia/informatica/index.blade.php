@@ -4,7 +4,7 @@
 <article id="content">
 
 								@section('title')
-									Informática 
+									Informática
 								@endsection
 								<p>
 									As aulas de informática são realizadas com o objetivo de proporcionar ao aluno o contato com o computador, materiais digitais, além de favorecer a coordenação motora e a coordenação visomotora.
@@ -24,7 +24,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/horta/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/horta/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Horta</h3>
@@ -36,7 +36,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/musicalizacao/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/musicalizacao/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">
@@ -50,7 +50,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/piscina/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/piscina/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Piscina</h3>

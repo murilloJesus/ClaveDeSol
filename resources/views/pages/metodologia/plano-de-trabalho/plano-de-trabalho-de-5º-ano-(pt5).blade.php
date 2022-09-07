@@ -3,7 +3,7 @@
 <article id="content">
 
 								@section('title')
-										 Plano de Trabalho de 5º ano (PT5) 
+										 Plano de Trabalho de 5º ano (PT5)
 								@endsection
 								<p>
 									 Objetivo:Estimular os alunos a terem autonomia na escrita, na leitura e desenvolver atividades que promovam a estruturação da alfabetização como um todo.
@@ -184,7 +184,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-4º-ano-(pt4)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de 4º ano (PT4)</h3>
@@ -198,7 +198,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-5º-ano-aceleracao-(pt5a)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 							<header>
 									<h3 align="center">Plano de Trabalho de 5º ano Aceleração (PT5A) </h3>
@@ -212,7 +212,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-socializacao-(pts)/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de Trabalho de Socialização (PTS)</h3>

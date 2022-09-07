@@ -3,7 +3,7 @@
 <article id="content">
 
 								@section('title') Plano de trabalho psicologia escolar 2021 <br />
-									Estruturação Possibilidades e Habilidades Sociais 
+									Estruturação Possibilidades e Habilidades Sociais
 								@endsection
 
 								<h3>Justificativa</h3>
@@ -116,7 +116,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/fonoaudiologia/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Fonoaudiologia escolar - 2021</h3>
@@ -130,7 +130,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/psicopedagogia-institucional/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Plano de trabalho de psicopedagogia educacional - 2021</h3>
@@ -144,7 +144,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/plano-terapeutico/terapia-ocupacional/" class="image featured"><img src="/assets/css/images/meet.png" alt="" /></a>
+									<a href="/metodologia/plano-terapeutico/terapia-ocupacional/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Terapia ocupacional educacional - 2021</h3>

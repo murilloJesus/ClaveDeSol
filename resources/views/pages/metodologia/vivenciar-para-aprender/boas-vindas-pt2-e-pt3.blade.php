@@ -86,7 +86,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/boas-vindas-acao-e-organizacao/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Boas Vindas: Ação E Organização PTS E PT1</h3>
@@ -98,7 +98,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/boas-vindas-paz-a-gente-que-faz-pt 4-ept5/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">Boas vindas: paz a gente que faz - PT 4 e PT5 </h3>
@@ -112,7 +112,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="image featured"><img src="/assets/css/images/books.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/o-outro-quem-tem-um-amigo-tem-um-tesouro-pts-e-pt1/" class="image featured"><img src="/public/assets/css/images/books.png" alt="" /></a>
 								</div>
 								<header>
 									<h3 align="center">O outro: Quem tem um amigo tem um tesouro </h3>

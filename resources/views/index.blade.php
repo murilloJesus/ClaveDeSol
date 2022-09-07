@@ -10,7 +10,7 @@
 		<title>Telephasic by HTML5 UP</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="/public/assets/css/main.css" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap" rel="stylesheet">
 	</head>
@@ -74,7 +74,7 @@
 						<div class="row">
 							<section class="col-6 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured first"><img src="/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
+									<a href="#" class="image featured first"><img src="/public/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
 								</div>
 								<header>
 									<h2>Vivenciar para Aprender</h2>
@@ -88,7 +88,7 @@
 							</section>
 							<section class="col-6 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="/assets/css/images/plano-de-trabalho.png" alt="" /></a>
+									<a href="#" class="image featured"><img src="/public/assets/css/images/plano-de-trabalho.png" alt="" /></a>
 								</div>
 								<header>
 									<h2>Plano de Trabalho</h2>
@@ -122,7 +122,7 @@
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
-									<a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+									<a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
 								</div>
 								<p align="center">
 									As atividades que envolvem corpo e movimento favorecer o desenvolvimento global, que introduz e integra o aluno na cultura corporal de movimento e de uma forma...
@@ -133,7 +133,7 @@
 							</section>
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="/assets/css/images/piscina.png" alt="" /></a>
+									<a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
 								</div>
 								<p align="center">
 									A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais...
@@ -207,13 +207,13 @@
 		</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-			<script src="assets/js/lgpd.js"></script>
+			<script src="/public/assets/js/jquery.min.js"></script>
+			<script src="/public/assets/js/jquery.dropotron.min.js"></script>
+			<script src="/public/assets/js/browser.min.js"></script>
+			<script src="/public/assets/js/breakpoints.min.js"></script>
+			<script src="/public/assets/js/util.js"></script>
+			<script src="/public/assets/js/main.js"></script>
+			<script src="/public/assets/js/lgpd.js"></script>
 
 	</body>
 </html>
