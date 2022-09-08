@@ -22,4 +22,3 @@
         </div>
     </div>
 </div>
-<a href="#" class="image featured"><img src="/public/assets/css/images/piscina.png" alt="" /></a>
