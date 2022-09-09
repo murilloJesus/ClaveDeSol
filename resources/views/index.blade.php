@@ -1,13 +1,9 @@
 
 <!DOCTYPE HTML>
-<!--
-	Telephasic by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 	<head>
-		<title>Telephasic by HTML5 UP</title>
+		<title>Clave de Sol</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/public/assets/css/main.css" />
@@ -83,12 +79,12 @@
 									Essa metodologia, que renova completamente o Ensino desse Instituto, visa favorecertodos os alunos a vivência do ensino na prática, antes da assimilação concreta (registro), de todo trabalho pedagógico.
 								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Veja Mais</a></li>
+									<li><a href="/metodologia/vivenciar-para-aprender/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-6 col-12-narrower feature">
 								<div class="image-wrapper">
-									<a href="#" class="image featured"><img src="/public/assets/css/images/plano-de-trabalho.png" alt="" /></a>
+									<a href="/metodologia/vivenciar-para-aprender/" class="image featured"><img src="/public/assets/css/images/plano-de-trabalho.png" alt="" /></a>
 								</div>
 								<header>
 									<h2>Plano de Trabalho</h2>
