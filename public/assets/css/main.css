@@ -94,7 +94,7 @@
 			font-weight: 300;
 			color: #0f1423;
 			line-height: 1.75em;
-			font-size: 14pt;
+			font-size: 14pt; 
 		}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
