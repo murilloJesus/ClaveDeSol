@@ -24,7 +24,17 @@
 jovens e adultos  experienciar momentos com troca de vivências e oportunidade de adquirir 
 direcionamentos para melhor desempenho e 
 habilidades sociais, como assuntos relacionados a: prevenção contra as drogas, processo de luto, sexualidade, ingresso no mercado de trabalho, exercício da cidadania, superação das dificuldades em geral...</p>
+
+
 <a href="/public/assets/css/images/img-hora.jpg" class="img-txt-a"><img src="/public/assets/css/images/img-hora.jpg" alt="" /></a>			
+
+<p>O grupo foi criado para ofertar aos mesmos 
+momentos de descontração, interação e 
+acolhimento, devido as dificuldades que estes 
+jovens enfrentam em seu cotidiano, guiados por uma neuropsicopedagoga 
+🗣️Este  acontece todas as quartas-feiras no horário das 16h  no Instituto de Educação Especial Clave de Sol.
+Participem!</p>
+
 </article>
 
 
