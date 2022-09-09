@@ -21,7 +21,7 @@
 								</header>
 								<a href="/public/assets/css/images/img-ore.jpg" class="img-txt"><img src="/public/assets/css/images/img-ore.jpg" alt="" /></a>
 								
-								<p>O Projeto tem o objetivo de escuta, acolhimento e oração🙏, independente de  religião, crença ou qualquer outra denominação.
+								<p>O Projeto tem o objetivo de escuta, acolhimento e oração, independente de  religião, crença ou qualquer outra denominação.
 Os atendimentos são agendados previamente na secretaria do Instituto e tem a duração de até 1 hora.
 Se precisar, estaremos aqui!</p>
 							</article>

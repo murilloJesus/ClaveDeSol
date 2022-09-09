@@ -4,15 +4,48 @@
 						<article id="content">
 
 								@section('title')
-									<h2 align="center">Piscina</h2>
+									<h2 align="center">Ore Comigo</h2>
 								@endsection
-								<p>
-									A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço de interação social com os profissionais e entre os próprios alunos.
+				</div>
 
-								<br>
-									Para participar é necessário a autorização dos pais, são utilizados boias e acompanhamento dos profissionais. A piscina além de ser uma das alternativas de apoio ao trabalho proposto pela Unidade Recanto, é também vista pelos alunos como um momento de lazer e diversão.
-								</br>
-								</p>
+			
+			<!-- Main -->
+			<div class="wrapper">
+					<div class="container" id="main">
+
+						<!-- Content -->
+							<article id="content">
+								<header>
+									<p class="txt-ore-hora" >O projeto  ore comigo está  disponível toda quinta-feira 
+									Para todos os interessados seja criança, jovem  ou adulto.</p>
+								</header>
+								<a href="/public/assets/css/images/img-ore.jpg" class="img-txt"><img src="/public/assets/css/images/img-ore.jpg" alt="" /></a>
+								
+								<p>O Projeto tem o objetivo de escuta, acolhimento e oração, independente de  religião, crença ou qualquer outra denominação.
+Os atendimentos são agendados previamente na secretaria do Instituto e tem a duração de até 1 hora.
+Se precisar, estaremos aqui!</p>
+							</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 							</article>
 
