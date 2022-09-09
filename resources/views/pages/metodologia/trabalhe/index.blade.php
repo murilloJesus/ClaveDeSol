@@ -44,7 +44,7 @@
                                 <div class="actions">
                                     <input type="submit" value="Enviar">
                                 </div>
-                            </div>
+                            </div> .
 
                         </div>
                     </form>
