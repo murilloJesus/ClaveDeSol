@@ -20,23 +20,10 @@
 									Para todos os interessados seja criança, jovem  ou adulto.</p>
 								</header>
 								<a href="/public/assets/css/images/img-ore.jpg" class="img-txt"><img src="/public/assets/css/images/img-ore.jpg" alt="" /></a>
-								<p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-								mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-								condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-								ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-								eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-								turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-								Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-								<p>Mauris eleifend eleifend felis aliquet ornare. Vestibulum porta velit at elementum
-								gravida nibh eget, volutpat odio. Proin rhoncus, sapien
-								mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
-								condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
-								ante non est. Nullam vitae feugiat libero, eu consequat sem. Proin tincidunt neque
-								eros. Duis faucibus blandit ligula, mollis commodo risus sodales at. Sed rutrum et
-								turpis vel blandit. Nullam ornare congue massa, at commodo nunc venenatis varius.
-								Praesent mollis nisi at vestibulum aliquet. Sed sagittis congue urna ac consectetur.</p>
-								<p>Vestibulum pellentesque posuere lorem non aliquam. Mauris eleifend eleifend
-								felis aliquet ornare. Vestibulum porta velit at elementum elementum.</p>
+								
+								<p>O Projeto tem o objetivo de escuta, acolhimento e oração🙏, independente de  religião, crença ou qualquer outra denominação.
+Os atendimentos são agendados previamente na secretaria do Instituto e tem a duração de até 1 hora.
+Se precisar, estaremos aqui!</p>
 							</article>
 
 
