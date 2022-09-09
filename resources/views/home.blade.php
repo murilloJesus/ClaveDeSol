@@ -17,12 +17,12 @@
                                 Essa metodologia, que renova completamente o Ensino desse Instituto, visa favorecertodos os alunos a vivência do ensino na prática, antes da assimilação concreta (registro), de todo trabalho pedagógico.
                             </p>
                             <ul class="actions">
-                                <li><a href="#" class="button">Veja Mais</a></li>
+                                <li><a href="/metodologia/vivenciar-para-aprender/" class="button">Veja Mais</a></li>
                             </ul>
                         </section>
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper">
-                                <a href="#" class="image featured"><img src="/public/assets/css/images/plano-de-trabalho.png" alt="" /></a>
+                                <a href="/metodologia/vivenciar-para-aprender/" class="image featured"><img src="/public/assets/css/images/plano-de-trabalho.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Plano de Trabalho</h2>
