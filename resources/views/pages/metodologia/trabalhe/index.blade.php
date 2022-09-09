@@ -33,11 +33,7 @@
                             </div>
                             <div class="field col-6 col-12-medium">
                                 <label for="reason">Motivo do contato</label>
-                                <select name="reason" id="reason">
-                                    <option value="selecione">Selecione..</option>
-                                    <option value="Dúvidas">Dúvidas</option>
-                                    <option value="Outros">Encaminhamento de Curriculo</option>
-                                </select>
+                                <input type="text" name="motivo" id="motivo" placeholder="faça uma Breve Descrição sobre você">
                             </div>
                             <div class="field col-6 col-12-medium"> 
                                 <label for="arquivo" >Encaminhar Curriculo</label>
