@@ -22,7 +22,7 @@
                     <div class="row">
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured first"><img src="/public/assets/css/images/books.png" alt="" /></a>
+                                <a href="/metodologia/vivenciar-para-aprender/" class="image featured first"><img src="/public/assets/css/images/books.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Vivenciar para Aprender</h2>
@@ -36,7 +36,7 @@
                         </section>
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
+                                <a href="/metodologia/plano-de-trabalho/" class="image featured"><img src="/public/assets/css/images/meet.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Plano de Trabalho</h2>
