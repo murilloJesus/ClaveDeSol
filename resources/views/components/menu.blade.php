@@ -36,7 +36,7 @@
                         <ul>
                         <li><a href="#">Projetos</a>
                             <ul>
-                                <li><a href="/metodologia/piscina">Ore Comigo</a></li>
+                                <li><a href="/metodologia/ore">Ore Comigo</a></li>
                                 <li><a href="/metodologia/piscina">Hora Marcada</a></li>
                             </ul>                      
                     </li>
