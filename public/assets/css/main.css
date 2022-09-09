@@ -3404,3 +3404,9 @@ text-align: center;
 .icons-modal {
 	width: 25px;
 }
+
+.img-fundo {
+	background-image: src="https://wallpapercave.com/wp/wp4390284.jpg" ;
+	background-position: center;
+	background-attachment: fixed;
+}

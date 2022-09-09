@@ -55,7 +55,7 @@
 
         <!-- Promo -->
         <div id="promo-wrapper">
-            <section id="promo">
+            <section id="promo" class="img-fundo" >
            
                 <h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
                 <button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Doe com Carinho</a>
