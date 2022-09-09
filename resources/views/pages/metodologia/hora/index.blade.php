@@ -18,7 +18,7 @@
 								<header>
 									<p class="txt-ore-hora" >Você sabe o que é o nosso Grupo terapêutico?</p>
 								</header>
-								<a href="/public/assets/css/images/img-hora-a.jpg" class="img-txt-a"><img src="/public/assets/css/images/img-hora.jpg" alt="" /></a>
+								<a href="/public/assets/css/images/img-horaa.jpg" class="img-txt-a"><img src="/public/assets/css/images/img-horaa.jpg" alt="" /></a>
 								
 								<p>É um grupo que oferece a oportunidade a 
 jovens e adultos  experienciar momentos com troca de vivências e oportunidade de adquirir 
