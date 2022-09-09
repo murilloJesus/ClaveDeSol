@@ -1,20 +1,13 @@
-<!DOCTYPE HTML>
-<!--
-	Telephasic by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Telephasic by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-	<body class="right-sidebar is-preload">
-		<div id="page-wrapper">
+@extends('layouts.front-mixed')
+@section('content')
 
-			<!-- Header -->
+						<article id="content">
+
+								@section('title')
+									<h2 align="center">Ore Comigo</h2>
+								@endsection
+								
+							<!-- Header -->
 				<div id="header-wrapper">
 					<div id="header" class="container">
 
@@ -114,20 +107,42 @@
 										</section>
 									</section>
 
-							</div>
-						</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							</article>
+
 						<div class="row features">
 							<section class="col-4 col-12-narrower feature">
 								<div class="image-wrapper first">
 									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3>Dolor sit consequat magna</h3>
+									<h3 align="center">
+										Projeto de musicalização (Educador) A Música como Aliada no Desenvolvimento
+									</h3>
 								</header>
-								<p>Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur
-								vel sem sit dolor neque semper magna lorem ipsum.</p>
+								<p align="justify">O Instituto visa a experiência dos alunos com a música de forma a englobar aspectos ainda não adquiridos ou até mesmo aprimorar os </p>
 								<ul class="actions">
-									<li><a href="#" class="button">Elevate my awareness</a></li>
+									<li><a href="/metodologia/musicalizacao/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -135,12 +150,13 @@
 									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3>Dolor sit consequat magna</h3>
+									<h3 align="center">Plano de Trabalho de Oficina (PTO) </h3>
 								</header>
-								<p>Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur
-								vel sem sit dolor neque semper magna lorem ipsum.</p>
+								<p align="justify">
+									Objetivo esse plano foi desenvolvido para alunos que precisam de autonomia e independência em seus afazeres, que possam ter uma
+								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Elevate my awareness</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-oficina-(pto)/" class="button">Veja Mais</a></li>
 								</ul>
 							</section>
 							<section class="col-4 col-12-narrower feature">
@@ -148,80 +164,17 @@
 									<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
 								</div>
 								<header>
-									<h3>Dolor sit consequat magna</h3>
+									<h3 align="center">Plano de Trabalho de 1º ano (PT1) </h3>
 								</header>
-								<p>Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur
-								vel sem sit dolor neque semper magna lorem ipsum.</p>
+								<p align="justify">
+									OBJETIVO:Esse Plano de Trabalho foi desenvolvido para alunos que precisam adquirir uma reorganização pessoal, aceitar regras, limites,
+								</p>
 								<ul class="actions">
-									<li><a href="#" class="button">Elevate my awareness</a></li>
+									<li><a href="/metodologia/plano-de-trabalho/plano-de-trabalho-de-1º-ano-(pt1)/" class="button">Próxima Pagina</a></li>
 								</ul>
 							</section>
 						</div>
 					</div>
 				</div>
 
-			<!-- Footer -->
-				<div id="footer-wrapper">
-					<div id="footer" class="container">
-						<header class="major">
-							<h2>Euismod aliquam vehicula lorem</h2>
-							<p>Lorem ipsum dolor sit amet consectetur et sed adipiscing elit. Curabitur vel sem sit<br />
-							dolor neque semper magna lorem ipsum feugiat veroeros lorem ipsum dolore.</p>
-						</header>
-						<div class="row">
-							<section class="col-6 col-12-narrower">
-								<form method="post" action="#">
-									<div class="row gtr-50">
-										<div class="col-6 col-12-mobile">
-											<input name="name" placeholder="Name" type="text" />
-										</div>
-										<div class="col-6 col-12-mobile">
-											<input name="email" placeholder="Email" type="text" />
-										</div>
-										<div class="col-12">
-											<textarea name="message" placeholder="Message"></textarea>
-										</div>
-										<div class="col-12">
-											<ul class="actions">
-												<li><input type="submit" value="Send Message" /></li>
-												<li><input type="reset" value="Clear form" /></li>
-											</ul>
-										</div>
-									</div>
-								</form>
-							</section>
-							<section class="col-6 col-12-narrower">
-								<div class="row gtr-0">
-									<ul class="divided icons col-6 col-12-mobile">
-										<li class="icon brands fa-twitter"><a href="#"><span class="extra">twitter.com/</span>untitled</a></li>
-										<li class="icon brands fa-facebook-f"><a href="#"><span class="extra">facebook.com/</span>untitled</a></li>
-										<li class="icon brands fa-dribbble"><a href="#"><span class="extra">dribbble.com/</span>untitled</a></li>
-									</ul>
-									<ul class="divided icons col-6 col-12-mobile">
-										<li class="icon brands fa-instagram"><a href="#"><span class="extra">instagram.com/</span>untitled</a></li>
-										<li class="icon brands fa-youtube"><a href="#"><span class="extra">youtube.com/</span>untitled</a></li>
-										<li class="icon brands fa-pinterest"><a href="#"><span class="extra">pinterest.com/</span>untitled</a></li>
-									</ul>
-								</div>
-							</section>
-						</div>
-					</div>
-					<div id="copyright" class="container">
-						<ul class="menu">
-							<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-						</ul>
-					</div>
-				</div>
-
-		</div>
-
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+@endsection
