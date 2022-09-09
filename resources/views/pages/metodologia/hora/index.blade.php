@@ -32,7 +32,7 @@ habilidades sociais, como assuntos relacionados a: prevenção contra as drogas,
 momentos de descontração, interação e 
 acolhimento, devido as dificuldades que estes 
 jovens enfrentam em seu cotidiano, guiados por uma neuropsicopedagoga 
-🗣️Este  acontece todas as quartas-feiras no horário das 16h  no Instituto de Educação Especial Clave de Sol.
+Este  acontece todas as quartas-feiras no horário das 16h  no Instituto de Educação Especial Clave de Sol.
 Participem!</p>
 
 </article>
