@@ -3411,3 +3411,15 @@ text-align: center;
 	background-position: center !important;
 	background-attachment: fixed !important;
 }
+
+.lgpd {
+	position: fixed;
+	left: 20px;
+	right: 20px;
+	bottom: 20px;
+	padding: 15px;
+	background-color: #f1f1f1;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	z-index: 999;
