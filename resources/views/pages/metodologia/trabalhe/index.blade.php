@@ -32,7 +32,7 @@
                                 <input type="text" name="phone" id="phone" placeholder="Telefone">
                             </div>
                             <div class="field col-6 col-12-medium">
-                                <label for="reason">Motivo do contato</label>
+                                <label for="reason">Descrição</label>
                                 <input type="text" name="motivo" id="motivo" placeholder="faça uma Breve Descrição sobre você">
                             </div>
                             <div class="field col-6 col-12-medium"> 
