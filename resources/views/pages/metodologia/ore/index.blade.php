@@ -19,7 +19,7 @@
 									<p class="txt-ore-hora" >O projeto  ore comigo está  disponível toda quinta-feira 
 									Para todos os interessados seja criança, jovem  ou adulto.</p>
 								</header>
-								<a href="/public/assets/css/images/img-ore.jpg" class="image featured"><img class="img-txt" src="/public/assets/css/images/img-ore.jpg" alt="" /></a>
+								<a href="/public/assets/css/images/img-ore.jpg" class="img-txt"><img src="/public/assets/css/images/img-ore.jpg" alt="" /></a>
 								<p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien
 								mollis luctus hendrerit, orci dui viverra metus, et cursus nulla mi sed elit. Vestibulum
 								condimentum, mauris a mattis vestibulum, urna mauris cursus lorem, eu fringilla lacus
