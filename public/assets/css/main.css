@@ -3429,3 +3429,13 @@ border-radius: 10px;
  .lgpd-left {
 	margin-right: 15px;
  }
+
+ .txt-ore-hora {
+	text-align: center;
+ }
+
+ .img-txt {
+	display: block;
+width: 100%;
+height: 500px;
+ }
