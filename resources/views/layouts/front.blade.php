@@ -10,6 +10,7 @@
 		<link rel="stylesheet" href="/public/assets/css/main.css" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap" rel="stylesheet">
+		<script src="/public/assets/js/lgpd.js"></script>
 	</head>
 	<body class="homepage is-preload">
 		<div id="page-wrapper">

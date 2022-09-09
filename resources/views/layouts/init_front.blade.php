@@ -61,6 +61,7 @@
             <script src="/public/assets/js/breakpoints.min.js"></script>
             <script src="/public/assets/js/util.js"></script>
             <script src="/public/assets/js/main.js"></script>
+			<script src="/public/assets/js/lgpd.js"></script>
 
 	</body>
 </html>
