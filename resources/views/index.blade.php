@@ -103,6 +103,7 @@
 			<!-- Promo -->
 				<div id="promo-wrapper">
 					<section id="promo">
+					<img src="https://wallpapercave.com/wp/wp4390284.jpg" alt="">
 						<h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
 						<a href="#" class="button">Doe com Carinho</a>
 					</section>
