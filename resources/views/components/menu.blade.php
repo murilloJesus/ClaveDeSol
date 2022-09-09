@@ -34,6 +34,12 @@
 
                     <li class="break"><a href="#">Mural</a>
                         <ul>
+                        <li><a href="#">Projetos</a>
+                    <ul>
+                        <li>Ore Comigo</li>
+                        <li>Hora marcada</li>
+                    </ul>
+                    </li>
                             <li><a href="/metodologia/comunicados/comunicados/">Comunicados</a></li>
                             <li><a href="/metodologia/depoimentos/depoimentos">Depoimentos</a></li>
                             <li><a href="/metodologia/calendario/calendario-escolar">Calendário do Ano</a></li>
