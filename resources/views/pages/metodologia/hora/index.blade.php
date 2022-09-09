@@ -4,7 +4,7 @@
 						<article id="content">
 
 								@section('title')
-									<h2 align="center">Ore Comigo</h2>
+									<h2 align="center">Hora Marcada</h2>
 								@endsection
 				</div>
 
@@ -16,10 +16,9 @@
 						<!-- Content -->
 							<article id="content">
 								<header>
-									<p class="txt-ore-hora" >O projeto  ore comigo está  disponível toda quinta-feira 
-									Para todos os interessados seja criança, jovem  ou adulto.</p>
+									<p class="txt-ore-hora" >Você sabe o que é o nosso Grupo terapêutico?</p>
 								</header>
-								<a href="/public/assets/css/images/img-ore.jpg" class="img-txt"><img src="/public/assets/css/images/img-ore.jpg" alt="" /></a>
+								<a href="/public/assets/css/images/img-hora.jpg" class="img-txt"><img src="/public/assets/css/images/img-hora.jpg" alt="" /></a>
 								
 								<p>O Projeto tem o objetivo de escuta, acolhimento e oração, independente de  religião, crença ou qualquer outra denominação.
 Os atendimentos são agendados previamente na secretaria do Instituto e tem a duração de até 1 hora.
