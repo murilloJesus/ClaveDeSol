@@ -8,7 +8,7 @@
                     <div class="row">
                         <section class="col-6 col-12-narrower feature">
                             <div class="image-wrapper first">
-                                <a href="#" class="image featured first"><img src="/public/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
+                                <a href="/metodologia/vivenciar-para-aprender/" class="image featured first"><img src="/public/assets/css/images/vivenciar-para-aprender.png" alt="" /></a>
                             </div>
                             <header>
                                 <h2>Vivenciar para Aprender</h2>
