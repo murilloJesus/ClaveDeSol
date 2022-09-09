@@ -18,12 +18,14 @@
 								<header>
 									<p class="txt-ore-hora" >Você sabe o que é o nosso Grupo terapêutico?</p>
 								</header>
-								<a href="/public/assets/css/images/img-hora.jpg" class="img-txt"><img src="/public/assets/css/images/img-hora.jpg" alt="" /></a>
+								<a href="/public/assets/css/images/img-hora-a.jpg" class="img-txt-a"><img src="/public/assets/css/images/img-hora.jpg" alt="" /></a>
 								
-								<p>O Projeto tem o objetivo de escuta, acolhimento e oração, independente de  religião, crença ou qualquer outra denominação.
-Os atendimentos são agendados previamente na secretaria do Instituto e tem a duração de até 1 hora.
-Se precisar, estaremos aqui!</p>
-							</article>
+								<p>É um grupo que oferece a oportunidade a 
+jovens e adultos  experienciar momentos com troca de vivências e oportunidade de adquirir 
+direcionamentos para melhor desempenho e 
+habilidades sociais, como assuntos relacionados a: prevenção contra as drogas, processo de luto, sexualidade, ingresso no mercado de trabalho, exercício da cidadania, superação das dificuldades em geral...</p>
+<a href="/public/assets/css/images/img-hora.jpg" class="img-txt-a"><img src="/public/assets/css/images/img-hora.jpg" alt="" /></a>			
+</article>
 
 
 
