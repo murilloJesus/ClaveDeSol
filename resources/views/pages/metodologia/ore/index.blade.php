@@ -16,9 +16,8 @@
 						<!-- Content -->
 							<article id="content">
 								<header>
-									<h2>No Sidebar</h2>
-									<p>Lorem ipsum dolor sit amet consectetur et sed adipiscing elit
-									dolor neque semper.</p>
+									<p>LO projeto  ore comigo está  disponível toda quinta-feira <br /> 
+									Para todos os interessados seja criança, jovem  ou adulto.</p>
 								</header>
 								<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
 								<p>Ut sed tortor luctus, gravida nibh eget, volutpat odio. Proin rhoncus, sapien
