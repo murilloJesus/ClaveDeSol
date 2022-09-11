@@ -1,28 +1,25 @@
 let lgpdhtml = `
 <div class="hold-lgpd">
     <div class="lgpd">
-        <div class="lgpd-left">
-            <p>Nós armazenamos dados temporariamente para melhorar a sua experiência de navegação. <br /> Ao utilizar nossos serviços, você concorda com tal observação.
-                <a href="https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd" target="_blank">Saiba mais aqui</a>
-            </p>
-        </div>
-        <div class="lgpd-right">
-            <button>Aceito os Cookies</button>
-        </div>
+        <p>Nós armazenamos dados para melhorar a sua experiência de navegação. Ao utilizar nossos serviços, você concorda com o uso de cookies? 🍪
+            <a href="https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd" target="_blank">Saiba mais aqui</a>
+        </p>
+        <button id="lgpdAccept">Aceito os Cookies</button>
     </div>
-</div>
-<link rel="stylesheet" href="/public/assets-home/css/lgpd.css">
-`;
+</div>`;
 
-let lscontent = localStorage.getItem('lgpd');
-if (!lscontent) {
-    document.body.innerHTML += lgpdhtml;
+//coloquei a função inteira dentro do Jquery para ela só iniciar ao final da leitura do DOM
+//alterei a função para jquery (velocidade e praticidade)
+//resolve o problema com o menu
+$(function(){
+    let lscontent = localStorage.getItem('lgpd');
 
-    let lgpdArea = document.querySelector('.lgpd');
-    let lgpdbutton = lgpdArea.querySelector('button');
+    if (!lscontent) {
+        $('body').append(lgpdhtml);
 
-    lgpdbutton.addEventListener('click', () => {
-        lgpdArea.remove();
-        localStorage.setItem('lgpd', 'Preenchido')
-    });
-}
+        $("#lgpdAccept").on('click', () => {
+           $('.hold-lgpd').remove();
+            localStorage.setItem('lgpd', 'Preenchido')
+        })
+    }
+})
