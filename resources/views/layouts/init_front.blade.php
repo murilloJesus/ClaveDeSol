@@ -24,29 +24,7 @@
 
 
 			<!-- Footer -->
-				<div id="footer-wrapper">
-					<div id="footer" class="container">
-						<header class="major">
-							<h2>Instituto de Educação Especial Clave de Sol</h2>
-						</header>
-
-							<p id="d"> Contate-nos</p>
-							<div class="tam-footer">
-									<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiK-tre6tr3AhXNjZUCHdHMB5wQFnoECBQQAQ&url=https%3A%2F%2Fpt-br.facebook.com%2FInstitutoClaveDeSol%2F&usg=AOvVaw0eNszAR5MRrietS-2OzQ1Y" target="blank"><img id="footer-img" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png" alt="Icone Facebook"></a>
-									<a href="https://www.instagram.com/clavedesolfmk/"><img id="footer-img" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Icone Instagram "> </a>
-
-									<a href="https://api.whatsapp.com/send?phone=5515998394579&text=Ol%C3%A1%20Boa%20tarde"><img id="footer-img" src="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone.png" alt="Icone Whatsapp "> </a>
-									<p id="c"> Nossa metodologia renova completamente o Ensino <br>      visando favorecer a todos os alunos a vivênciar do ensino na prática</p>
-							</div>
-
-					</div>
-
-					<div id="copyright" class="container">
-						<ul class="menu">
-							<li>&copy; Clave de Sol. Todos os direitos reservados.</li><li>Site por Star Escola</li>
-						</ul>
-					</div>
-				</div>
+				<x-footer></x-footer>
 
 
 

@@ -7,8 +7,8 @@
             <h2>Instituto de Educação Especial
             <br /> Clave de Sol </h2>
         </header>
-        <p id="a">Contamos com Vocês para podermos continuar cuidando
-        <br /> de nossas Pequenas Estrelas</p>
+        <p id="a">Contamos com vocês para continuar garantindo educação aos nosso alunos.</p>
+        <h3>#<b class="clave-color-secundary">ClaveDeSol</b>nãoPodeParar</h3>
         <ul class="actions">
             <li><a href="#" class="button" data-toggle="modal" data-target="#exampleModal">Faça sua Doação</a></li>
         </ul>
@@ -56,7 +56,7 @@
         <!-- Promo -->
         <div id="promo-wrapper" class="img-fundo">
             <section id="promo" >
-           
+
                 <h2>Doação é amor: preenche o coração de quem dá e de quem recebe. </h2>
                 <button type="button" class="button" data-toggle="modal" data-target="#exampleModal">Doe com Carinho</a>
             </section>

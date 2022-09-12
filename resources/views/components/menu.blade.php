@@ -30,7 +30,7 @@
                             </li>
 
                         </ul>
-                    </li> 
+                    </li>
 
                     <li class="break"><a href="#">Mural</a>
                         <ul>
@@ -38,7 +38,7 @@
                             <ul>
                                 <li><a href="/metodologia/ore">Ore Comigo</a></li>
                                 <li><a href="/metodologia/hora">Hora Marcada</a></li>
-                            </ul>                      
+                            </ul>
                     </li>
                             <li><a href="/metodologia/comunicados/comunicados/">Comunicados</a></li>
                             <li><a href="/metodologia/depoimentos/depoimentos">Depoimentos</a></li>

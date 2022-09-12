@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
+@import url("colors.css");
 
 /*
 	Telephasic by HTML5 UP
@@ -89,10 +90,10 @@
 		}
 
 		body {
-			background: #3d5afe;
+			background: var(--primary);
 			font-family: 'Cabin Sketch', cursive;
 			font-weight: 300;
-			color: #0f1423;
+			color: #000;
 			line-height: 1.75em;
 			font-size: 14pt;
 		}
@@ -111,7 +112,7 @@
 		input, textarea, select {
 			font-family: 'Source Sans Pro', sans-serif;
 			font-weight: 300;
-			color: #363636;
+			color: #181737;
 			line-height: 1.75em;
 			font-size: 15pt;
 			background-color: #ffab00;
@@ -119,7 +120,7 @@
 
 		h1, h2, h3, h4, h5, h6 {
 			font-weight: 300;
-			color: #040d1c;
+			color: #181737;
 		}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -154,7 +155,7 @@
 
 		strong, b {
 			font-weight: 400;
-			color: #0f1423;
+			color: #181737;
 		}
 
 		em, i {
@@ -175,7 +176,7 @@
 
 		hr {
 			border: 0;
-			border-top: solid 1px #0f1423;
+			border-top: solid 1px #181737;
 		}
 
 		blockquote {
@@ -223,7 +224,7 @@
 
 		header > p {
 			display: block;
-			color: #0f1423;
+			color: #181737;
 			padding: 0.75em 0 1em 0;
 			font-size: 1.5em;
 			line-height: 1.5em;
@@ -1767,8 +1768,8 @@
 
 		.image img {
 			display: block;
-			width: 100%;
 			height: 200px;
+            margin: auto;
 		}
 
 		.image.fit {
@@ -1876,7 +1877,7 @@
 
 		ul.icons li:before {
 			display: inline-block;
-			color: #ffcba7;
+			color: var(--secundary);
 			background: none;
 			width: 2.5em;
 			height: 2.5em;
@@ -1884,6 +1885,7 @@
 			text-align: center;
 			line-height: 2.5em;
 			margin-right: 0.75em;
+            font-size: 1.5em;
 		}
 
 		/* Menu */
@@ -2121,7 +2123,7 @@
 		color: #fff;
 		text-align: center;
 		padding: 6em 0 6em 0;
-		background-image: url("https://wallpapercave.com/wp/wp4390284.jpg") !important ;
+		background-image: url("./images/banner-promo.png") !important ;
 		background-attachment: fixed !important;
         background-size: cover;
 	}
@@ -2188,10 +2190,9 @@
 	}
 
 	#nav > ul > li > span, #nav > ul > li > a {
-		color: #fff;
+		/* color: #fff; */
+        font-size: 1.4em;
 		text-decoration: none;
-
-
 		outline: 0;
 		border: 0;
 		border: solid 1px rgba(255, 255, 255, 0);
@@ -3093,7 +3094,8 @@
 	}
 
 	#header-wrapper {
-		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(to right bottom, #0031ca, #3646d8, #525ce5, #6a71f2, #8187ff);
+		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(to right bottom, #181737,
+         #8187ff);
 	}
 
 
@@ -3117,7 +3119,7 @@
 
 
 	#hero .button, #promo .button  {
-		background-color: #181737;;
+		background-color: var(--primary);;
 		border:none;
 		box-shadow: #181737 4px 4px 0px;
 		border-radius: 8px;
@@ -3353,18 +3355,15 @@
 		text-align: center;
 		border: 2PX solid #363636;
 		border-radius: 10px;
-
 	}
 
 	#titulo-noticia {
 		font-family: 'Cabin Sketch', cursive;
-
 	}
 
 	#conteudo {
 	display: flex;
-justify-content: center;
-
+    justify-content: center;
 	}
 
 
@@ -3376,12 +3375,12 @@ justify-content: center;
 
 /*DEPOIMENTOS*/
 
-.row > .col-3 {
+#depoimentos .row > .col-3 {
 	width: 25%;
-border: 2px solid;
-padding: 15px;
-margin: 10px;
-border-radius: 20px;
+    border: 2px solid;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 20px;
 }
 
 .text-depoimentos {
@@ -3390,8 +3389,8 @@ border-radius: 20px;
 
 .titulo-depoimentos {
 	margin: 0px 0px 10px;
-height: 2em;
-text-align: center;
+    height: 2em;
+    text-align: center;
 }
 
 .icons-modal {
@@ -3449,29 +3448,31 @@ text-align: center;
 
  .img-txt {
 	display: block;
-width: 100%;
-height: 500px;
-  margin-left: 15px;
-margin-left: 330px;
+    width: 100%;
+    height: 500px;
+    margin-left: 15px;
+    margin-left: 330px;
  }
 
  .img-txt-a {
 	display: block;
-width: 100%;
-height: 500px;
-margin-left: 130px;
+    width: 100%;
+    height: 500px;
+    margin-left: 130px;
  }
 
  .img-txt-b {
 	margin: 0px 0px 15px 180px;
  }
 
- img-txt-b {
+ /* img-txt-b {
 	display: block;
-width: 100%;
-height: 500px;
-margin-left: 130px;
- }
+    width: 100%;
+    height: 500px;
+    margin-left: 130px;
+ } */
+
+
 
  .holder-doacao{
     text-align: center;
@@ -3491,3 +3492,58 @@ margin-left: 130px;
     width: 80%;
     margin: 10px 10%;
   }
+
+  .map{
+    width: 80%;
+    height: 220px;
+    margin: 2em 10%;
+    background-image: url(./images/map.png);
+    background-size: 975px auto;
+    background-position: center;
+  }
+
+  #header-wrapper, #header-wrapper h2, #header-wrapper h3, #footer, #footer h2, #footer h3, #footer a, #copyright {
+    color: #fff !important;
+  }
+
+  .holder-map, .holder-map p {
+    text-align: center;
+  }
+
+  .holder-map h3 {
+    height: auto !important;
+  }
+
+  /* COLORS */
+
+ .clave-color-primary {
+    color: var(--primary) !important;
+ }
+
+ .clave-bgcolor-primary {
+    background-color: var(--primary) !important;
+ }
+
+ .clave-color-secundary {
+    color: var(--secundary) !important;
+ }
+
+ .clave-bgcolor-secundary {
+    background-color: var(--secundary) !important;
+ }
+
+ #nav > ul > li:nth-child(1) {
+    color: var(--rainbow-red);
+ }
+
+ #nav > ul > li:nth-child(2) {
+    color: var(--rainbow-yellow);
+ }
+
+ #nav > ul > li:nth-child(3) {
+    color: var(--rainbow-green);
+ }
+
+ #nav > ul > li:nth-child(4) {
+    color: var(--rainbow-blue);
+ }
