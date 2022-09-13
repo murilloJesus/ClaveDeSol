@@ -8,7 +8,7 @@
 			@endsection
 
 
-			<img src="/public/assets/css/images/meet.png" alt="Teste img" />
+			<img class="calendar" src="/public/assets/css/images/calendar.jpg" alt="Teste img" />
 
 			</article>
 
