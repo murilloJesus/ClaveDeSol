@@ -25,7 +25,7 @@
                 A piscina tem sido um espaço para os alunos se desenvolverem nas questões da autonomia, autoestima, coordenação motora e um espaço ...
             </p>
             <ul class="actions major">
-                <li><a href="/metodologia/piscina" class="button">Veja Mais</a></li>
+                <li><a href="/metodologia/piscin" class="button">Veja Mais</a></li>
             </ul>
         </section>
         <section class="col-4 col-12-narrower feature">
