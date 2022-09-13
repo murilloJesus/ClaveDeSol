@@ -3514,6 +3514,52 @@
     height: auto !important;
   }
 
+  p.img-ore-comigo {
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 18px;
+  }
+
+  img.img-ore-comigo {
+    margin: 0px 15%;
+    width: 70%;
+  }
+
+  .txt-ore-comigo {
+    font-size: 22px;
+  }
+
+  .txt-ore-comigo b {
+    font-weight: bolder;
+  }
+
+  p.img-hora-marcada {
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 18px;
+  }
+
+  img.img-hora-marcada {
+    margin: 0px 5% 1em 5%;
+    width: 90%;
+  }
+
+  .txt-hora-marcada {
+    font-size: 22px;
+  }
+
+
+
+
+  .txt-hora-marcada b {
+    font-weight: bolder;
+  }
+
+  .height-2em{
+    height: 2em !important;
+  }
+
+
   /* COLORS */
 
  .clave-color-primary {
