@@ -31,15 +31,14 @@
                                 <label for="phone" >Telefones</label>
                                 <input type="text" name="phone" id="phone" placeholder="Telefone">
                             </div>
-                            <div class="field col-6 col-12-medium">
-                                <label for="reason">Descrição</label>
-                                <input type="text" name="motivo" id="motivo" placeholder="faça uma Breve Descrição sobre você">
-                            </div>
                             <div class="field col-6 col-12-medium"> 
                                 <label for="arquivo" >Encaminhar Curriculo</label>
                                 <input type="file" name="curriculo" id="curriculo">
                             </div>
-
+                            <div class="field col-6 col-12-medium">
+                                <label for="reason">Faça uma Breve Descrição Sobre Você</label>
+                                <input type="text" name="motivo" id="motivo" placeholder="faça uma Breve Descrição Sobre Você">
+                            </div>
                             <div class="field col-12 col-12-medium"> 
                                 <div class="actions">
                                     <input type="submit" value="Enviar">

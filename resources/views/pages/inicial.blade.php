@@ -105,7 +105,7 @@
                                 Dar oportunidade, isso é fundamental para que nossos alunos tenham interesse e consigam adquirir a independência e autonomia que tanto desejamos! Primeiramente é importante.
                         </p>
                         <ul class="actions major">
-                            <li><a href="#" class="button">Veja Mais</a></li>
+                            <li><a href="/metodologia/vivenciar-para-aprender/Metodologia-de-Ensino-Pedagogico-do-Instituto-de-E" class="button">Veja Mais</a></li>
                         </ul>
                     </section>
                 </div>
